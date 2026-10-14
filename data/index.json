@@ -1,0 +1,12 @@
+{
+  "buku": "初級日本語 新装版",
+  "penerbit": "東京外国語大学 留学生日本語教育センター",
+  "pdf_offset": 1,
+  "bab": [
+    {"bab": 1, "judul": "どうぞ よろしく", "judul_id": "Senang berkenalan", "file": "data/bab1.json"},
+    {"bab": 2, "judul": "がっこう", "judul_id": "Sekolah", "file": "data/bab2.json"},
+    {"bab": 3, "judul": "りょう", "judul_id": "Asrama", "file": "data/bab3.json"},
+    {"bab": 4, "judul": "やすみの 日 (1)", "judul_id": "Hari libur (1)", "file": null}
+  ],
+  "total_bab": 28
+}

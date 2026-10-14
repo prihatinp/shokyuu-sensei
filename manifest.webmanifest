@@ -1,0 +1,16 @@
+{
+  "name": "Shokyuu Sensei",
+  "short_name": "Shokyuu Sensei",
+  "description": "Guru bahasa Jepang untuk buku 初級日本語",
+  "lang": "id",
+  "start_url": "./#/materi",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E9EEF1",
+  "theme_color": "#2B4470",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

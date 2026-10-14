@@ -1,0 +1,787 @@
+{
+ "bab": 2,
+ "judul": "がっこう",
+ "judul_id": "Sekolah",
+ "tema": "Menunjukkan tempat (ここ/そこ/あそこ), menanyakan harga dan jam, serta mendeskripsikan benda dengan kata sifat-i.",
+ "halaman_buku": [
+  8,
+  16
+ ],
+ "kotoba": [
+  {
+   "jp": "がっこう",
+   "kanji": "学校",
+   "arti": "sekolah",
+   "kat": "tempat"
+  },
+  {
+   "jp": "きょうしつ",
+   "kanji": "教室",
+   "arti": "ruang kelas",
+   "kat": "tempat"
+  },
+  {
+   "jp": "クラス",
+   "kanji": "",
+   "arti": "kelas (kelompok)",
+   "kat": "lainnya"
+  },
+  {
+   "jp": "しょくどう",
+   "kanji": "食堂",
+   "arti": "kantin, ruang makan",
+   "kat": "tempat"
+  },
+  {
+   "jp": "しょっけん",
+   "kanji": "食券",
+   "arti": "kupon makan",
+   "kat": "benda"
+  },
+  {
+   "jp": "パン",
+   "kanji": "",
+   "arti": "roti",
+   "kat": "makanan"
+  },
+  {
+   "jp": "ぎゅうにゅう",
+   "kanji": "牛乳",
+   "arti": "susu sapi",
+   "kat": "makanan"
+  },
+  {
+   "jp": "にわ",
+   "kanji": "庭",
+   "arti": "taman, halaman",
+   "kat": "tempat"
+  },
+  {
+   "jp": "たてもの",
+   "kanji": "建物",
+   "arti": "bangunan, gedung",
+   "kat": "tempat"
+  },
+  {
+   "jp": "りょう",
+   "kanji": "寮",
+   "arti": "asrama",
+   "kat": "tempat"
+  },
+  {
+   "jp": "びょういん",
+   "kanji": "病院",
+   "arti": "rumah sakit",
+   "kat": "tempat"
+  },
+  {
+   "jp": "じむしつ",
+   "kanji": "事務室",
+   "arti": "kantor administrasi",
+   "kat": "tempat"
+  },
+  {
+   "jp": "としょしつ",
+   "kanji": "図書室",
+   "arti": "ruang perpustakaan",
+   "kat": "tempat"
+  },
+  {
+   "jp": "トイレ",
+   "kanji": "",
+   "arti": "toilet",
+   "kat": "tempat"
+  },
+  {
+   "jp": "うち",
+   "kanji": "家",
+   "arti": "rumah",
+   "kat": "tempat"
+  },
+  {
+   "jp": "ジュース",
+   "kanji": "",
+   "arti": "jus",
+   "kat": "makanan"
+  },
+  {
+   "jp": "さかな",
+   "kanji": "魚",
+   "arti": "ikan",
+   "kat": "makanan"
+  },
+  {
+   "jp": "スープ",
+   "kanji": "",
+   "arti": "sup",
+   "kat": "makanan"
+  },
+  {
+   "jp": "レストラン",
+   "kanji": "",
+   "arti": "restoran",
+   "kat": "tempat"
+  },
+  {
+   "jp": "かみ",
+   "kanji": "紙",
+   "arti": "kertas",
+   "kat": "benda"
+  },
+  {
+   "jp": "やま",
+   "kanji": "山",
+   "arti": "gunung",
+   "kat": "tempat"
+  },
+  {
+   "jp": "たいいくかん",
+   "kanji": "体育館",
+   "arti": "gedung olahraga",
+   "kat": "tempat"
+  },
+  {
+   "jp": "ふじさん",
+   "kanji": "富士山",
+   "arti": "Gunung Fuji",
+   "kat": "tempat"
+  },
+  {
+   "jp": "いま",
+   "kanji": "今",
+   "arti": "sekarang",
+   "kat": "waktu"
+  },
+  {
+   "jp": "ここ",
+   "kanji": "",
+   "arti": "sini (dekat pembicara)",
+   "kat": "kata tunjuk"
+  },
+  {
+   "jp": "そこ",
+   "kanji": "",
+   "arti": "situ (dekat lawan bicara)",
+   "kat": "kata tunjuk"
+  },
+  {
+   "jp": "あそこ",
+   "kanji": "",
+   "arti": "sana (jauh)",
+   "kat": "kata tunjuk"
+  },
+  {
+   "jp": "どこ",
+   "kanji": "",
+   "arti": "di mana",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "どんな",
+   "kanji": "",
+   "arti": "seperti apa, bagaimana",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "いくら",
+   "kanji": "",
+   "arti": "berapa (harga)",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "なんじ",
+   "kanji": "何時",
+   "arti": "jam berapa",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "ちいさい",
+   "kanji": "小さい",
+   "arti": "kecil",
+   "kat": "sifat-i"
+  },
+  {
+   "jp": "おおきい",
+   "kanji": "大きい",
+   "arti": "besar",
+   "kat": "sifat-i"
+  },
+  {
+   "jp": "たかい",
+   "kanji": "高い",
+   "arti": "mahal; tinggi",
+   "kat": "sifat-i"
+  },
+  {
+   "jp": "やすい",
+   "kanji": "安い",
+   "arti": "murah",
+   "kat": "sifat-i"
+  },
+  {
+   "jp": "ひくい",
+   "kanji": "低い",
+   "arti": "rendah",
+   "kat": "sifat-i"
+  },
+  {
+   "jp": "あたらしい",
+   "kanji": "新しい",
+   "arti": "baru; segar",
+   "kat": "sifat-i"
+  },
+  {
+   "jp": "ふるい",
+   "kanji": "古い",
+   "arti": "lama, tua (benda)",
+   "kat": "sifat-i"
+  },
+  {
+   "jp": "くらい",
+   "kanji": "暗い",
+   "arti": "gelap",
+   "kat": "sifat-i"
+  },
+  {
+   "jp": "あかるい",
+   "kanji": "明るい",
+   "arti": "terang",
+   "kat": "sifat-i"
+  },
+  {
+   "jp": "しろい",
+   "kanji": "白い",
+   "arti": "putih",
+   "kat": "warna"
+  },
+  {
+   "jp": "くろい",
+   "kanji": "黒い",
+   "arti": "hitam",
+   "kat": "warna"
+  },
+  {
+   "jp": "あかい",
+   "kanji": "赤い",
+   "arti": "merah",
+   "kat": "warna"
+  },
+  {
+   "jp": "あおい",
+   "kanji": "青い",
+   "arti": "biru",
+   "kat": "warna"
+  },
+  {
+   "jp": "きいろい",
+   "kanji": "黄色い",
+   "arti": "kuning",
+   "kat": "warna"
+  },
+  {
+   "jp": "そして",
+   "kanji": "",
+   "arti": "dan, lalu (menyambung kalimat)",
+   "kat": "penghubung"
+  },
+  {
+   "jp": "おはよう ございます",
+   "kanji": "",
+   "arti": "selamat pagi",
+   "kat": "ungkapan"
+  },
+  {
+   "jp": "こんにちは",
+   "kanji": "",
+   "arti": "selamat siang",
+   "kat": "ungkapan"
+  },
+  {
+   "jp": "こんばんは",
+   "kanji": "",
+   "arti": "selamat malam",
+   "kat": "ungkapan"
+  },
+  {
+   "jp": "さようなら",
+   "kanji": "",
+   "arti": "selamat tinggal",
+   "kat": "ungkapan"
+  },
+  {
+   "jp": "〜じ",
+   "kanji": "〜時",
+   "arti": "jam …",
+   "kat": "akhiran"
+  },
+  {
+   "jp": "〜はん",
+   "kanji": "〜半",
+   "arti": "setengah (jam …:30)",
+   "kat": "akhiran"
+  },
+  {
+   "jp": "〜ふん / 〜ぷん",
+   "kanji": "〜分",
+   "arti": "menit",
+   "kat": "akhiran"
+  },
+  {
+   "jp": "〜まえ",
+   "kanji": "〜前",
+   "arti": "kurang … (sebelum)",
+   "kat": "akhiran"
+  },
+  {
+   "jp": "〜すぎ",
+   "kanji": "〜過ぎ",
+   "arti": "lewat …",
+   "kat": "akhiran"
+  },
+  {
+   "jp": "〜えん",
+   "kanji": "〜円",
+   "arti": "yen",
+   "kat": "akhiran"
+  },
+  {
+   "jp": "ゼロ / れい",
+   "kanji": "零",
+   "arti": "nol",
+   "kat": "angka"
+  }
+ ],
+ "kanji": [
+  {
+   "k": "一",
+   "on": [
+    "イチ"
+   ],
+   "kun": [
+    "ひと"
+   ],
+   "arti": "satu",
+   "contoh": [
+    [
+     "一じ",
+     "いちじ",
+     "jam satu"
+    ]
+   ]
+  },
+  {
+   "k": "二",
+   "on": [
+    "ニ"
+   ],
+   "kun": [
+    "ふた"
+   ],
+   "arti": "dua",
+   "contoh": [
+    [
+     "二じ",
+     "にじ",
+     "jam dua"
+    ]
+   ]
+  },
+  {
+   "k": "三",
+   "on": [
+    "サン"
+   ],
+   "kun": [
+    "み"
+   ],
+   "arti": "tiga",
+   "contoh": [
+    [
+     "三じ",
+     "さんじ",
+     "jam tiga"
+    ]
+   ]
+  },
+  {
+   "k": "四",
+   "on": [
+    "シ"
+   ],
+   "kun": [
+    "よん",
+    "よ"
+   ],
+   "arti": "empat",
+   "contoh": [
+    [
+     "四じ",
+     "よじ",
+     "jam empat"
+    ],
+    [
+     "四十",
+     "よんじゅう",
+     "empat puluh"
+    ]
+   ]
+  },
+  {
+   "k": "五",
+   "on": [
+    "ゴ"
+   ],
+   "kun": [
+    "いつ"
+   ],
+   "arti": "lima",
+   "contoh": [
+    [
+     "五ふん",
+     "ごふん",
+     "lima menit"
+    ]
+   ]
+  },
+  {
+   "k": "六",
+   "on": [
+    "ロク"
+   ],
+   "kun": [
+    "む"
+   ],
+   "arti": "enam",
+   "contoh": [
+    [
+     "六十",
+     "ろくじゅう",
+     "enam puluh"
+    ]
+   ]
+  },
+  {
+   "k": "七",
+   "on": [
+    "シチ"
+   ],
+   "kun": [
+    "なな"
+   ],
+   "arti": "tujuh",
+   "contoh": [
+    [
+     "七じ",
+     "しちじ",
+     "jam tujuh"
+    ]
+   ]
+  },
+  {
+   "k": "八",
+   "on": [
+    "ハチ"
+   ],
+   "kun": [
+    "や"
+   ],
+   "arti": "delapan",
+   "contoh": [
+    [
+     "八じ",
+     "はちじ",
+     "jam delapan"
+    ]
+   ]
+  },
+  {
+   "k": "九",
+   "on": [
+    "キュウ",
+    "ク"
+   ],
+   "kun": [
+    "ここの"
+   ],
+   "arti": "sembilan",
+   "contoh": [
+    [
+     "九じ",
+     "くじ",
+     "jam sembilan"
+    ]
+   ]
+  },
+  {
+   "k": "十",
+   "on": [
+    "ジュウ"
+   ],
+   "kun": [
+    "とお"
+   ],
+   "arti": "sepuluh",
+   "contoh": [
+    [
+     "十えん",
+     "じゅうえん",
+     "sepuluh yen"
+    ]
+   ]
+  },
+  {
+   "k": "百",
+   "on": [
+    "ヒャク"
+   ],
+   "kun": [],
+   "arti": "seratus",
+   "contoh": [
+    [
+     "三百",
+     "さんびゃく",
+     "tiga ratus"
+    ]
+   ]
+  },
+  {
+   "k": "千",
+   "on": [
+    "セン"
+   ],
+   "kun": [],
+   "arti": "seribu",
+   "contoh": [
+    [
+     "三千",
+     "さんぜん",
+     "tiga ribu"
+    ]
+   ]
+  },
+  {
+   "k": "万",
+   "on": [
+    "マン"
+   ],
+   "kun": [],
+   "arti": "sepuluh ribu",
+   "contoh": [
+    [
+     "一万えん",
+     "いちまんえん",
+     "sepuluh ribu yen"
+    ]
+   ]
+  },
+  {
+   "k": "山",
+   "on": [
+    "サン"
+   ],
+   "kun": [
+    "やま"
+   ],
+   "arti": "gunung",
+   "contoh": [
+    [
+     "ふじ山",
+     "ふじさん",
+     "Gunung Fuji"
+    ]
+   ]
+  },
+  {
+   "k": "白",
+   "on": [
+    "ハク"
+   ],
+   "kun": [
+    "しろ(い)"
+   ],
+   "arti": "putih",
+   "contoh": [
+    [
+     "白い かみ",
+     "しろい かみ",
+     "kertas putih"
+    ]
+   ]
+  }
+ ],
+ "bunpo": [
+  {
+   "pola": "ここ / そこ / あそこ は N です",
+   "arti": "Sini / situ / sana adalah N",
+   "jelaskan": "Kata tunjuk tempat. Polanya sama dengan これ/それ/あれ, tapi untuk lokasi.",
+   "contoh": [
+    [
+     "ここは ロビーです。",
+     "Di sini lobi."
+    ],
+    [
+     "あそこは かいぎしつです。",
+     "Di sana ruang rapat."
+    ]
+   ]
+  },
+  {
+   "pola": "N は どこですか",
+   "arti": "N di mana?",
+   "jelaskan": "Menanyakan lokasi. Jawab dengan ここ / そこ / あそこ です.",
+   "contoh": [
+    [
+     "トイレは どこですか。",
+     "Toilet di mana?"
+    ],
+    [
+     "あそこです。",
+     "Di sana."
+    ]
+   ]
+  },
+  {
+   "pola": "N は いくらですか",
+   "arti": "N berapa harganya?",
+   "jelaskan": "Jawab dengan angka + えん. Perhatikan perubahan bunyi: 300 = さんびゃく, 600 = ろっぴゃく, 800 = はっぴゃく.",
+   "contoh": [
+    [
+     "この ペンは いくらですか。",
+     "Pulpen ini berapa?"
+    ],
+    [
+     "百五十えんです。",
+     "150 yen."
+    ]
+   ]
+  },
+  {
+   "pola": "Sifat-i + N",
+   "arti": "N yang (sifat)",
+   "jelaskan": "Kata sifat-i (berakhiran い) langsung ditaruh di depan kata benda, tanpa の.",
+   "contoh": [
+    [
+     "おおきい たてもの",
+     "gedung besar"
+    ],
+    [
+     "あかい くるま",
+     "mobil merah"
+    ]
+   ]
+  },
+  {
+   "pola": "N は Sifat-i です",
+   "arti": "N itu (sifat)",
+   "jelaskan": "Kata sifat bisa jadi predikat. です di sini hanya untuk kesopanan.",
+   "contoh": [
+    [
+     "この へやは あかるいです。",
+     "Ruangan ini terang."
+    ],
+    [
+     "この パンは やすいです。",
+     "Roti ini murah."
+    ]
+   ]
+  },
+  {
+   "pola": "Sifat-い → 〜く ないです",
+   "arti": "tidak (sifat)",
+   "jelaskan": "Negatif kata sifat-i: buang い, ganti くないです. たかい → たかくないです. Pengecualian: いい → よくないです.",
+   "contoh": [
+    [
+     "この かばんは たかく ないです。",
+     "Tas ini tidak mahal."
+    ],
+    [
+     "きょうしつは くらく ないです。",
+     "Kelasnya tidak gelap."
+    ]
+   ]
+  },
+  {
+   "pola": "N は どんな N ですか",
+   "arti": "N itu N yang seperti apa?",
+   "jelaskan": "Meminta deskripsi. Jawab dengan kata sifat + kata benda.",
+   "contoh": [
+    [
+     "バンドンは どんな まちですか。",
+     "Bandung kota yang seperti apa?"
+    ],
+    [
+     "すずしい まちです。",
+     "Kota yang sejuk."
+    ]
+   ]
+  },
+  {
+   "pola": "Kalimat 1。そして、Kalimat 2。",
+   "arti": "… Dan lagi …",
+   "jelaskan": "そして menyambung dua kalimat yang searah (sama-sama menambah informasi).",
+   "contoh": [
+    [
+     "この へやは ひろいです。そして、あかるいです。",
+     "Kamar ini luas. Dan terang."
+    ]
+   ]
+  },
+  {
+   "pola": "いま なんじですか — 〜じ 〜ふん です",
+   "arti": "Sekarang jam berapa? — Jam … lewat … menit",
+   "jelaskan": "Ingat bacaan khusus: 4じ = よじ, 7じ = しちじ, 9じ = くじ. Menit: いっぷん, さんぷん, ろっぷん, じゅっぷん. 〜はん = setengah, 〜まえ = kurang, 〜すぎ = lewat.",
+   "contoh": [
+    [
+     "いま 七じ 十五ふんです。",
+     "Sekarang jam 7.15."
+    ],
+    [
+     "九じ はんです。",
+     "Jam setengah sepuluh (9.30)."
+    ]
+   ]
+  }
+ ],
+ "ungkapan": [
+  [
+   "おはよう ございます / こんにちは / こんばんは",
+   "Salam pagi / siang / malam"
+  ],
+  [
+   "さようなら",
+   "Selamat tinggal"
+  ]
+ ],
+ "partikel": [
+  {
+   "soal": "トイレ＿ どこですか。",
+   "jawab": "は",
+   "arti": "Toilet di mana?"
+  },
+  {
+   "soal": "この ジュースは 百えん＿。",
+   "jawab": "です",
+   "arti": "Jus ini 100 yen."
+  },
+  {
+   "soal": "がっこう＿ にわは ひろいです。",
+   "jawab": "の",
+   "arti": "Taman sekolah luas."
+  },
+  {
+   "soal": "この へやは あかるいです。＿＿、ひろいです。",
+   "jawab": "そして",
+   "arti": "Kamar ini terang. Dan luas."
+  },
+  {
+   "soal": "その パンは いくら＿＿か。",
+   "jawab": "です",
+   "arti": "Roti itu berapa?"
+  },
+  {
+   "soal": "びょういんは あそこ＿＿。",
+   "jawab": "です",
+   "arti": "Rumah sakitnya di sana."
+  }
+ ]
+}

@@ -1,0 +1,738 @@
+{
+ "bab": 3,
+ "judul": "りょう",
+ "judul_id": "Asrama",
+ "tema": "Kegiatan sehari-hari dengan kata kerja bentuk 〜ます (sekarang, negatif, lampau), waktu, hari, dan partikel を / で / に.",
+ "halaman_buku": [
+  17,
+  24
+ ],
+ "kotoba": [
+  {
+   "jp": "おかし",
+   "kanji": "お菓子",
+   "arti": "kue, camilan",
+   "kat": "makanan"
+  },
+  {
+   "jp": "バナナ",
+   "kanji": "",
+   "arti": "pisang",
+   "kat": "makanan"
+  },
+  {
+   "jp": "コーヒー",
+   "kanji": "",
+   "arti": "kopi",
+   "kat": "makanan"
+  },
+  {
+   "jp": "こうちゃ",
+   "kanji": "紅茶",
+   "arti": "teh (hitam)",
+   "kat": "makanan"
+  },
+  {
+   "jp": "ごはん",
+   "kanji": "ご飯",
+   "arti": "nasi; makan",
+   "kat": "makanan"
+  },
+  {
+   "jp": "やすみ",
+   "kanji": "休み",
+   "arti": "libur, istirahat",
+   "kat": "lainnya"
+  },
+  {
+   "jp": "しょくじ",
+   "kanji": "食事",
+   "arti": "makan (acara makan)",
+   "kat": "lainnya"
+  },
+  {
+   "jp": "ギター",
+   "kanji": "",
+   "arti": "gitar",
+   "kat": "benda"
+  },
+  {
+   "jp": "パーティー",
+   "kanji": "",
+   "arti": "pesta",
+   "kat": "lainnya"
+  },
+  {
+   "jp": "ピアノ",
+   "kanji": "",
+   "arti": "piano",
+   "kat": "benda"
+  },
+  {
+   "jp": "うた",
+   "kanji": "歌",
+   "arti": "lagu",
+   "kat": "lainnya"
+  },
+  {
+   "jp": "テニス",
+   "kanji": "",
+   "arti": "tenis",
+   "kat": "olahraga"
+  },
+  {
+   "jp": "ざっし",
+   "kanji": "雑誌",
+   "arti": "majalah",
+   "kat": "benda"
+  },
+  {
+   "jp": "ピンポン",
+   "kanji": "",
+   "arti": "pingpong",
+   "kat": "olahraga"
+  },
+  {
+   "jp": "バドミントン",
+   "kanji": "",
+   "arti": "bulu tangkis",
+   "kat": "olahraga"
+  },
+  {
+   "jp": "えいが",
+   "kanji": "映画",
+   "arti": "film",
+   "kat": "lainnya"
+  },
+  {
+   "jp": "えいがかん",
+   "kanji": "映画館",
+   "arti": "bioskop",
+   "kat": "tempat"
+  },
+  {
+   "jp": "ひらがな",
+   "kanji": "",
+   "arti": "hiragana",
+   "kat": "lainnya"
+  },
+  {
+   "jp": "かたかな",
+   "kanji": "",
+   "arti": "katakana",
+   "kat": "lainnya"
+  },
+  {
+   "jp": "かんじ",
+   "kanji": "漢字",
+   "arti": "kanji",
+   "kat": "lainnya"
+  },
+  {
+   "jp": "てがみ",
+   "kanji": "手紙",
+   "arti": "surat",
+   "kat": "benda"
+  },
+  {
+   "jp": "ぎんざ",
+   "kanji": "銀座",
+   "arti": "Ginza (daerah di Tokyo)",
+   "kat": "tempat"
+  },
+  {
+   "jp": "しんじゅく",
+   "kanji": "新宿",
+   "arti": "Shinjuku (daerah di Tokyo)",
+   "kat": "tempat"
+  },
+  {
+   "jp": "まいにち",
+   "kanji": "毎日",
+   "arti": "setiap hari",
+   "kat": "waktu"
+  },
+  {
+   "jp": "まいあさ",
+   "kanji": "毎朝",
+   "arti": "setiap pagi",
+   "kat": "waktu"
+  },
+  {
+   "jp": "まいばん",
+   "kanji": "毎晩",
+   "arti": "setiap malam",
+   "kat": "waktu"
+  },
+  {
+   "jp": "まいしゅう",
+   "kanji": "毎週",
+   "arti": "setiap minggu",
+   "kat": "waktu"
+  },
+  {
+   "jp": "あさ",
+   "kanji": "朝",
+   "arti": "pagi",
+   "kat": "waktu"
+  },
+  {
+   "jp": "ひる",
+   "kanji": "昼",
+   "arti": "siang",
+   "kat": "waktu"
+  },
+  {
+   "jp": "ゆうがた",
+   "kanji": "夕方",
+   "arti": "sore",
+   "kat": "waktu"
+  },
+  {
+   "jp": "よる",
+   "kanji": "夜",
+   "arti": "malam",
+   "kat": "waktu"
+  },
+  {
+   "jp": "ばん",
+   "kanji": "晩",
+   "arti": "malam",
+   "kat": "waktu"
+  },
+  {
+   "jp": "きょう",
+   "kanji": "今日",
+   "arti": "hari ini",
+   "kat": "waktu"
+  },
+  {
+   "jp": "あした",
+   "kanji": "明日",
+   "arti": "besok",
+   "kat": "waktu"
+  },
+  {
+   "jp": "あさって",
+   "kanji": "",
+   "arti": "lusa",
+   "kat": "waktu"
+  },
+  {
+   "jp": "きのう",
+   "kanji": "昨日",
+   "arti": "kemarin",
+   "kat": "waktu"
+  },
+  {
+   "jp": "おととい",
+   "kanji": "",
+   "arti": "kemarin lusa",
+   "kat": "waktu"
+  },
+  {
+   "jp": "こんしゅう",
+   "kanji": "今週",
+   "arti": "minggu ini",
+   "kat": "waktu"
+  },
+  {
+   "jp": "せんしゅう",
+   "kanji": "先週",
+   "arti": "minggu lalu",
+   "kat": "waktu"
+  },
+  {
+   "jp": "せんせんしゅう",
+   "kanji": "先々週",
+   "arti": "dua minggu lalu",
+   "kat": "waktu"
+  },
+  {
+   "jp": "らいしゅう",
+   "kanji": "来週",
+   "arti": "minggu depan",
+   "kat": "waktu"
+  },
+  {
+   "jp": "さらいしゅう",
+   "kanji": "再来週",
+   "arti": "dua minggu lagi",
+   "kat": "waktu"
+  },
+  {
+   "jp": "げつようび",
+   "kanji": "月曜日",
+   "arti": "Senin",
+   "kat": "hari"
+  },
+  {
+   "jp": "かようび",
+   "kanji": "火曜日",
+   "arti": "Selasa",
+   "kat": "hari"
+  },
+  {
+   "jp": "すいようび",
+   "kanji": "水曜日",
+   "arti": "Rabu",
+   "kat": "hari"
+  },
+  {
+   "jp": "もくようび",
+   "kanji": "木曜日",
+   "arti": "Kamis",
+   "kat": "hari"
+  },
+  {
+   "jp": "きんようび",
+   "kanji": "金曜日",
+   "arti": "Jumat",
+   "kat": "hari"
+  },
+  {
+   "jp": "どようび",
+   "kanji": "土曜日",
+   "arti": "Sabtu",
+   "kat": "hari"
+  },
+  {
+   "jp": "にちようび",
+   "kanji": "日曜日",
+   "arti": "Minggu",
+   "kat": "hari"
+  },
+  {
+   "jp": "なんようび",
+   "kanji": "何曜日",
+   "arti": "hari apa",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "なに",
+   "kanji": "何",
+   "arti": "apa",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "ときどき",
+   "kanji": "時々",
+   "arti": "kadang-kadang",
+   "kat": "keterangan"
+  },
+  {
+   "jp": "のみます",
+   "kanji": "飲みます",
+   "arti": "minum",
+   "kat": "kerja"
+  },
+  {
+   "jp": "たべます",
+   "kanji": "食べます",
+   "arti": "makan",
+   "kat": "kerja"
+  },
+  {
+   "jp": "はじまります",
+   "kanji": "始まります",
+   "arti": "dimulai",
+   "kat": "kerja"
+  },
+  {
+   "jp": "おわります",
+   "kanji": "終わります",
+   "arti": "selesai, berakhir",
+   "kat": "kerja"
+  },
+  {
+   "jp": "つくります",
+   "kanji": "作ります",
+   "arti": "membuat",
+   "kat": "kerja"
+  },
+  {
+   "jp": "します",
+   "kanji": "",
+   "arti": "melakukan",
+   "kat": "kerja"
+  },
+  {
+   "jp": "べんきょうします",
+   "kanji": "勉強します",
+   "arti": "belajar",
+   "kat": "kerja"
+  },
+  {
+   "jp": "ひきます",
+   "kanji": "弾きます",
+   "arti": "memainkan (alat musik petik/piano)",
+   "kat": "kerja"
+  },
+  {
+   "jp": "うたいます",
+   "kanji": "歌います",
+   "arti": "menyanyi",
+   "kat": "kerja"
+  },
+  {
+   "jp": "ききます",
+   "kanji": "聞きます",
+   "arti": "mendengar",
+   "kat": "kerja"
+  },
+  {
+   "jp": "よみます",
+   "kanji": "読みます",
+   "arti": "membaca",
+   "kat": "kerja"
+  },
+  {
+   "jp": "みます",
+   "kanji": "見ます",
+   "arti": "melihat, menonton",
+   "kat": "kerja"
+  },
+  {
+   "jp": "かきます",
+   "kanji": "書きます",
+   "arti": "menulis",
+   "kat": "kerja"
+  },
+  {
+   "jp": "ねます",
+   "kanji": "寝ます",
+   "arti": "tidur",
+   "kat": "kerja"
+  },
+  {
+   "jp": "おきます",
+   "kanji": "起きます",
+   "arti": "bangun",
+   "kat": "kerja"
+  },
+  {
+   "jp": "〜ごろ",
+   "kanji": "",
+   "arti": "sekitar (jam) …",
+   "kat": "akhiran"
+  },
+  {
+   "jp": "〜たち",
+   "kanji": "",
+   "arti": "jamak orang (わたしたち = kami)",
+   "kat": "akhiran"
+  }
+ ],
+ "kanji": [
+  {
+   "k": "明",
+   "on": [
+    "メイ"
+   ],
+   "kun": [
+    "あか(るい)"
+   ],
+   "arti": "terang",
+   "contoh": [
+    [
+     "明るい",
+     "あかるい",
+     "terang"
+    ]
+   ]
+  },
+  {
+   "k": "日",
+   "on": [
+    "ニチ"
+   ],
+   "kun": [
+    "ひ",
+    "か"
+   ],
+   "arti": "hari, matahari",
+   "contoh": [
+    [
+     "日ようび",
+     "にちようび",
+     "Minggu"
+    ]
+   ]
+  },
+  {
+   "k": "月",
+   "on": [
+    "ゲツ",
+    "ガツ"
+   ],
+   "kun": [
+    "つき"
+   ],
+   "arti": "bulan",
+   "contoh": [
+    [
+     "月ようび",
+     "げつようび",
+     "Senin"
+    ]
+   ]
+  },
+  {
+   "k": "火",
+   "on": [
+    "カ"
+   ],
+   "kun": [
+    "ひ"
+   ],
+   "arti": "api",
+   "contoh": [
+    [
+     "火ようび",
+     "かようび",
+     "Selasa"
+    ]
+   ]
+  },
+  {
+   "k": "水",
+   "on": [
+    "スイ"
+   ],
+   "kun": [
+    "みず"
+   ],
+   "arti": "air",
+   "contoh": [
+    [
+     "水ようび",
+     "すいようび",
+     "Rabu"
+    ]
+   ]
+  },
+  {
+   "k": "木",
+   "on": [
+    "モク"
+   ],
+   "kun": [
+    "き"
+   ],
+   "arti": "pohon, kayu",
+   "contoh": [
+    [
+     "木ようび",
+     "もくようび",
+     "Kamis"
+    ]
+   ]
+  },
+  {
+   "k": "金",
+   "on": [
+    "キン"
+   ],
+   "kun": [
+    "かね"
+   ],
+   "arti": "emas, uang",
+   "contoh": [
+    [
+     "金ようび",
+     "きんようび",
+     "Jumat"
+    ]
+   ]
+  },
+  {
+   "k": "土",
+   "on": [
+    "ド"
+   ],
+   "kun": [
+    "つち"
+   ],
+   "arti": "tanah",
+   "contoh": [
+    [
+     "土ようび",
+     "どようび",
+     "Sabtu"
+    ]
+   ]
+  }
+ ],
+ "bunpo": [
+  {
+   "pola": "N を V-ます",
+   "arti": "melakukan V terhadap N",
+   "jelaskan": "を (dibaca 'o') menandai objek. Kata kerja bentuk ます adalah bentuk sopan untuk sekarang/kebiasaan/masa depan.",
+   "contoh": [
+    [
+     "コーヒーを のみます。",
+     "(Saya) minum kopi."
+    ],
+    [
+     "まいばん ニュースを みます。",
+     "Setiap malam saya menonton berita."
+    ]
+   ]
+  },
+  {
+   "pola": "V-ます / V-ません / V-ました / V-ませんでした",
+   "arti": "melakukan / tidak / sudah / tidak (lampau)",
+   "jelaskan": "Empat bentuk sopan kata kerja. Contoh: みます (melihat), みません (tidak melihat), みました (sudah melihat), みませんでした (tidak melihat, lampau).",
+   "contoh": [
+    [
+     "きのう テニスを しました。",
+     "Kemarin saya main tenis."
+    ],
+    [
+     "けさ ごはんを たべませんでした。",
+     "Tadi pagi saya tidak makan."
+    ]
+   ]
+  },
+  {
+   "pola": "Tempat で V",
+   "arti": "melakukan V di (tempat)",
+   "jelaskan": "で menandai tempat terjadinya kegiatan.",
+   "contoh": [
+    [
+     "しょくどうで ひるごはんを たべます。",
+     "Saya makan siang di kantin."
+    ],
+    [
+     "へやで てがみを かきました。",
+     "Saya menulis surat di kamar."
+    ]
+   ]
+  },
+  {
+   "pola": "Waktu に V",
+   "arti": "melakukan V pada (waktu)",
+   "jelaskan": "に dipakai untuk waktu yang jelas: jam, hari dalam seminggu. TIDAK dipakai untuk kata relatif seperti きょう, あした, まいにち, らいしゅう.",
+   "contoh": [
+    [
+     "六じに おきます。",
+     "Saya bangun jam 6."
+    ],
+    [
+     "日ようびに テニスを します。",
+     "Hari Minggu saya main tenis."
+    ]
+   ]
+  },
+  {
+   "pola": "〜ごろ",
+   "arti": "sekitar (waktu)",
+   "jelaskan": "Ditaruh setelah jam/waktu. に setelah ごろ boleh dipakai atau dihilangkan.",
+   "contoh": [
+    [
+     "十一じごろ ねます。",
+     "Saya tidur sekitar jam 11."
+    ]
+   ]
+  },
+  {
+   "pola": "なにを V-ますか",
+   "arti": "Melakukan V apa?",
+   "jelaskan": "なに + を untuk menanyakan objek kegiatan.",
+   "contoh": [
+    [
+     "どようびに なにを しますか。",
+     "Hari Sabtu melakukan apa?"
+    ],
+    [
+     "かいものを します。",
+     "Belanja."
+    ]
+   ]
+  },
+  {
+   "pola": "N の (pengganti kata benda)",
+   "arti": "milik N / yang (sifat)",
+   "jelaskan": "の bisa menggantikan kata benda yang sudah jelas: わたしの = milik saya, おおきいの = yang besar.",
+   "contoh": [
+    [
+     "この かさは だれのですか。",
+     "Payung ini milik siapa?"
+    ],
+    [
+     "あかいのは わたしのです。",
+     "Yang merah milik saya."
+    ]
+   ]
+  },
+  {
+   "pola": "〜ですね",
+   "arti": "…, ya / kan? (mencari persetujuan)",
+   "jelaskan": "ね di akhir kalimat menunjukkan pembicara mengharapkan lawan bicara setuju, atau berempati.",
+   "contoh": [
+    [
+     "きょうは あついですね。",
+     "Hari ini panas, ya."
+    ]
+   ]
+  },
+  {
+   "pola": "N を どうぞ",
+   "arti": "Silakan (ambil/nikmati) N",
+   "jelaskan": "Cara sopan menawarkan sesuatu.",
+   "contoh": [
+    [
+     "おちゃを どうぞ。",
+     "Silakan tehnya."
+    ]
+   ]
+  }
+ ],
+ "ungkapan": [
+  [
+   "〜を どうぞ。— ありがとう ございます。",
+   "Menawarkan sesuatu"
+  ],
+  [
+   "〜ですね。",
+   "Basa-basi mencari persetujuan"
+  ]
+ ],
+ "partikel": [
+  {
+   "soal": "コーヒー＿ のみます。",
+   "jawab": "を",
+   "arti": "Saya minum kopi."
+  },
+  {
+   "soal": "しょくどう＿ ごはんを たべます。",
+   "jawab": "で",
+   "arti": "Saya makan di kantin."
+  },
+  {
+   "soal": "まいあさ 六じ＿ おきます。",
+   "jawab": "に",
+   "arti": "Setiap pagi saya bangun jam 6."
+  },
+  {
+   "soal": "日ようび＿ テニスを します。",
+   "jawab": "に",
+   "arti": "Hari Minggu saya main tenis."
+  },
+  {
+   "soal": "きのう えいが＿ みました。",
+   "jawab": "を",
+   "arti": "Kemarin saya menonton film."
+  },
+  {
+   "soal": "へや＿ てがみを かきました。",
+   "jawab": "で",
+   "arti": "Saya menulis surat di kamar."
+  },
+  {
+   "soal": "この ほんは だれ＿ですか。",
+   "jawab": "の",
+   "arti": "Buku ini milik siapa?"
+  }
+ ]
+}

@@ -1,0 +1,583 @@
+{
+ "bab": 1,
+ "judul": "どうぞ よろしく",
+ "judul_id": "Senang berkenalan",
+ "tema": "Memperkenalkan diri, menanyakan siapa seseorang, dan menanyakan milik siapa suatu barang.",
+ "halaman_buku": [
+  1,
+  7
+ ],
+ "kotoba": [
+  {
+   "jp": "わたし",
+   "kanji": "私",
+   "arti": "saya",
+   "kat": "kata ganti"
+  },
+  {
+   "jp": "あなた",
+   "kanji": "",
+   "arti": "Anda, kamu",
+   "kat": "kata ganti"
+  },
+  {
+   "jp": "がくせい",
+   "kanji": "学生",
+   "arti": "pelajar, mahasiswa",
+   "kat": "orang"
+  },
+  {
+   "jp": "せんせい",
+   "kanji": "先生",
+   "arti": "guru; sebutan hormat untuk guru/dokter",
+   "kat": "orang"
+  },
+  {
+   "jp": "おんな",
+   "kanji": "女",
+   "arti": "perempuan",
+   "kat": "orang"
+  },
+  {
+   "jp": "おとこ",
+   "kanji": "男",
+   "arti": "laki-laki",
+   "kat": "orang"
+  },
+  {
+   "jp": "ひと",
+   "kanji": "人",
+   "arti": "orang",
+   "kat": "orang"
+  },
+  {
+   "jp": "かた",
+   "kanji": "方",
+   "arti": "orang (lebih sopan dari ひと)",
+   "kat": "orang"
+  },
+  {
+   "jp": "みなさん",
+   "kanji": "皆さん",
+   "arti": "semuanya, Bapak-Ibu sekalian",
+   "kat": "orang"
+  },
+  {
+   "jp": "かばん",
+   "kanji": "",
+   "arti": "tas",
+   "kat": "benda"
+  },
+  {
+   "jp": "カメラ",
+   "kanji": "",
+   "arti": "kamera",
+   "kat": "benda"
+  },
+  {
+   "jp": "レコード",
+   "kanji": "",
+   "arti": "piringan hitam",
+   "kat": "benda"
+  },
+  {
+   "jp": "へや",
+   "kanji": "部屋",
+   "arti": "kamar, ruangan",
+   "kat": "tempat"
+  },
+  {
+   "jp": "かぎ",
+   "kanji": "鍵",
+   "arti": "kunci",
+   "kat": "benda"
+  },
+  {
+   "jp": "とけい",
+   "kanji": "時計",
+   "arti": "jam (alat)",
+   "kat": "benda"
+  },
+  {
+   "jp": "ラジオ",
+   "kanji": "",
+   "arti": "radio",
+   "kat": "benda"
+  },
+  {
+   "jp": "テレビ",
+   "kanji": "",
+   "arti": "televisi",
+   "kat": "benda"
+  },
+  {
+   "jp": "ほん",
+   "kanji": "本",
+   "arti": "buku",
+   "kat": "benda"
+  },
+  {
+   "jp": "しんぶん",
+   "kanji": "新聞",
+   "arti": "koran",
+   "kat": "benda"
+  },
+  {
+   "jp": "テープ",
+   "kanji": "",
+   "arti": "kaset, pita",
+   "kat": "benda"
+  },
+  {
+   "jp": "じどうしゃ",
+   "kanji": "自動車",
+   "arti": "mobil",
+   "kat": "benda"
+  },
+  {
+   "jp": "じてんしゃ",
+   "kanji": "自転車",
+   "arti": "sepeda",
+   "kat": "benda"
+  },
+  {
+   "jp": "たばこ",
+   "kanji": "",
+   "arti": "rokok",
+   "kat": "benda"
+  },
+  {
+   "jp": "ノート",
+   "kanji": "",
+   "arti": "buku catatan",
+   "kat": "benda"
+  },
+  {
+   "jp": "きって",
+   "kanji": "切手",
+   "arti": "perangko",
+   "kat": "benda"
+  },
+  {
+   "jp": "つくえ",
+   "kanji": "机",
+   "arti": "meja",
+   "kat": "benda"
+  },
+  {
+   "jp": "いす",
+   "kanji": "椅子",
+   "arti": "kursi",
+   "kat": "benda"
+  },
+  {
+   "jp": "ボールペン",
+   "kanji": "",
+   "arti": "pulpen",
+   "kat": "benda"
+  },
+  {
+   "jp": "えんぴつ",
+   "kanji": "鉛筆",
+   "arti": "pensil",
+   "kat": "benda"
+  },
+  {
+   "jp": "えいご",
+   "kanji": "英語",
+   "arti": "bahasa Inggris",
+   "kat": "bahasa"
+  },
+  {
+   "jp": "にほんご",
+   "kanji": "日本語",
+   "arti": "bahasa Jepang",
+   "kat": "bahasa"
+  },
+  {
+   "jp": "ちゅうごくご",
+   "kanji": "中国語",
+   "arti": "bahasa Mandarin",
+   "kat": "bahasa"
+  },
+  {
+   "jp": "にほん",
+   "kanji": "日本",
+   "arti": "Jepang",
+   "kat": "negara"
+  },
+  {
+   "jp": "ちゅうごく",
+   "kanji": "中国",
+   "arti": "Tiongkok",
+   "kat": "negara"
+  },
+  {
+   "jp": "アメリカ",
+   "kanji": "",
+   "arti": "Amerika",
+   "kat": "negara"
+  },
+  {
+   "jp": "イギリス",
+   "kanji": "",
+   "arti": "Inggris",
+   "kat": "negara"
+  },
+  {
+   "jp": "マレーシア",
+   "kanji": "",
+   "arti": "Malaysia",
+   "kat": "negara"
+  },
+  {
+   "jp": "タイ",
+   "kanji": "",
+   "arti": "Thailand",
+   "kat": "negara"
+  },
+  {
+   "jp": "フィリピン",
+   "kanji": "",
+   "arti": "Filipina",
+   "kat": "negara"
+  },
+  {
+   "jp": "だれ",
+   "kanji": "誰",
+   "arti": "siapa",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "どなた",
+   "kanji": "",
+   "arti": "siapa (sopan)",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "なん / なに",
+   "kanji": "何",
+   "arti": "apa",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "どれ",
+   "kanji": "",
+   "arti": "yang mana (dari 3+ benda)",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "どの",
+   "kanji": "",
+   "arti": "… yang mana (diikuti kata benda)",
+   "kat": "kata tanya"
+  },
+  {
+   "jp": "これ",
+   "kanji": "",
+   "arti": "ini (dekat pembicara)",
+   "kat": "kata tunjuk"
+  },
+  {
+   "jp": "それ",
+   "kanji": "",
+   "arti": "itu (dekat lawan bicara)",
+   "kat": "kata tunjuk"
+  },
+  {
+   "jp": "あれ",
+   "kanji": "",
+   "arti": "itu (jauh dari keduanya)",
+   "kat": "kata tunjuk"
+  },
+  {
+   "jp": "この",
+   "kanji": "",
+   "arti": "… ini (diikuti kata benda)",
+   "kat": "kata tunjuk"
+  },
+  {
+   "jp": "その",
+   "kanji": "",
+   "arti": "… itu (diikuti kata benda)",
+   "kat": "kata tunjuk"
+  },
+  {
+   "jp": "あの",
+   "kanji": "",
+   "arti": "… itu (jauh, diikuti kata benda)",
+   "kat": "kata tunjuk"
+  },
+  {
+   "jp": "はい",
+   "kanji": "",
+   "arti": "ya",
+   "kat": "ungkapan"
+  },
+  {
+   "jp": "いいえ",
+   "kanji": "",
+   "arti": "tidak, bukan",
+   "kat": "ungkapan"
+  },
+  {
+   "jp": "どうぞ よろしく",
+   "kanji": "",
+   "arti": "senang berkenalan (mohon bantuannya)",
+   "kat": "ungkapan"
+  },
+  {
+   "jp": "どうぞ",
+   "kanji": "",
+   "arti": "silakan",
+   "kat": "ungkapan"
+  },
+  {
+   "jp": "どうも ありがとう ございます",
+   "kanji": "",
+   "arti": "terima kasih banyak",
+   "kat": "ungkapan"
+  },
+  {
+   "jp": "〜さん",
+   "kanji": "",
+   "arti": "Pak/Bu/Sdr. (akhiran hormat, tidak untuk diri sendiri)",
+   "kat": "akhiran"
+  },
+  {
+   "jp": "〜じん",
+   "kanji": "〜人",
+   "arti": "orang (negara) …",
+   "kat": "akhiran"
+  },
+  {
+   "jp": "〜ご",
+   "kanji": "〜語",
+   "arti": "bahasa …",
+   "kat": "akhiran"
+  }
+ ],
+ "kanji": [
+  {
+   "k": "人",
+   "on": [
+    "ジン"
+   ],
+   "kun": [
+    "ひと"
+   ],
+   "arti": "orang",
+   "contoh": [
+    [
+     "にほん人",
+     "にほんじん",
+     "orang Jepang"
+    ],
+    [
+     "あの人",
+     "あのひと",
+     "orang itu"
+    ]
+   ]
+  }
+ ],
+ "bunpo": [
+  {
+   "pola": "N1 は N2 です",
+   "arti": "N1 adalah N2",
+   "jelaskan": "は (dibaca 'wa') menandai topik. です di akhir membuat kalimat sopan. Ini pola kalimat paling dasar.",
+   "contoh": [
+    [
+     "わたしは エンジニアです。",
+     "Saya insinyur."
+    ],
+    [
+     "ブディさんは インドネシア人です。",
+     "Budi orang Indonesia."
+    ]
+   ]
+  },
+  {
+   "pola": "N1 は N2 では ありません",
+   "arti": "N1 bukan N2",
+   "jelaskan": "Bentuk negatif dari です. Dalam percakapan sehari-hari sering terdengar じゃ ありません.",
+   "contoh": [
+    [
+     "わたしは せんせいでは ありません。",
+     "Saya bukan guru."
+    ],
+    [
+     "これは にほんの カメラでは ありません。",
+     "Ini bukan kamera Jepang."
+    ]
+   ]
+  },
+  {
+   "pola": "〜ですか",
+   "arti": "Apakah …? (kalimat tanya)",
+   "jelaskan": "Tambahkan か di akhir kalimat untuk bertanya. Tidak perlu mengubah urutan kata. Jawab dengan はい / いいえ.",
+   "contoh": [
+    [
+     "あなたは がくせいですか。",
+     "Apakah Anda pelajar?"
+    ],
+    [
+     "はい、がくせいです。",
+     "Ya, saya pelajar."
+    ]
+   ]
+  },
+  {
+   "pola": "N1 の N2",
+   "arti": "N2 milik / dari / tentang N1",
+   "jelaskan": "の menghubungkan dua kata benda. Urutannya kebalikan bahasa Indonesia: にほんの ほん = buku (dari) Jepang.",
+   "contoh": [
+    [
+     "わたしの かばん",
+     "tas saya"
+    ],
+    [
+     "にほんごの せんせい",
+     "guru bahasa Jepang"
+    ]
+   ]
+  },
+  {
+   "pola": "N も",
+   "arti": "N juga",
+   "jelaskan": "も menggantikan は ketika maksudnya 'juga'.",
+   "contoh": [
+    [
+     "わたしも がくせいです。",
+     "Saya juga pelajar."
+    ],
+    [
+     "それも わたしの ほんです。",
+     "Itu juga buku saya."
+    ]
+   ]
+  },
+  {
+   "pola": "これ / それ / あれ は N です",
+   "arti": "Ini / itu / itu (jauh) adalah N",
+   "jelaskan": "これ dekat pembicara, それ dekat lawan bicara, あれ jauh dari keduanya. Berdiri sendiri tanpa kata benda.",
+   "contoh": [
+    [
+     "これは とけいです。",
+     "Ini jam."
+    ],
+    [
+     "あれは なんですか。",
+     "Itu (yang di sana) apa?"
+    ]
+   ]
+  },
+  {
+   "pola": "この / その / あの + N",
+   "arti": "N ini / N itu",
+   "jelaskan": "Selalu diikuti kata benda. この ほん = buku ini. あの ひと = orang itu.",
+   "contoh": [
+    [
+     "この ペンは わたしのです。",
+     "Pulpen ini milik saya."
+    ],
+    [
+     "あの かたは どなたですか。",
+     "Orang itu siapa?"
+    ]
+   ]
+  },
+  {
+   "pola": "N1 ですか、N2 ですか",
+   "arti": "N1 atau N2?",
+   "jelaskan": "Pertanyaan pilihan. Jawabannya langsung salah satu, tanpa はい / いいえ.",
+   "contoh": [
+    [
+     "これは ペンですか、えんぴつですか。",
+     "Ini pulpen atau pensil?"
+    ],
+    [
+     "えんぴつです。",
+     "Pensil."
+    ]
+   ]
+  },
+  {
+   "pola": "N1 と N2",
+   "arti": "N1 dan N2",
+   "jelaskan": "と menghubungkan kata benda (bukan kalimat).",
+   "contoh": [
+    [
+     "ほんと ノート",
+     "buku dan buku catatan"
+    ],
+    [
+     "これと これは わたしのです。",
+     "Ini dan ini milik saya."
+    ]
+   ]
+  },
+  {
+   "pola": "だれ / どなた / なん / どれ / どの",
+   "arti": "kata tanya dasar",
+   "jelaskan": "だれ = siapa, どなた = siapa (sopan), なん = apa, どれ = yang mana, どの + N = N yang mana.",
+   "contoh": [
+    [
+     "あの ひとは だれですか。",
+     "Orang itu siapa?"
+    ],
+    [
+     "あなたの かさは どれですか。",
+     "Payung Anda yang mana?"
+    ]
+   ]
+  }
+ ],
+ "ungkapan": [
+  [
+   "はじめまして。わたしは 〜です。どうぞ よろしく。",
+   "Perkenalan diri standar"
+  ],
+  [
+   "どうぞ。— どうも ありがとう ございます。",
+   "Memberi sesuatu dan berterima kasih"
+  ]
+ ],
+ "partikel": [
+  {
+   "soal": "わたし＿ エンジニアです。",
+   "jawab": "は",
+   "arti": "Saya insinyur."
+  },
+  {
+   "soal": "これは わたし＿ かばんです。",
+   "jawab": "の",
+   "arti": "Ini tas saya."
+  },
+  {
+   "soal": "ブディさん＿ がくせいです。わたし＿ がくせいです。",
+   "jawab": "は / も",
+   "arti": "Budi pelajar. Saya juga pelajar."
+  },
+  {
+   "soal": "あなたは にほん人です＿。",
+   "jawab": "か",
+   "arti": "Apakah Anda orang Jepang?"
+  },
+  {
+   "soal": "ほん＿ ノートは わたしのです。",
+   "jawab": "と",
+   "arti": "Buku dan buku catatan milik saya."
+  },
+  {
+   "soal": "これは にほんご＿ しんぶんです。",
+   "jawab": "の",
+   "arti": "Ini koran berbahasa Jepang."
+  },
+  {
+   "soal": "あの ひと＿ だれですか。",
+   "jawab": "は",
+   "arti": "Orang itu siapa?"
+  }
+ ]
+}
