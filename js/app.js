@@ -629,6 +629,21 @@
           <button type="button" class="btn" id="testGas">Tes koneksi GAS</button>
         </fieldset>
 
+        <fieldset>
+          <legend>Pasang di HP / perangkat lain</legend>
+          <p class="help" style="margin:0">Buat link setup berisi URL Worker, URL GAS, dan token. Scan QR-nya dari HP, maka setting langsung terisi. Jangan bagikan link ini ke orang lain.</p>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">
+            <button type="button" class="btn primary" id="makeLink">Buat link &amp; QR</button>
+          </div>
+          <div id="linkBox" hidden style="display:grid;gap:10px;justify-items:start">
+            <div id="qr" style="background:#fff;padding:10px;border-radius:8px"></div>
+            <div style="display:flex;gap:8px;flex-wrap:wrap">
+              <button type="button" class="btn" id="copyLink">Salin link</button>
+              <button type="button" class="btn" id="shareLink">Kirim (WhatsApp, dll.)</button>
+            </div>
+          </div>
+        </fieldset>
+
         <div style="display:flex;gap:8px;flex-wrap:wrap">
           <button class="btn primary">Simpan setting</button>
           <button type="button" class="btn ghost" id="resetProg">Hapus semua progres</button>
@@ -664,6 +679,27 @@
       } catch (e) { toast(e.message); }
       b.disabled = false; b.textContent = "Tes koneksi Sensei";
     };
+    $("#makeLink").onclick = async () => {
+      collect();
+      if (!S.workerUrl || !S.token) { toast("Isi URL Worker dan token dulu."); return; }
+      const link = setupLink();
+      const box = $("#linkBox"); box.hidden = false; box.style.display = "grid";
+      const qr = $("#qr"); qr.innerHTML = "";
+      try {
+        await loadScript("js/qrcode.js");
+        const q = window.qrcode(0, "L"); q.addData(link); q.make();
+        qr.innerHTML = q.createSvgTag({ cellSize: 4, margin: 2, scalable: true });
+        const svg = qr.querySelector("svg"); svg.style.width = "220px"; svg.style.height = "220px";
+      } catch (e) { qr.textContent = "QR tidak bisa dibuat (offline?). Pakai tombol Salin link."; }
+      $("#copyLink").onclick = async () => {
+        try { await navigator.clipboard.writeText(link); toast("Link setup disalin."); }
+        catch (e) { prompt("Salin link ini:", link); }
+      };
+      $("#shareLink").onclick = async () => {
+        if (navigator.share) { try { await navigator.share({ title: "Setup Shokyuu Sensei", url: link }); } catch (e) {} }
+        else { try { await navigator.clipboard.writeText(link); toast("Link disalin. Tempel di chat ke diri sendiri."); } catch (e) { prompt("Salin link ini:", link); } }
+      };
+    };
     $("#testGas").onclick = async () => {
       collect();
       try { await Store.gas("ping"); toast("GAS terhubung."); } catch (e) { toast(e.message); }
@@ -696,14 +732,50 @@
     window.scrollTo(0, 0);
   }
 
+  /* ---------- link setup antar-perangkat ---------- */
+  function setupLink() {
+    const data = { w: S.workerUrl, g: S.gasUrl, t: S.token, p: S.provider };
+    const b64 = btoa(unescape(encodeURIComponent(JSON.stringify(data)))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+    return location.origin + location.pathname + "#/setup?d=" + b64;
+  }
+  function loadScript(src) {
+    return new Promise((res, rej) => {
+      if (document.querySelector(`script[src="${src}"]`)) return res();
+      const el = document.createElement("script"); el.src = src; el.onload = res; el.onerror = () => rej(new Error("gagal memuat"));
+      document.head.appendChild(el);
+    });
+  }
+  // Kalau dibuka lewat link setup: simpan setting, lalu hapus token dari address bar
+  function applySetupFromHash() {
+    const m = location.hash.match(/^#\/setup\?d=([A-Za-z0-9_-]+)/);
+    if (!m) return false;
+    try {
+      let b = m[1].replace(/-/g, "+").replace(/_/g, "/"); while (b.length % 4) b += "=";
+      const d = JSON.parse(decodeURIComponent(escape(atob(b))));
+      if (d.w) S.workerUrl = d.w;
+      if (d.g) S.gasUrl = d.g;
+      if (d.t) S.token = d.t;
+      if (d.p) S.provider = d.p;
+      Store.saveSettings();
+      history.replaceState(null, "", location.pathname + "#/materi");
+      setTimeout(() => toast("Setting otomatis terpasang. Sensei siap dipakai."), 300);
+      if (S.gasUrl) Store.sync().catch(() => {});
+    } catch (e) {
+      history.replaceState(null, "", location.pathname + "#/setting");
+      setTimeout(() => toast("Link setup rusak. Buat ulang dari laptop."), 300);
+    }
+    return true;
+  }
+
   async function init() {
+    applySetupFromHash();
     applyTheme(); netStatus();
     addEventListener("online", () => { netStatus(); Store.scheduleSync(); });
     addEventListener("offline", netStatus);
     await loadIndex();
     if (!available().some(b => b.bab === S.bab)) { S.bab = available()[0].bab; Store.saveSettings(); }
     fillBabSelect();
-    addEventListener("hashchange", route);
+    addEventListener("hashchange", () => { if (applySetupFromHash()) return; route(); });
     await route();
     if (S.gasUrl) Store.sync().catch(() => {});
     if ("serviceWorker" in navigator && location.protocol !== "file:") {

@@ -68,9 +68,15 @@
   async function ask({ mode, active, loaded, history, onDelta, signal }) {
     const s = window.Store.settings;
     if (!s.workerUrl) return demoReply(history, onDelta);
+    // batas waktu: kalau 25 detik belum ada kata pertama, batalkan dengan pesan jelas
+    const ctrl = new AbortController();
+    let timedOut = false;
+    const timer = setTimeout(() => { timedOut = true; ctrl.abort(); }, 25000);
+    if (signal) signal.addEventListener("abort", () => ctrl.abort());
+    try {
     const res = await fetch(s.workerUrl.replace(/\/$/, "") + "/chat", {
       method: "POST",
-      signal,
+      signal: ctrl.signal,
       headers: { "Content-Type": "application/json", "X-Access-Token": s.token || "" },
       body: JSON.stringify({
         provider: s.provider,
@@ -91,11 +97,16 @@
     for (;;) {
       const { value, done } = await reader.read();
       if (done) break;
+      clearTimeout(timer);
       const chunk = dec.decode(value, { stream: true });
       full += chunk;
       onDelta(chunk, full);
     }
     return full;
+    } catch (e) {
+      if (timedOut) throw new Error("Sensei tidak menjawab dalam 25 detik. Buka " + s.workerUrl.replace(/\/$/, "") + "/test?token=…&provider=" + s.provider + " untuk cek penyebabnya.");
+      throw e;
+    } finally { clearTimeout(timer); }
   }
 
   // Mode demo bila Worker belum di-setup: tetap bisa mencoba alur aplikasi

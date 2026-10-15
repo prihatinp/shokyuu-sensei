@@ -6,8 +6,8 @@
 
   const DEFAULT_SETTINGS = {
     bab: 1,
-    provider: "claude",          // "claude" | "gemini"
-    workerUrl: "",               // https://shokyuu-sensei.<akun>.workers.dev
+    provider: "gemini",          // "claude" | "gemini"
+    workerUrl: "https://shokyuu-sensei.prihatinpurwadi2.workers.dev",
     gasUrl: "",                  // https://script.google.com/macros/s/.../exec
     token: "",                   // token akses pribadi (sama di Worker & GAS)
     furigana: true,
