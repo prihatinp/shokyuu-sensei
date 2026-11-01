@@ -1,0 +1,148 @@
+{
+  "bab": 7,
+  "judul": "ハイキング",
+  "judul_id": "Hiking",
+  "tema": "Cuaca dan alam, perubahan keadaan (〜く／〜に なります), menyambung kata sifat (〜くて／〜で), もう／まだ, arah mata angin, dan こちら・そちら・あちら・どちら.",
+  "halaman_buku": [55, 62],
+  "kotoba": [
+    {"jp": "ハイキング", "kanji": "", "arti": "hiking, jalan-jalan ke alam", "kat": "lainnya"},
+    {"jp": "てんき", "kanji": "天気", "arti": "cuaca", "kat": "alam"},
+    {"jp": "あめ", "kanji": "雨", "arti": "hujan", "kat": "alam"},
+    {"jp": "ゆき", "kanji": "雪", "arti": "salju", "kat": "alam"},
+    {"jp": "かぜ", "kanji": "風", "arti": "angin", "kat": "alam"},
+    {"jp": "そら", "kanji": "空", "arti": "langit", "kat": "alam"},
+    {"jp": "かわ", "kanji": "川", "arti": "sungai", "kat": "alam"},
+    {"jp": "みず", "kanji": "水", "arti": "air", "kat": "alam"},
+    {"jp": "はやし", "kanji": "林", "arti": "hutan kecil", "kat": "alam"},
+    {"jp": "て", "kanji": "手", "arti": "tangan", "kat": "tubuh"},
+    {"jp": "ひるごはん", "kanji": "昼ご飯", "arti": "makan siang", "kat": "makanan"},
+    {"jp": "おちゃ", "kanji": "お茶", "arti": "teh (Jepang)", "kat": "makanan"},
+    {"jp": "びょうき", "kanji": "病気", "arti": "sakit (penyakit)", "kat": "lainnya"},
+    {"jp": "ひがし", "kanji": "東", "arti": "timur", "kat": "arah"},
+    {"jp": "にし", "kanji": "西", "arti": "barat", "kat": "arah"},
+    {"jp": "みなみ", "kanji": "南", "arti": "selatan", "kat": "arah"},
+    {"jp": "きた", "kanji": "北", "arti": "utara", "kat": "arah"},
+    {"jp": "こちら", "kanji": "", "arti": "sebelah sini (sopan)", "kat": "kata tunjuk"},
+    {"jp": "そちら", "kanji": "", "arti": "sebelah situ (sopan)", "kat": "kata tunjuk"},
+    {"jp": "あちら", "kanji": "", "arti": "sebelah sana (sopan)", "kat": "kata tunjuk"},
+    {"jp": "どちら", "kanji": "", "arti": "sebelah mana; yang mana (dari 2)", "kat": "kata tanya"},
+    {"jp": "なります", "kanji": "", "arti": "menjadi", "kat": "kerja"},
+    {"jp": "ふります", "kanji": "降ります", "arti": "turun (hujan/salju)", "kat": "kerja"},
+    {"jp": "ふきます", "kanji": "吹きます", "arti": "bertiup (angin)", "kat": "kerja"},
+    {"jp": "やみます", "kanji": "止みます", "arti": "berhenti (hujan/angin)", "kat": "kerja"},
+    {"jp": "つかれます", "kanji": "疲れます", "arti": "lelah", "kat": "kerja"},
+    {"jp": "あらいます", "kanji": "洗います", "arti": "mencuci", "kat": "kerja"},
+    {"jp": "いい / よい", "kanji": "良い", "arti": "baik, bagus", "kat": "sifat-i"},
+    {"jp": "わるい", "kanji": "悪い", "arti": "buruk, jelek", "kat": "sifat-i"},
+    {"jp": "つめたい", "kanji": "冷たい", "arti": "dingin (benda/air)", "kat": "sifat-i"},
+    {"jp": "すずしい", "kanji": "涼しい", "arti": "sejuk", "kat": "sifat-i"},
+    {"jp": "あたたかい", "kanji": "暖かい", "arti": "hangat", "kat": "sifat-i"},
+    {"jp": "おいしい", "kanji": "", "arti": "enak", "kat": "sifat-i"},
+    {"jp": "まずい", "kanji": "", "arti": "tidak enak", "kat": "sifat-i"},
+    {"jp": "うるさい", "kanji": "", "arti": "berisik", "kat": "sifat-i"},
+    {"jp": "おもい", "kanji": "重い", "arti": "berat", "kat": "sifat-i"},
+    {"jp": "かるい", "kanji": "軽い", "arti": "ringan", "kat": "sifat-i"},
+    {"jp": "ふとい", "kanji": "太い", "arti": "tebal, gemuk (batang)", "kat": "sifat-i"},
+    {"jp": "ほそい", "kanji": "細い", "arti": "tipis, ramping", "kat": "sifat-i"},
+    {"jp": "つよい", "kanji": "強い", "arti": "kuat", "kat": "sifat-i"},
+    {"jp": "よわい", "kanji": "弱い", "arti": "lemah", "kat": "sifat-i"},
+    {"jp": "きたない", "kanji": "汚い", "arti": "kotor", "kat": "sifat-i"},
+    {"jp": "あつい", "kanji": "熱い", "arti": "panas (benda/minuman)", "kat": "sifat-i"},
+    {"jp": "げんきな", "kanji": "元気な", "arti": "sehat, bersemangat", "kat": "sifat-na"},
+    {"jp": "もう", "kanji": "", "arti": "sudah", "kat": "keterangan"},
+    {"jp": "まだ 〜ません", "kanji": "", "arti": "belum", "kat": "keterangan"},
+    {"jp": "みんな", "kanji": "", "arti": "semua (orang)", "kat": "keterangan"},
+    {"jp": "いつも", "kanji": "", "arti": "selalu", "kat": "keterangan"},
+    {"jp": "いちばん", "kanji": "一番", "arti": "paling", "kat": "keterangan"},
+    {"jp": "いちにちじゅう", "kanji": "一日中", "arti": "sepanjang hari", "kat": "waktu"},
+    {"jp": "よかったですね", "kanji": "", "arti": "syukurlah, baguslah", "kat": "ungkapan"},
+    {"jp": "どうも すみません", "kanji": "", "arti": "mohon maaf sekali", "kat": "ungkapan"},
+    {"jp": "いただきます", "kanji": "", "arti": "selamat makan (saya terima)", "kat": "ungkapan"},
+    {"jp": "そうですね", "kanji": "", "arti": "iya, betul ya", "kat": "ungkapan"}
+  ],
+  "kanji": [
+    {"k": "天", "on": ["テン"], "kun": ["あめ"], "arti": "langit", "contoh": [["天気", "てんき", "cuaca"]]},
+    {"k": "気", "on": ["キ"], "kun": [], "arti": "semangat; udara", "contoh": [["天気", "てんき", "cuaca"], ["元気", "げんき", "sehat"]]},
+    {"k": "雨", "on": ["ウ"], "kun": ["あめ"], "arti": "hujan", "contoh": [["雨", "あめ", "hujan"]]},
+    {"k": "川", "on": ["セン"], "kun": ["かわ"], "arti": "sungai", "contoh": [["川", "かわ", "sungai"]]},
+    {"k": "手", "on": ["シュ"], "kun": ["て"], "arti": "tangan", "contoh": [["手", "て", "tangan"]]},
+    {"k": "東", "on": ["トウ"], "kun": ["ひがし"], "arti": "timur", "contoh": [["東", "ひがし", "timur"], ["東京", "とうきょう", "Tokyo"]]},
+    {"k": "林", "on": ["リン"], "kun": ["はやし"], "arti": "hutan kecil", "contoh": [["林", "はやし", "hutan"]]},
+    {"k": "雪", "on": ["セツ"], "kun": ["ゆき"], "arti": "salju", "contoh": [["雪", "ゆき", "salju"]]},
+    {"k": "太", "on": ["タイ"], "kun": ["ふと(い)"], "arti": "tebal, gemuk", "contoh": [["太い", "ふとい", "tebal"]]},
+    {"k": "南", "on": ["ナン"], "kun": ["みなみ"], "arti": "selatan", "contoh": [["南", "みなみ", "selatan"]]},
+    {"k": "北", "on": ["ホク"], "kun": ["きた"], "arti": "utara", "contoh": [["北", "きた", "utara"]]},
+    {"k": "西", "on": ["セイ"], "kun": ["にし"], "arti": "barat", "contoh": [["西", "にし", "barat"]]},
+    {"k": "水", "on": ["スイ"], "kun": ["みず"], "arti": "air", "contoh": [["水", "みず", "air"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "Sifat-い → 〜く なります",
+      "arti": "menjadi (sifat)",
+      "jelaskan": "Buang い, ganti く, lalu なります. さむい → さむく なります. Pengecualian: いい → よく なります.",
+      "contoh": [["へやが あたたかく なりました。", "Ruangannya jadi hangat."], ["てんきが よく なりました。", "Cuacanya jadi bagus."]]
+    },
+    {
+      "pola": "Sifat-な / N → 〜に なります",
+      "arti": "menjadi (sifat-na / benda)",
+      "jelaskan": "Kata sifat-na dan kata benda memakai に. しずか → しずかに なります. はたち → はたちに なります.",
+      "contoh": [["こうじょうが しずかに なりました。", "Pabriknya jadi sepi."], ["ことし 五十さいに なりました。", "Tahun ini saya jadi 50 tahun."]]
+    },
+    {
+      "pola": "Sifat-い → 〜くて、…",
+      "arti": "(sifat 1) dan (sifat 2)",
+      "jelaskan": "Menyambung dua kata sifat: buang い, ganti くて. いい → よくて.",
+      "contoh": [["この パソコンは かるくて、はやいです。", "Komputer ini ringan dan cepat."]]
+    },
+    {
+      "pola": "Sifat-な / N → 〜で、…",
+      "arti": "(sifat-na) dan … / (N) dan …",
+      "jelaskan": "Kata sifat-na dan kata benda memakai で untuk menyambung.",
+      "contoh": [["この こうえんは しずかで、きれいです。", "Taman ini tenang dan indah."]]
+    },
+    {
+      "pola": "もう V-ました / まだ V-ません",
+      "arti": "sudah V / belum V",
+      "jelaskan": "Jawab 'belum' dengan まだ + bentuk ません (bukan ませんでした).",
+      "contoh": [["もう ひるごはんを たべましたか。", "Sudah makan siang?"], ["いいえ、まだ たべません。", "Belum."]]
+    },
+    {
+      "pola": "N が ふります / ふきます / やみます",
+      "arti": "hujan/salju turun · angin bertiup · berhenti",
+      "jelaskan": "Fenomena alam memakai が. Hujan dan salju: ふります. Angin: ふきます. Berhenti: やみます.",
+      "contoh": [["ごご 雨が ふりました。", "Siang tadi hujan turun."], ["かぜが やみました。", "Anginnya berhenti."]]
+    },
+    {
+      "pola": "Pertanyaan だれが / なにが + V",
+      "arti": "Siapa yang …? / Apa yang …?",
+      "jelaskan": "Kalau kata tanya jadi subjek, pakai が (bukan は). Jawabannya juga memakai が.",
+      "contoh": [["だれが きましたか。", "Siapa yang datang?"], ["ブディさんが きました。", "Budi yang datang."]]
+    },
+    {
+      "pola": "こちら / そちら / あちら / どちら",
+      "arti": "arah sini / situ / sana / mana (sopan)",
+      "jelaskan": "Versi sopan dari ここ・そこ・あそこ・どこ, juga untuk arah.",
+      "contoh": [["えきは どちらですか。", "Stasiun ke arah mana?"], ["あちらです。", "Ke arah sana."]]
+    },
+    {
+      "pola": "Sifat-い + N / Sifat-な + な + N / N + の + N",
+      "arti": "rangkuman cara menerangkan kata benda",
+      "jelaskan": "あつい おちゃ (sifat-i langsung), げんきな こども (sifat-na + な), びょうきの ひと (kata benda + の).",
+      "contoh": [["つめたい みずを ください。", "Tolong air dingin."], ["げんきな こどもですね。", "Anak yang sehat ya."]]
+    }
+  ],
+  "ungkapan": [
+    ["おそく なりました。どうも すみません。", "Minta maaf karena terlambat"],
+    ["いい 天気に なりましたね。— よかったですね。", "Basa-basi cuaca"],
+    ["〜を どうぞ。— いただきます。", "Menerima makanan/minuman"]
+  ],
+  "partikel": [
+    {"soal": "へやが あたたか＿ なりました。", "jawab": "く", "arti": "Ruangannya jadi hangat."},
+    {"soal": "こうじょうが しずか＿ なりました。", "jawab": "に", "arti": "Pabriknya jadi sepi."},
+    {"soal": "この パソコンは かる＿＿、はやいです。", "jawab": "くて", "arti": "Komputer ini ringan dan cepat."},
+    {"soal": "この こうえんは しずか＿、きれいです。", "jawab": "で", "arti": "Taman ini tenang dan indah."},
+    {"soal": "ごご 雨＿ ふりました。", "jawab": "が", "arti": "Siang tadi hujan turun."},
+    {"soal": "この 水＿ 手を あらいましょう。", "jawab": "で", "arti": "Ayo cuci tangan dengan air ini."},
+    {"soal": "いいえ、＿＿ たべません。", "jawab": "まだ", "arti": "Belum, saya belum makan."}
+  ]
+}

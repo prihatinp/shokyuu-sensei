@@ -1,0 +1,146 @@
+{
+  "bab": 9,
+  "judul": "でんわ",
+  "judul_id": "Telepon",
+  "tema": "Bentuk kamus (る) dan bentuk ない kata kerja, perkiraan 〜でしょう, 〜か どうか, kalimat ber-が (tetapi), pertanyaan negatif, dan どこか／だれか dengan partikel.",
+  "halaman_buku": [71, 80],
+  "kotoba": [
+    {"jp": "だいがく", "kanji": "大学", "arti": "universitas", "kat": "tempat"},
+    {"jp": "じゅぎょう", "kanji": "授業", "arti": "pelajaran, kuliah", "kat": "lainnya"},
+    {"jp": "せんもん", "kanji": "専門", "arti": "jurusan, keahlian", "kat": "lainnya"},
+    {"jp": "にほんごがっこう", "kanji": "日本語学校", "arti": "sekolah bahasa Jepang", "kat": "tempat"},
+    {"jp": "しけん", "kanji": "試験", "arti": "ujian", "kat": "lainnya"},
+    {"jp": "かもく", "kanji": "科目", "arti": "mata pelajaran", "kat": "lainnya"},
+    {"jp": "さくぶん", "kanji": "作文", "arti": "karangan", "kat": "lainnya"},
+    {"jp": "ぶんぽう", "kanji": "文法", "arti": "tata bahasa", "kat": "lainnya"},
+    {"jp": "はつおん", "kanji": "発音", "arti": "pelafalan", "kat": "lainnya"},
+    {"jp": "せんぱい", "kanji": "先輩", "arti": "senior", "kat": "orang"},
+    {"jp": "こたえ", "kanji": "答え", "arti": "jawaban", "kat": "lainnya"},
+    {"jp": "たいしかん", "kanji": "大使館", "arti": "kedutaan besar", "kat": "tempat"},
+    {"jp": "うんどうじょう", "kanji": "運動場", "arti": "lapangan olahraga", "kat": "tempat"},
+    {"jp": "かい", "kanji": "会", "arti": "pertemuan, acara", "kat": "lainnya"},
+    {"jp": "はるやすみ", "kanji": "春休み", "arti": "libur musim semi", "kat": "waktu"},
+    {"jp": "まちがい", "kanji": "間違い", "arti": "kesalahan", "kat": "lainnya"},
+    {"jp": "こうじょう", "kanji": "工場", "arti": "pabrik", "kat": "tempat"},
+    {"jp": "ぶんがく", "kanji": "文学", "arti": "sastra", "kat": "bidang"},
+    {"jp": "けいざい", "kanji": "経済", "arti": "ekonomi", "kat": "bidang"},
+    {"jp": "れきし", "kanji": "歴史", "arti": "sejarah", "kat": "bidang"},
+    {"jp": "すうがく", "kanji": "数学", "arti": "matematika", "kat": "bidang"},
+    {"jp": "かがく", "kanji": "化学", "arti": "kimia", "kat": "bidang"},
+    {"jp": "ぶつり", "kanji": "物理", "arti": "fisika", "kat": "bidang"},
+    {"jp": "でんきこうがく", "kanji": "電気工学", "arti": "teknik elektro", "kat": "bidang"},
+    {"jp": "ほかの", "kanji": "他の", "arti": "lain, yang lain", "kat": "lainnya"},
+    {"jp": "てん", "kanji": "点", "arti": "nilai, poin", "kat": "lainnya"},
+    {"jp": "しにます", "kanji": "死にます", "arti": "meninggal", "kat": "kerja"},
+    {"jp": "やすみます", "kanji": "休みます", "arti": "tidak masuk (がっこうを〜)", "kat": "kerja"},
+    {"jp": "おもしろい", "kanji": "面白い", "arti": "menarik, lucu", "kat": "sifat-i"},
+    {"jp": "おおい", "kanji": "多い", "arti": "banyak", "kat": "sifat-i"},
+    {"jp": "すくない", "kanji": "少ない", "arti": "sedikit", "kat": "sifat-i"},
+    {"jp": "つまらない", "kanji": "", "arti": "membosankan", "kat": "sifat-i"},
+    {"jp": "ない", "kanji": "無い", "arti": "tidak ada", "kat": "sifat-i"},
+    {"jp": "ただしい", "kanji": "正しい", "arti": "benar", "kat": "sifat-i"},
+    {"jp": "せまい", "kanji": "狭い", "arti": "sempit", "kat": "sifat-i"},
+    {"jp": "ひろい", "kanji": "広い", "arti": "luas", "kat": "sifat-i"},
+    {"jp": "うすい", "kanji": "薄い", "arti": "tipis", "kat": "sifat-i"},
+    {"jp": "あつい", "kanji": "厚い", "arti": "tebal (buku)", "kat": "sifat-i"},
+    {"jp": "あぶない", "kanji": "危ない", "arti": "berbahaya", "kat": "sifat-i"},
+    {"jp": "わかい", "kanji": "若い", "arti": "muda", "kat": "sifat-i"},
+    {"jp": "しんせつな", "kanji": "親切な", "arti": "baik hati", "kat": "sifat-na"},
+    {"jp": "たいへんな", "kanji": "大変な", "arti": "berat, repot", "kat": "sifat-na"},
+    {"jp": "らくな", "kanji": "楽な", "arti": "mudah, ringan, santai", "kat": "sifat-na"},
+    {"jp": "にぎやかな", "kanji": "", "arti": "ramai", "kat": "sifat-na"},
+    {"jp": "たいせつな", "kanji": "大切な", "arti": "penting, berharga", "kat": "sifat-na"},
+    {"jp": "あんぜんな", "kanji": "安全な", "arti": "aman", "kat": "sifat-na"},
+    {"jp": "たぶん", "kanji": "", "arti": "mungkin, barangkali", "kat": "keterangan"},
+    {"jp": "よく わからない", "kanji": "", "arti": "kurang mengerti", "kat": "keterangan"},
+    {"jp": "もしもし", "kanji": "", "arti": "halo (telepon)", "kat": "ungkapan"},
+    {"jp": "それは たいへんですね", "kanji": "", "arti": "wah, berat ya", "kat": "ungkapan"},
+    {"jp": "おげんきで", "kanji": "お元気で", "arti": "jaga kesehatan ya (salam pisah)", "kat": "ungkapan"}
+  ],
+  "kanji": [
+    {"k": "電", "on": ["デン"], "kun": [], "arti": "listrik", "contoh": [["電話", "でんわ", "telepon"], ["電車", "でんしゃ", "kereta listrik"]]},
+    {"k": "行", "on": ["コウ"], "kun": ["い(く)"], "arti": "pergi", "contoh": [["行きます", "いきます", "pergi"], ["銀行", "ぎんこう", "bank"]]},
+    {"k": "来", "on": ["ライ"], "kun": ["く(る)", "き(ます)", "こ(ない)"], "arti": "datang", "contoh": [["来ます", "きます", "datang"], ["来年", "らいねん", "tahun depan"]]},
+    {"k": "休", "on": ["キュウ"], "kun": ["やす(む)"], "arti": "istirahat", "contoh": [["休み", "やすみ", "libur"]]},
+    {"k": "多", "on": ["タ"], "kun": ["おお(い)"], "arti": "banyak", "contoh": [["多い", "おおい", "banyak"]]},
+    {"k": "文", "on": ["ブン"], "kun": [], "arti": "tulisan, kalimat", "contoh": [["文学", "ぶんがく", "sastra"], ["文法", "ぶんぽう", "tata bahasa"]]},
+    {"k": "正", "on": ["セイ"], "kun": ["ただ(しい)"], "arti": "benar", "contoh": [["正しい", "ただしい", "benar"]]},
+    {"k": "死", "on": ["シ"], "kun": ["し(ぬ)"], "arti": "mati", "contoh": [["死にます", "しにます", "meninggal"]]},
+    {"k": "広", "on": ["コウ"], "kun": ["ひろ(い)"], "arti": "luas", "contoh": [["広い", "ひろい", "luas"]]},
+    {"k": "少", "on": ["ショウ"], "kun": ["すく(ない)", "すこ(し)"], "arti": "sedikit", "contoh": [["少ない", "すくない", "sedikit"]]},
+    {"k": "若", "on": ["ジャク"], "kun": ["わか(い)"], "arti": "muda", "contoh": [["若い", "わかい", "muda"]]},
+    {"k": "工", "on": ["コウ"], "kun": [], "arti": "teknik, kerajinan", "contoh": [["工場", "こうじょう", "pabrik"], ["電気工学", "でんきこうがく", "teknik elektro"]]},
+    {"k": "化", "on": ["カ"], "kun": ["ば(ける)"], "arti": "berubah", "contoh": [["化学", "かがく", "kimia"]]},
+    {"k": "大", "on": ["ダイ"], "kun": ["おお(きい)"], "arti": "besar (bacaan ダイ)", "contoh": [["大学", "だいがく", "universitas"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "Bentuk kamus (る) dan bentuk ない",
+      "arti": "bentuk biasa dari 〜ます / 〜ません",
+      "jelaskan": "Grup 1 (〜い ます): かきます → かく → かかない, あいます → あう → あわない. Grup 2 (〜え/い ます): たべます → たべる → たべない. Tidak beraturan: します → する → しない, きます → くる → こない. Khusus: あります → ある → ない.",
+      "contoh": [["いく / いかない", "pergi / tidak pergi"], ["たべる / たべない", "makan / tidak makan"], ["する / しない", "melakukan / tidak melakukan"]]
+    },
+    {
+      "pola": "(たぶん) V-る / V-ない + でしょう",
+      "arti": "mungkin akan … / mungkin tidak …",
+      "jelaskan": "でしょう menyatakan perkiraan. Setelah kata kerja pakai bentuk kamus/ない. Sifat-i langsung + でしょう. Sifat-な dan kata benda tanpa だ.",
+      "contoh": [["あしたは たぶん 雨が ふるでしょう。", "Besok mungkin hujan."], ["その しごとは らくでは ないでしょう。", "Pekerjaan itu mungkin tidak ringan."]]
+    },
+    {
+      "pola": "〜か どうか わかりません",
+      "arti": "tidak tahu apakah … atau tidak",
+      "jelaskan": "Bisa juga: 〜か 〜ないか. Pakai bentuk biasa (る/ない).",
+      "contoh": [["あした しゅっちょうが あるか どうか、わかりません。", "Saya belum tahu besok ada dinas luar atau tidak."]]
+    },
+    {
+      "pola": "Kalimat 1 が、Kalimat 2",
+      "arti": "…, tetapi …",
+      "jelaskan": "が di akhir kalimat pertama berarti 'tetapi'. Lebih halus dari しかし.",
+      "contoh": [["この しごとは たいへんですが、おもしろいです。", "Pekerjaan ini berat, tapi menarik."]]
+    },
+    {
+      "pola": "A は V-ますが、B は V-ません",
+      "arti": "A sih …, tapi B tidak",
+      "jelaskan": "は dipakai untuk membandingkan dua hal. Partikel lain ditambah は: へは, には.",
+      "contoh": [["コーヒーは のみますが、おさけは のみません。", "Kopi minum, tapi alkohol tidak."], ["としょしつには ありませんが、じむしつには あります。", "Di perpustakaan tidak ada, tapi di kantor ada."]]
+    },
+    {
+      "pola": "V-ませんか (pertanyaan negatif) — jawab はい / いいえ",
+      "arti": "Apakah tidak …?",
+      "jelaskan": "Jawaban Jepang mengikuti pernyataan: はい、いません = 'Betul, (dia) tidak ada'. いいえ、います = 'Tidak, (dia) ada'.",
+      "contoh": [["ブディさんは いませんか。", "Budi tidak ada?"], ["はい、いません。", "Iya, tidak ada."]]
+    },
+    {
+      "pola": "Tempat で N が あります",
+      "arti": "di (tempat) ada (acara)",
+      "jelaskan": "Untuk acara/kejadian, tempatnya memakai で (bukan に).",
+      "contoh": [["あした こうじょうで かいぎが あります。", "Besok ada rapat di pabrik."]]
+    },
+    {
+      "pola": "どこかへ / だれかに … — どこへも / だれにも + negatif",
+      "arti": "ke suatu tempat / kepada seseorang — tidak ke mana pun / tidak kepada siapa pun",
+      "jelaskan": "Partikel diselipkan sebelum も: どこへも, だれとも, だれにも, どこからも.",
+      "contoh": [["やすみに どこかへ 行きますか。", "Libur pergi ke suatu tempat?"], ["いいえ、どこへも 行きません。", "Tidak, tidak ke mana-mana."]]
+    },
+    {
+      "pola": "N1 は N2 が おおい / すくない です",
+      "arti": "N1 banyak/sedikit N2-nya",
+      "jelaskan": "おおい dan すくない biasanya jadi predikat, bukan langsung di depan kata benda.",
+      "contoh": [["チカランは こうじょうが おおいです。", "Cikarang banyak pabriknya."]]
+    }
+  ],
+  "ungkapan": [
+    ["もしもし、〜さんですか。", "Membuka telepon"],
+    ["では、おげんきで。さようなら。", "Menutup telepon / berpamitan"],
+    ["それは たいへんですね。", "Bersimpati"]
+  ],
+  "partikel": [
+    {"soal": "この しごとは たいへんです＿、おもしろいです。", "jawab": "が", "arti": "Pekerjaan ini berat, tapi menarik."},
+    {"soal": "あした こうじょう＿ かいぎが あります。", "jawab": "で", "arti": "Besok ada rapat di pabrik."},
+    {"soal": "いいえ、どこへ＿ 行きません。", "jawab": "も", "arti": "Tidak, tidak ke mana-mana."},
+    {"soal": "あした 雨が ふる＿ どうか、わかりません。", "jawab": "か", "arti": "Tidak tahu besok hujan atau tidak."},
+    {"soal": "チカランは こうじょう＿ おおいです。", "jawab": "が", "arti": "Cikarang banyak pabriknya."},
+    {"soal": "あしたは たぶん 雨が ふる＿＿＿＿。", "jawab": "でしょう", "arti": "Besok mungkin hujan."},
+    {"soal": "コーヒー＿ のみますが、おさけは のみません。", "jawab": "は", "arti": "Kopi minum, tapi alkohol tidak."}
+  ]
+}

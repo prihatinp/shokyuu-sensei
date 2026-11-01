@@ -1,0 +1,146 @@
+{
+  "bab": 8,
+  "judul": "ともだちの うち",
+  "judul_id": "Rumah teman",
+  "tema": "Keluarga (milik sendiri vs orang lain), memberi dan menerima (あげます・くれます・もらいます), partikel に / と / から untuk lawan kegiatan, dan 〜時 (saat …).",
+  "halaman_buku": [63, 70],
+  "kotoba": [
+    {"jp": "ともだち", "kanji": "友達", "arti": "teman", "kat": "orang"},
+    {"jp": "かぞく", "kanji": "家族", "arti": "keluarga", "kat": "keluarga"},
+    {"jp": "ちち", "kanji": "父", "arti": "ayah (saya)", "kat": "keluarga"},
+    {"jp": "はは", "kanji": "母", "arti": "ibu (saya)", "kat": "keluarga"},
+    {"jp": "あに", "kanji": "兄", "arti": "kakak laki-laki (saya)", "kat": "keluarga"},
+    {"jp": "あね", "kanji": "姉", "arti": "kakak perempuan (saya)", "kat": "keluarga"},
+    {"jp": "おとうと", "kanji": "弟", "arti": "adik laki-laki (saya)", "kat": "keluarga"},
+    {"jp": "いもうと", "kanji": "妹", "arti": "adik perempuan (saya)", "kat": "keluarga"},
+    {"jp": "おとうさん", "kanji": "お父さん", "arti": "ayah (orang lain / panggilan)", "kat": "keluarga"},
+    {"jp": "おかあさん", "kanji": "お母さん", "arti": "ibu (orang lain / panggilan)", "kat": "keluarga"},
+    {"jp": "おにいさん", "kanji": "お兄さん", "arti": "kakak laki-laki (orang lain)", "kat": "keluarga"},
+    {"jp": "おねえさん", "kanji": "お姉さん", "arti": "kakak perempuan (orang lain)", "kat": "keluarga"},
+    {"jp": "こどもさん", "kanji": "子どもさん", "arti": "anak (orang lain)", "kat": "keluarga"},
+    {"jp": "あかちゃん", "kanji": "赤ちゃん", "arti": "bayi", "kat": "keluarga"},
+    {"jp": "とき", "kanji": "時", "arti": "waktu, saat", "kat": "waktu"},
+    {"jp": "ところ", "kanji": "所", "arti": "tempat", "kat": "tempat"},
+    {"jp": "みち", "kanji": "道", "arti": "jalan", "kat": "tempat"},
+    {"jp": "プール", "kanji": "", "arti": "kolam renang", "kat": "tempat"},
+    {"jp": "こと", "kanji": "事", "arti": "hal", "kat": "lainnya"},
+    {"jp": "もの", "kanji": "物", "arti": "barang, benda", "kat": "benda"},
+    {"jp": "プレゼント", "kanji": "", "arti": "hadiah", "kat": "benda"},
+    {"jp": "にんぎょう", "kanji": "人形", "arti": "boneka", "kat": "benda"},
+    {"jp": "じしょ", "kanji": "辞書", "arti": "kamus", "kat": "benda"},
+    {"jp": "でんわ", "kanji": "電話", "arti": "telepon", "kat": "benda"},
+    {"jp": "こくさいでんわ", "kanji": "国際電話", "arti": "telepon internasional", "kat": "lainnya"},
+    {"jp": "こうくうびん", "kanji": "航空便", "arti": "pos udara", "kat": "lainnya"},
+    {"jp": "でんぽう", "kanji": "電報", "arti": "telegram", "kat": "lainnya"},
+    {"jp": "りょうり", "kanji": "料理", "arti": "masakan; memasak", "kat": "lainnya"},
+    {"jp": "けんか", "kanji": "", "arti": "bertengkar", "kat": "lainnya"},
+    {"jp": "しあい", "kanji": "試合", "arti": "pertandingan", "kat": "lainnya"},
+    {"jp": "けっこん", "kanji": "結婚", "arti": "menikah", "kat": "lainnya"},
+    {"jp": "しつもん", "kanji": "質問", "arti": "pertanyaan; bertanya", "kat": "lainnya"},
+    {"jp": "そうだん", "kanji": "相談", "arti": "berkonsultasi", "kat": "lainnya"},
+    {"jp": "さんぽ", "kanji": "散歩", "arti": "jalan-jalan santai", "kat": "lainnya"},
+    {"jp": "あげます", "kanji": "", "arti": "memberi (ke orang lain)", "kat": "kerja"},
+    {"jp": "くれます", "kanji": "", "arti": "memberi (ke saya)", "kat": "kerja"},
+    {"jp": "もらいます", "kanji": "", "arti": "menerima", "kat": "kerja"},
+    {"jp": "おしえます", "kanji": "教えます", "arti": "mengajar; memberi tahu", "kat": "kerja"},
+    {"jp": "ならいます", "kanji": "習います", "arti": "belajar (dari seseorang)", "kat": "kerja"},
+    {"jp": "かけます", "kanji": "", "arti": "menelepon (でんわを〜)", "kat": "kerja"},
+    {"jp": "みせます", "kanji": "見せます", "arti": "memperlihatkan", "kat": "kerja"},
+    {"jp": "あそびます", "kanji": "遊びます", "arti": "bermain", "kat": "kerja"},
+    {"jp": "うまれます", "kanji": "生まれます", "arti": "lahir", "kat": "kerja"},
+    {"jp": "あいます", "kanji": "会います", "arti": "bertemu", "kat": "kerja"},
+    {"jp": "にて います", "kanji": "似ています", "arti": "mirip", "kat": "kerja"},
+    {"jp": "ちがいます", "kanji": "違います", "arti": "berbeda", "kat": "kerja"},
+    {"jp": "おくります", "kanji": "送ります", "arti": "mengirim", "kat": "kerja"},
+    {"jp": "だします", "kanji": "出します", "arti": "mengirim (surat)", "kat": "kerja"},
+    {"jp": "こたえます", "kanji": "答えます", "arti": "menjawab", "kat": "kerja"},
+    {"jp": "はなします", "kanji": "話します", "arti": "berbicara", "kat": "kerja"},
+    {"jp": "わかれます", "kanji": "別れます", "arti": "berpisah", "kat": "kerja"},
+    {"jp": "およぎます", "kanji": "泳ぎます", "arti": "berenang", "kat": "kerja"},
+    {"jp": "よく", "kanji": "", "arti": "sering; baik-baik", "kat": "keterangan"},
+    {"jp": "だいぶ", "kanji": "", "arti": "cukup banyak, lumayan", "kat": "keterangan"},
+    {"jp": "ひとりで", "kanji": "一人で", "arti": "sendirian", "kat": "keterangan"},
+    {"jp": "おめでとう ございます", "kanji": "", "arti": "selamat!", "kat": "ungkapan"},
+    {"jp": "それは いいですね", "kanji": "", "arti": "wah, bagus itu", "kat": "ungkapan"},
+    {"jp": "おげんきですか", "kanji": "お元気ですか", "arti": "apa kabar?", "kat": "ungkapan"}
+  ],
+  "kanji": [
+    {"k": "時", "on": ["ジ"], "kun": ["とき"], "arti": "waktu, jam", "contoh": [["子どもの時", "こどものとき", "waktu kecil"]]},
+    {"k": "女", "on": ["ジョ"], "kun": ["おんな"], "arti": "perempuan", "contoh": [["女の人", "おんなのひと", "perempuan"]]},
+    {"k": "会", "on": ["カイ"], "kun": ["あ(う)"], "arti": "bertemu; pertemuan", "contoh": [["会います", "あいます", "bertemu"], ["会社", "かいしゃ", "perusahaan"]]},
+    {"k": "父", "on": ["フ"], "kun": ["ちち"], "arti": "ayah", "contoh": [["父", "ちち", "ayah saya"], ["お父さん", "おとうさん", "ayah (orang lain)"]]},
+    {"k": "母", "on": ["ボ"], "kun": ["はは"], "arti": "ibu", "contoh": [["母", "はは", "ibu saya"], ["お母さん", "おかあさん", "ibu (orang lain)"]]},
+    {"k": "先", "on": ["セン"], "kun": ["さき"], "arti": "dahulu, depan", "contoh": [["先生", "せんせい", "guru"]]},
+    {"k": "兄", "on": ["ケイ"], "kun": ["あに"], "arti": "kakak laki-laki", "contoh": [["兄", "あに", "kakak laki-laki saya"], ["お兄さん", "おにいさん", "kakak laki-laki (orang lain)"]]},
+    {"k": "別", "on": ["ベツ"], "kun": ["わか(れる)"], "arti": "berpisah; lain", "contoh": [["別れます", "わかれます", "berpisah"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "Orang に N を あげます",
+      "arti": "memberi N kepada (orang)",
+      "jelaskan": "Pemberi bisa saya atau orang lain, penerimanya BUKAN saya.",
+      "contoh": [["わたしは ははに はなを あげました。", "Saya memberi ibu bunga."]]
+    },
+    {
+      "pola": "Orang は わたしに N を くれます",
+      "arti": "(orang) memberi N kepada saya",
+      "jelaskan": "Dipakai kalau penerimanya saya (atau keluarga saya). Jangan pakai あげます untuk diri sendiri.",
+      "contoh": [["ともだちが わたしに じしょを くれました。", "Teman memberi saya kamus."]]
+    },
+    {
+      "pola": "Orang に / から N を もらいます",
+      "arti": "menerima N dari (orang)",
+      "jelaskan": "Sudut pandang penerima. に dan から sama-sama boleh.",
+      "contoh": [["わたしは ちちに とけいを もらいました。", "Saya menerima jam dari ayah."]]
+    },
+    {
+      "pola": "Orang に おしえます / Orang に (から) ならいます",
+      "arti": "mengajari (orang) / belajar dari (orang)",
+      "jelaskan": "Pola yang sama dengan あげます / もらいます untuk ilmu.",
+      "contoh": [["先生は わたしに 日本ごを おしえます。", "Guru mengajari saya bahasa Jepang."], ["わたしは 先生に 日本ごを ならいます。", "Saya belajar bahasa Jepang dari guru."]]
+    },
+    {
+      "pola": "Orang に / と あいます・はなします・そうだんします",
+      "arti": "bertemu / berbicara / berkonsultasi dengan (orang)",
+      "jelaskan": "に = satu arah (saya yang mendatangi). と = dua arah, sama-sama.",
+      "contoh": [["ぶちょうに そうだんしました。", "Saya berkonsultasi ke kepala bagian."], ["ともだちと はなしました。", "Saya mengobrol dengan teman."]]
+    },
+    {
+      "pola": "Orang と けっこんします・けんかします・わかれます",
+      "arti": "menikah / bertengkar / berpisah dengan (orang)",
+      "jelaskan": "Kegiatan yang butuh dua pihak memakai と.",
+      "contoh": [["あには きょねん けっこんしました。", "Kakak saya menikah tahun lalu."]]
+    },
+    {
+      "pola": "Orang の ところへ いきます",
+      "arti": "pergi ke tempat (orang)",
+      "jelaskan": "Orang tidak bisa langsung jadi tujuan へ. Tambahkan の ところ.",
+      "contoh": [["あした 先生の ところへ いきます。", "Besok saya pergi ke tempat guru."]]
+    },
+    {
+      "pola": "〜時 (とき)、…",
+      "arti": "ketika / waktu …",
+      "jelaskan": "Sifat-i + とき, Sifat-な + な + とき, N + の + とき.",
+      "contoh": [["こどもの とき、よく かわで およぎました。", "Waktu kecil saya sering berenang di sungai."], ["ひまな とき、さんぽを します。", "Kalau senggang saya jalan-jalan."]]
+    },
+    {
+      "pola": "Keluarga sendiri vs orang lain",
+      "arti": "ちち・はは・あに vs おとうさん・おかあさん・おにいさん",
+      "jelaskan": "Ke orang luar, sebut keluarga sendiri dengan kata rendah hati (ちち, はは). Keluarga orang lain dengan kata hormat (おとうさん, おかあさん).",
+      "contoh": [["ちちは エンジニアです。", "Ayah saya insinyur."], ["おとうさんは おげんきですか。", "Ayah Anda sehat?"]]
+    }
+  ],
+  "ungkapan": [
+    ["おめでとう ございます。— ありがとう ございます。", "Memberi dan menerima ucapan selamat"],
+    ["それは いいですね。", "Menanggapi kabar baik"]
+  ],
+  "partikel": [
+    {"soal": "わたしは はは＿ はなを あげました。", "jawab": "に", "arti": "Saya memberi ibu bunga."},
+    {"soal": "ちち＿ とけいを もらいました。", "jawab": "から", "arti": "Saya menerima jam dari ayah."},
+    {"soal": "あには きょねん かいしゃの 人＿ けっこんしました。", "jawab": "と", "arti": "Kakak saya menikah dengan orang kantornya tahun lalu."},
+    {"soal": "あした 先生の ところ＿ いきます。", "jawab": "へ", "arti": "Besok saya ke tempat guru."},
+    {"soal": "こども＿ とき、よく およぎました。", "jawab": "の", "arti": "Waktu kecil saya sering berenang."},
+    {"soal": "ひま＿ とき、さんぽを します。", "jawab": "な", "arti": "Kalau senggang saya jalan-jalan."},
+    {"soal": "ともだちが わたしに じしょを ＿＿＿＿。", "jawab": "くれました", "arti": "Teman memberi saya kamus."}
+  ]
+}

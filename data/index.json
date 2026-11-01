@@ -43,6 +43,24 @@
       "bab": 7,
       "judul": "ハイキング",
       "judul_id": "Hiking",
+      "file": "data/bab7.json"
+    },
+    {
+      "bab": 8,
+      "judul": "ともだちの うち",
+      "judul_id": "Rumah teman",
+      "file": "data/bab8.json"
+    },
+    {
+      "bab": 9,
+      "judul": "でんわ",
+      "judul_id": "Telepon",
+      "file": "data/bab9.json"
+    },
+    {
+      "bab": 10,
+      "judul": "たいいくの じゅぎょう",
+      "judul_id": "Pelajaran olahraga",
       "file": null
     }
   ],
