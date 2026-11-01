@@ -61,6 +61,24 @@
       "bab": 10,
       "judul": "たいいくの じゅぎょう",
       "judul_id": "Pelajaran olahraga",
+      "file": "data/bab10.json"
+    },
+    {
+      "bab": 11,
+      "judul": "かまくらけんぶつ",
+      "judul_id": "Wisata ke Kamakura",
+      "file": "data/bab11.json"
+    },
+    {
+      "bab": 12,
+      "judul": "図書室",
+      "judul_id": "Perpustakaan",
+      "file": "data/bab12.json"
+    },
+    {
+      "bab": 13,
+      "judul": "かい物 (2)",
+      "judul_id": "Belanja (2)",
       "file": null
     }
   ],

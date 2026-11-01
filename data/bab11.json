@@ -1,0 +1,159 @@
+{
+  "bab": 11,
+  "judul": "かまくらけんぶつ",
+  "judul_id": "Wisata ke Kamakura",
+  "tema": "Naik-turun dan pindah kendaraan, menyambung kegiatan berurutan (〜て、〜て), 〜てから dan 〜まえに, 〜て いる (sedang/keadaan), 〜て いく／くる, dan ukuran (〜さ, meter, kilogram).",
+  "halaman_buku": [90, 97],
+  "kotoba": [
+    {"jp": "えき", "kanji": "駅", "arti": "stasiun", "kat": "tempat"},
+    {"jp": "ちず", "kanji": "地図", "arti": "peta", "kat": "benda"},
+    {"jp": "だいぶつ", "kanji": "大仏", "arti": "patung Buddha besar", "kat": "tempat"},
+    {"jp": "りょかん", "kanji": "旅館", "arti": "penginapan tradisional", "kat": "tempat"},
+    {"jp": "ホテル", "kanji": "", "arti": "hotel", "kat": "tempat"},
+    {"jp": "げんかん", "kanji": "玄関", "arti": "pintu masuk rumah/gedung", "kat": "tempat"},
+    {"jp": "うみ", "kanji": "海", "arti": "laut", "kat": "alam"},
+    {"jp": "いわ", "kanji": "岩", "arti": "batu karang", "kat": "alam"},
+    {"jp": "ことり", "kanji": "小鳥", "arti": "burung kecil", "kat": "hewan"},
+    {"jp": "つり", "kanji": "釣り", "arti": "memancing", "kat": "lainnya"},
+    {"jp": "え", "kanji": "絵", "arti": "gambar, lukisan", "kat": "benda"},
+    {"jp": "ばんごはん", "kanji": "晩ご飯", "arti": "makan malam", "kat": "makanan"},
+    {"jp": "ちかく", "kanji": "近く", "arti": "dekat, sekitar", "kat": "posisi"},
+    {"jp": "とおく", "kanji": "遠く", "arti": "jauh", "kat": "posisi"},
+    {"jp": "いえ", "kanji": "家", "arti": "rumah", "kat": "tempat"},
+    {"jp": "くるま", "kanji": "車", "arti": "mobil", "kat": "kendaraan"},
+    {"jp": "ちかてつ", "kanji": "地下鉄", "arti": "kereta bawah tanah", "kat": "kendaraan"},
+    {"jp": "きしゃ", "kanji": "汽車", "arti": "kereta api", "kat": "kendaraan"},
+    {"jp": "タクシー", "kanji": "", "arti": "taksi", "kat": "kendaraan"},
+    {"jp": "しょうがっこう", "kanji": "小学校", "arti": "SD", "kat": "tempat"},
+    {"jp": "ちゅうがっこう", "kanji": "中学校", "arti": "SMP", "kat": "tempat"},
+    {"jp": "こうとうがっこう", "kanji": "高等学校", "arti": "SMA", "kat": "tempat"},
+    {"jp": "かお", "kanji": "顔", "arti": "wajah", "kat": "tubuh"},
+    {"jp": "は", "kanji": "歯", "arti": "gigi", "kat": "tubuh"},
+    {"jp": "ひげ", "kanji": "", "arti": "kumis, jenggot", "kat": "tubuh"},
+    {"jp": "シャワー", "kanji": "", "arti": "pancuran mandi", "kat": "lainnya"},
+    {"jp": "おふろ", "kanji": "お風呂", "arti": "bak mandi berendam", "kat": "lainnya"},
+    {"jp": "たかさ", "kanji": "高さ", "arti": "tinggi (ukuran)", "kat": "ukuran"},
+    {"jp": "おもさ", "kanji": "重さ", "arti": "berat (ukuran)", "kat": "ukuran"},
+    {"jp": "ながさ", "kanji": "長さ", "arti": "panjang (ukuran)", "kat": "ukuran"},
+    {"jp": "たて", "kanji": "縦", "arti": "vertikal, panjang", "kat": "ukuran"},
+    {"jp": "メートル", "kanji": "", "arti": "meter", "kat": "ukuran"},
+    {"jp": "センチ(メートル)", "kanji": "", "arti": "sentimeter", "kat": "ukuran"},
+    {"jp": "ミリ(メートル)", "kanji": "", "arti": "milimeter", "kat": "ukuran"},
+    {"jp": "キロ(メートル / グラム)", "kanji": "", "arti": "kilometer / kilogram", "kat": "ukuran"},
+    {"jp": "グラム", "kanji": "", "arti": "gram", "kat": "ukuran"},
+    {"jp": "トン", "kanji": "", "arti": "ton", "kat": "ukuran"},
+    {"jp": "もって くる", "kanji": "持って来る", "arti": "membawa (ke sini)", "kat": "kerja"},
+    {"jp": "もって いく", "kanji": "持って行く", "arti": "membawa (pergi)", "kat": "kerja"},
+    {"jp": "もって かえる", "kanji": "持って帰る", "arti": "membawa pulang", "kat": "kerja"},
+    {"jp": "つく", "kanji": "着く", "arti": "tiba", "kat": "kerja"},
+    {"jp": "でる", "kanji": "出る", "arti": "keluar; berangkat", "kat": "kerja"},
+    {"jp": "のる", "kanji": "乗る", "arti": "naik (kendaraan)", "kat": "kerja"},
+    {"jp": "おりる", "kanji": "降りる", "arti": "turun (kendaraan)", "kat": "kerja"},
+    {"jp": "のりかえる", "kanji": "乗り換える", "arti": "pindah kendaraan", "kat": "kerja"},
+    {"jp": "あるく", "kanji": "歩く", "arti": "berjalan", "kat": "kerja"},
+    {"jp": "とまる", "kanji": "泊まる", "arti": "menginap", "kat": "kerja"},
+    {"jp": "とぶ", "kanji": "飛ぶ", "arti": "terbang", "kat": "kerja"},
+    {"jp": "のぼる", "kanji": "登る", "arti": "mendaki", "kat": "kerja"},
+    {"jp": "はいる", "kanji": "入る", "arti": "masuk", "kat": "kerja"},
+    {"jp": "はしる", "kanji": "走る", "arti": "berlari; melaju", "kat": "kerja"},
+    {"jp": "すむ", "kanji": "住む", "arti": "tinggal, bermukim", "kat": "kerja"},
+    {"jp": "みがく", "kanji": "磨く", "arti": "menggosok (gigi)", "kat": "kerja"},
+    {"jp": "そる", "kanji": "剃る", "arti": "mencukur", "kat": "kerja"},
+    {"jp": "あびる", "kanji": "浴びる", "arti": "mandi (シャワーを〜)", "kat": "kerja"},
+    {"jp": "はかる", "kanji": "計る", "arti": "mengukur, menimbang", "kat": "kerja"},
+    {"jp": "どう (いきますか)", "kanji": "", "arti": "bagaimana (caranya)", "kat": "kata tanya"}
+  ],
+  "kanji": [
+    {"k": "地", "on": ["チ", "ジ"], "kun": [], "arti": "tanah, bumi", "contoh": [["地図", "ちず", "peta"]]},
+    {"k": "図", "on": ["ズ", "ト"], "kun": [], "arti": "gambar, rencana", "contoh": [["地図", "ちず", "peta"], ["図書室", "としょしつ", "perpustakaan"]]},
+    {"k": "前", "on": ["ゼン"], "kun": ["まえ"], "arti": "depan, sebelum", "contoh": [["駅の前", "えきのまえ", "depan stasiun"]]},
+    {"k": "駅", "on": ["エキ"], "kun": [], "arti": "stasiun", "contoh": [["駅", "えき", "stasiun"]]},
+    {"k": "車", "on": ["シャ"], "kun": ["くるま"], "arti": "kendaraan", "contoh": [["電車", "でんしゃ", "kereta listrik"], ["車", "くるま", "mobil"]]},
+    {"k": "半", "on": ["ハン"], "kun": [], "arti": "setengah", "contoh": [["二時半", "にじはん", "jam setengah tiga"]]},
+    {"k": "海", "on": ["カイ"], "kun": ["うみ"], "arti": "laut", "contoh": [["海", "うみ", "laut"]]},
+    {"k": "高", "on": ["コウ"], "kun": ["たか(い)"], "arti": "tinggi", "contoh": [["高い", "たかい", "tinggi, mahal"], ["高さ", "たかさ", "ketinggian"]]},
+    {"k": "鳥", "on": ["チョウ"], "kun": ["とり"], "arti": "burung", "contoh": [["小鳥", "ことり", "burung kecil"]]},
+    {"k": "泳", "on": ["エイ"], "kun": ["およ(ぐ)"], "arti": "berenang", "contoh": [["泳ぐ", "およぐ", "berenang"]]},
+    {"k": "岩", "on": ["ガン"], "kun": ["いわ"], "arti": "batu karang", "contoh": [["岩", "いわ", "batu karang"]]},
+    {"k": "入", "on": ["ニュウ"], "kun": ["はい(る)", "い(れる)"], "arti": "masuk", "contoh": [["入る", "はいる", "masuk"]]},
+    {"k": "家", "on": ["カ"], "kun": ["いえ"], "arti": "rumah", "contoh": [["家", "いえ", "rumah"]]},
+    {"k": "毎", "on": ["マイ"], "kun": [], "arti": "setiap", "contoh": [["毎あさ", "まいあさ", "setiap pagi"], ["毎日", "まいにち", "setiap hari"]]},
+    {"k": "重", "on": ["ジュウ"], "kun": ["おも(い)"], "arti": "berat", "contoh": [["重い", "おもい", "berat"], ["重さ", "おもさ", "bobot"]]},
+    {"k": "計", "on": ["ケイ"], "kun": ["はか(る)"], "arti": "mengukur", "contoh": [["計る", "はかる", "mengukur"], ["時計", "とけい", "jam"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "Kendaraan に のります / Kendaraan を おります",
+      "arti": "naik / turun (kendaraan)",
+      "jelaskan": "Perhatikan partikelnya: のる memakai に, おりる dan でる memakai を. Pindah kendaraan: A から B に のりかえます.",
+      "contoh": [["チカラン駅で 電車に のります。", "Saya naik kereta di stasiun Cikarang."], ["つぎの 駅で 電車を おります。", "Saya turun di stasiun berikutnya."], ["バスから 電車に のりかえます。", "Pindah dari bus ke kereta."]]
+    },
+    {
+      "pola": "Tempat を でます / Tempat に つきます・はいります",
+      "arti": "keluar dari / tiba di / masuk ke (tempat)",
+      "jelaskan": "でる = を (titik yang ditinggalkan). つく dan はいる = に (titik tujuan).",
+      "contoh": [["七時に 家を でます。", "Jam 7 keluar dari rumah."], ["八時に こうじょうに つきます。", "Jam 8 tiba di pabrik."]]
+    },
+    {
+      "pola": "V1-て、V2-て、V3",
+      "arti": "V1, lalu V2, lalu V3",
+      "jelaskan": "Menyambung kegiatan berurutan dengan bentuk て. Waktu (lampau/sekarang) ditentukan oleh kata kerja terakhir.",
+      "contoh": [["あさ おきて、かおを あらって、ごはんを たべます。", "Pagi bangun, cuci muka, lalu makan."]]
+    },
+    {
+      "pola": "V-て から、…",
+      "arti": "setelah V, …",
+      "jelaskan": "Menekankan bahwa kegiatan kedua dilakukan sesudah yang pertama selesai.",
+      "contoh": [["しごとが おわって から、ジムへ いきます。", "Setelah kerja selesai, saya ke gym."]]
+    },
+    {
+      "pola": "V-る まえに / N の まえに、…",
+      "arti": "sebelum V / sebelum N, …",
+      "jelaskan": "Kata kerja di depan まえに selalu bentuk kamus, walaupun ceritanya lampau.",
+      "contoh": [["ねる まえに、メールを チェックします。", "Sebelum tidur, saya cek email."], ["かいぎの まえに、しりょうを よみます。", "Sebelum rapat, saya baca dokumen."]]
+    },
+    {
+      "pola": "V-て います (sedang)",
+      "arti": "sedang V",
+      "jelaskan": "Kegiatan yang sedang berlangsung.",
+      "contoh": [["いま ロボットが うごいて います。", "Robotnya sedang bergerak."], ["雨が ふって います。", "Sedang hujan."]]
+    },
+    {
+      "pola": "V-て います (keadaan)",
+      "arti": "keadaan tetap / kebiasaan",
+      "jelaskan": "すんで います (tinggal di), はたらいて います (bekerja di). Juga untuk keadaan yang berlanjut.",
+      "contoh": [["わたしは ブカシに すんで います。", "Saya tinggal di Bekasi."], ["じどうしゃの 会社で はたらいて います。", "Saya bekerja di perusahaan otomotif."]]
+    },
+    {
+      "pola": "N を もって いきます / きます / かえります",
+      "arti": "membawa N pergi / ke sini / pulang",
+      "jelaskan": "Bentuk て + いく/くる menunjukkan arah gerakan.",
+      "contoh": [["あした ノートパソコンを もって きて ください。", "Besok tolong bawa laptop."]]
+    },
+    {
+      "pola": "Sifat-い → 〜さ (kata benda ukuran)",
+      "arti": "ketinggian, panjang, berat, …",
+      "jelaskan": "Buang い, ganti さ: たかい → たかさ, ながい → ながさ, おもい → おもさ.",
+      "contoh": [["この ロボットの おもさは 五十キロぐらいです。", "Berat robot ini sekitar 50 kg."], ["ベルトコンベヤーの ながさは 十メートルです。", "Panjang konveyor 10 meter."]]
+    },
+    {
+      "pola": "N へは どう いきますか",
+      "arti": "Ke N bagaimana caranya?",
+      "jelaskan": "どう untuk menanyakan cara/rute. Jawab dengan rangkaian 〜て.",
+      "contoh": [["こうじょうへは どう いきますか。", "Ke pabrik bagaimana caranya?"], ["電車に のって、チカラン駅で おりて、タクシーで いきます。", "Naik kereta, turun di Cikarang, lalu naik taksi."]]
+    }
+  ],
+  "ungkapan": [
+    ["〜に いきましょうか。— ええ、そう しましょう。", "Menawarkan ajakan"],
+    ["ながい 間 まちましたか。— いいえ。", "Menyapa saat terlambat bertemu"]
+  ],
+  "partikel": [
+    {"soal": "チカラン駅で 電車＿ のります。", "jawab": "に", "arti": "Saya naik kereta di stasiun Cikarang."},
+    {"soal": "つぎの 駅で 電車＿ おります。", "jawab": "を", "arti": "Saya turun dari kereta di stasiun berikutnya."},
+    {"soal": "七時に 家＿ でます。", "jawab": "を", "arti": "Jam 7 saya keluar rumah."},
+    {"soal": "バス＿＿ 電車に のりかえます。", "jawab": "から", "arti": "Pindah dari bus ke kereta."},
+    {"soal": "しごとが おわって＿＿、ジムへ いきます。", "jawab": "から", "arti": "Setelah kerja selesai, saya ke gym."},
+    {"soal": "かいぎ＿ まえに、しりょうを よみます。", "jawab": "の", "arti": "Sebelum rapat, saya membaca dokumen."},
+    {"soal": "わたしは ブカシ＿ すんで います。", "jawab": "に", "arti": "Saya tinggal di Bekasi."}
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "bab": 10,
+  "judul": "たいいくの じゅぎょう",
+  "judul_id": "Pelajaran olahraga",
+  "tema": "Bentuk て: meminta (〜て ください) dan melarang (〜ないで ください), alasan (〜から, だから, どうして), tujuan (〜に いきます), dan cara (〜かた).",
+  "halaman_buku": [81, 89],
+  "kotoba": [
+    {"jp": "たいいく", "kanji": "体育", "arti": "pendidikan jasmani", "kat": "lainnya"},
+    {"jp": "おいしゃさん", "kanji": "お医者さん", "arti": "dokter", "kat": "orang"},
+    {"jp": "なまえ", "kanji": "名前", "arti": "nama", "kat": "lainnya"},
+    {"jp": "へんじ", "kanji": "返事", "arti": "jawaban, sahutan", "kat": "lainnya"},
+    {"jp": "やきゅう", "kanji": "野球", "arti": "bisbol", "kat": "olahraga"},
+    {"jp": "バット", "kanji": "", "arti": "pemukul bisbol", "kat": "benda"},
+    {"jp": "はんたい", "kanji": "反対", "arti": "kebalikan; menentang", "kat": "lainnya"},
+    {"jp": "みぎ", "kanji": "右", "arti": "kanan", "kat": "posisi"},
+    {"jp": "ひだり", "kanji": "左", "arti": "kiri", "kat": "posisi"},
+    {"jp": "みぎて", "kanji": "右手", "arti": "tangan kanan", "kat": "tubuh"},
+    {"jp": "ひだりて", "kanji": "左手", "arti": "tangan kiri", "kat": "tubuh"},
+    {"jp": "くすり", "kanji": "薬", "arti": "obat", "kat": "benda"},
+    {"jp": "と", "kanji": "戸", "arti": "pintu (geser)", "kat": "benda"},
+    {"jp": "いし", "kanji": "石", "arti": "batu", "kat": "alam"},
+    {"jp": "まど", "kanji": "窓", "arti": "jendela", "kat": "benda"},
+    {"jp": "でんき", "kanji": "電気", "arti": "listrik; lampu", "kat": "benda"},
+    {"jp": "おさけ", "kanji": "お酒", "arti": "minuman beralkohol", "kat": "makanan"},
+    {"jp": "ひこうじょう", "kanji": "飛行場", "arti": "bandara", "kat": "tempat"},
+    {"jp": "ていりゅうじょ", "kanji": "停留所", "arti": "halte bus", "kat": "tempat"},
+    {"jp": "ひゃくえんだま", "kanji": "百円玉", "arti": "koin 100 yen", "kat": "benda"},
+    {"jp": "れんしゅう", "kanji": "練習", "arti": "latihan", "kat": "lainnya"},
+    {"jp": "ちゅうい", "kanji": "注意", "arti": "hati-hati, perhatian", "kat": "lainnya"},
+    {"jp": "そうじ", "kanji": "掃除", "arti": "bersih-bersih", "kat": "lainnya"},
+    {"jp": "けんがく", "kanji": "見学", "arti": "kunjungan studi", "kat": "lainnya"},
+    {"jp": "どうして", "kanji": "", "arti": "mengapa", "kat": "kata tanya"},
+    {"jp": "いう", "kanji": "言う", "arti": "berkata", "kat": "kerja"},
+    {"jp": "はじめる", "kanji": "始める", "arti": "memulai", "kat": "kerja"},
+    {"jp": "よぶ", "kanji": "呼ぶ", "arti": "memanggil", "kat": "kerja"},
+    {"jp": "とる", "kanji": "取る", "arti": "mengambil", "kat": "kerja"},
+    {"jp": "つかう", "kanji": "使う", "arti": "memakai", "kat": "kerja"},
+    {"jp": "なげる", "kanji": "投げる", "arti": "melempar", "kat": "kerja"},
+    {"jp": "うつ", "kanji": "打つ", "arti": "memukul", "kat": "kerja"},
+    {"jp": "もつ", "kanji": "持つ", "arti": "memegang, membawa", "kat": "kerja"},
+    {"jp": "かす", "kanji": "貸す", "arti": "meminjamkan", "kat": "kerja"},
+    {"jp": "かりる", "kanji": "借りる", "arti": "meminjam", "kat": "kerja"},
+    {"jp": "かえす", "kanji": "返す", "arti": "mengembalikan", "kat": "kerja"},
+    {"jp": "まつ", "kanji": "待つ", "arti": "menunggu", "kat": "kerja"},
+    {"jp": "あける", "kanji": "開ける", "arti": "membuka", "kat": "kerja"},
+    {"jp": "しめる", "kanji": "閉める", "arti": "menutup", "kat": "kerja"},
+    {"jp": "つける", "kanji": "", "arti": "menyalakan", "kat": "kerja"},
+    {"jp": "けす", "kanji": "消す", "arti": "mematikan; menghapus", "kat": "kerja"},
+    {"jp": "わすれる", "kanji": "忘れる", "arti": "lupa", "kat": "kerja"},
+    {"jp": "むかえる", "kanji": "迎える", "arti": "menjemput", "kat": "kerja"},
+    {"jp": "みおくる", "kanji": "見送る", "arti": "mengantar (pergi)", "kat": "kerja"},
+    {"jp": "おぼえる", "kanji": "覚える", "arti": "menghafal, mengingat", "kat": "kerja"},
+    {"jp": "すう", "kanji": "吸う", "arti": "mengisap (rokok)", "kat": "kerja"},
+    {"jp": "これから", "kanji": "", "arti": "mulai sekarang", "kat": "keterangan"},
+    {"jp": "また", "kanji": "", "arti": "lagi", "kat": "keterangan"},
+    {"jp": "あとで", "kanji": "後で", "arti": "nanti", "kat": "keterangan"},
+    {"jp": "もういちど", "kanji": "もう一度", "arti": "sekali lagi", "kat": "keterangan"},
+    {"jp": "ちょっと", "kanji": "", "arti": "sebentar, sedikit", "kat": "keterangan"},
+    {"jp": "だから", "kanji": "", "arti": "oleh karena itu", "kat": "penghubung"},
+    {"jp": "これで おわります", "kanji": "", "arti": "sekian (penutup)", "kat": "ungkapan"},
+    {"jp": "では、また", "kanji": "", "arti": "sampai jumpa lagi", "kat": "ungkapan"},
+    {"jp": "いいですよ", "kanji": "", "arti": "boleh, silakan", "kat": "ungkapan"},
+    {"jp": "〜かた", "kanji": "〜方", "arti": "cara …", "kat": "akhiran"}
+  ],
+  "kanji": [
+    {"k": "医", "on": ["イ"], "kun": [], "arti": "pengobatan", "contoh": [["お医者さん", "おいしゃさん", "dokter"]]},
+    {"k": "者", "on": ["シャ"], "kun": ["もの"], "arti": "orang", "contoh": [["医者", "いしゃ", "dokter"]]},
+    {"k": "言", "on": ["ゲン"], "kun": ["い(う)"], "arti": "berkata", "contoh": [["言う", "いう", "berkata"]]},
+    {"k": "反", "on": ["ハン"], "kun": [], "arti": "lawan, balik", "contoh": [["反対", "はんたい", "kebalikan"]]},
+    {"k": "対", "on": ["タイ"], "kun": [], "arti": "terhadap, pasangan", "contoh": [["反対", "はんたい", "kebalikan"]]},
+    {"k": "良", "on": ["リョウ"], "kun": ["よ(い)"], "arti": "baik", "contoh": [["良い", "よい", "baik"]]},
+    {"k": "右", "on": ["ウ"], "kun": ["みぎ"], "arti": "kanan", "contoh": [["右手", "みぎて", "tangan kanan"]]},
+    {"k": "左", "on": ["サ"], "kun": ["ひだり"], "arti": "kiri", "contoh": [["左手", "ひだりて", "tangan kiri"]]},
+    {"k": "玉", "on": ["ギョク"], "kun": ["たま"], "arti": "bola, butir", "contoh": [["百円玉", "ひゃくえんだま", "koin 100 yen"]]},
+    {"k": "戸", "on": ["コ"], "kun": ["と"], "arti": "pintu", "contoh": [["戸", "と", "pintu"]]},
+    {"k": "開", "on": ["カイ"], "kun": ["あ(ける)", "あ(く)"], "arti": "buka", "contoh": [["開ける", "あける", "membuka"]]},
+    {"k": "石", "on": ["セキ"], "kun": ["いし"], "arti": "batu", "contoh": [["石", "いし", "batu"]]},
+    {"k": "閉", "on": ["ヘイ"], "kun": ["し(める)", "と(じる)"], "arti": "tutup", "contoh": [["閉める", "しめる", "menutup"]]},
+    {"k": "友", "on": ["ユウ"], "kun": ["とも"], "arti": "teman", "contoh": [["友だち", "ともだち", "teman"]]},
+    {"k": "国", "on": ["コク"], "kun": ["くに"], "arti": "negara", "contoh": [["国", "くに", "negara"], ["外国", "がいこく", "luar negeri"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "Membuat bentuk て",
+      "arti": "aturan perubahan kata kerja ke bentuk て",
+      "jelaskan": "Grup 1: う・つ・る → って (あう→あって, まつ→まって, かえる→かえって); む・ぶ・ぬ → んで (やすむ→やすんで, よぶ→よんで); く → いて (かく→かいて); ぐ → いで (およぐ→およいで); す → して (はなす→はなして). Pengecualian: いく → いって. Grup 2: buang る + て (たべる→たべて). Tak beraturan: する→して, くる→きて.",
+      "contoh": [["まつ → まって", "menunggu"], ["のむ → のんで", "minum"], ["かく → かいて", "menulis"], ["たべる → たべて", "makan"]]
+    },
+    {
+      "pola": "V-て ください",
+      "arti": "tolong V / silakan V",
+      "jelaskan": "Meminta atau mempersilakan dengan sopan. Lebih halus dengan すみませんが、… di depan.",
+      "contoh": [["すみませんが、ちょっと まって ください。", "Maaf, tolong tunggu sebentar."], ["どうぞ この いすを つかって ください。", "Silakan pakai kursi ini."]]
+    },
+    {
+      "pola": "V-ないで ください",
+      "arti": "tolong jangan V",
+      "jelaskan": "Bentuk ない + で ください. Dipakai untuk larangan yang sopan.",
+      "contoh": [["ここで たばこを すわないで ください。", "Tolong jangan merokok di sini."], ["きかいに さわらないで ください。", "Tolong jangan sentuh mesin."]]
+    },
+    {
+      "pola": "Kalimat 1 から、Kalimat 2",
+      "arti": "karena …, (maka) …",
+      "jelaskan": "から di akhir kalimat pertama = alasan. Boleh pakai bentuk sopan (〜ますから) atau bentuk biasa.",
+      "contoh": [["あぶないですから、ヘルメットを かぶって ください。", "Karena berbahaya, tolong pakai helm."]]
+    },
+    {
+      "pola": "どうしてですか — 〜から です",
+      "arti": "Mengapa? — Karena …",
+      "jelaskan": "Jawaban alasan diakhiri から(です).",
+      "contoh": [["どうして かいしゃを やすみましたか。", "Kenapa tidak masuk kantor?"], ["びょうきでしたから。", "Karena sakit."]]
+    },
+    {
+      "pola": "Kalimat 1。だから、Kalimat 2",
+      "arti": "… Oleh karena itu, …",
+      "jelaskan": "だから di awal kalimat kedua. Arti sama dengan から, tapi kalimatnya dipisah.",
+      "contoh": [["この きかいは ふるいです。だから、つかわないで ください。", "Mesin ini sudah tua. Karena itu jangan dipakai."]]
+    },
+    {
+      "pola": "Tempat へ V-ます(stem) / N に いきます・きます・かえります",
+      "arti": "pergi/datang/pulang untuk (tujuan)",
+      "jelaskan": "Buang ます lalu tambah に: かいに いきます (pergi untuk membeli). Kata benda kegiatan: けんがくに いきます.",
+      "contoh": [["ひこうじょうへ ともだちを むかえに いきます。", "Saya ke bandara untuk menjemput teman."], ["こうじょうへ けんがくに きました。", "Datang ke pabrik untuk kunjungan."]]
+    },
+    {
+      "pola": "V-ます(stem) + かた",
+      "arti": "cara V",
+      "jelaskan": "Buang ます, tambah かた. つかいます → つかいかた (cara memakai). Objeknya memakai の: きかいの つかいかた.",
+      "contoh": [["この ソフトの つかいかたを おしえて ください。", "Tolong ajari cara memakai software ini."]]
+    },
+    {
+      "pola": "N を れんしゅうします = N の れんしゅうを します",
+      "arti": "berlatih N",
+      "jelaskan": "Kata benda kegiatan bisa dipakai dua cara: N を + 〜します atau N の + 〜を します.",
+      "contoh": [["はつおんを れんしゅうします。", "Berlatih pelafalan."], ["はつおんの れんしゅうを します。", "Berlatih pelafalan."]]
+    }
+  ],
+  "ungkapan": [
+    ["すみませんが、〜て ください。— はい、わかりました。", "Meminta tolong dengan sopan"],
+    ["これで おわります。では、また らいしゅう。", "Menutup pelajaran/rapat"],
+    ["いいですよ。どうぞ つかって ください。", "Mengizinkan"]
+  ],
+  "partikel": [
+    {"soal": "ちょっと まっ＿ ください。", "jawab": "て", "arti": "Tolong tunggu sebentar."},
+    {"soal": "ここで たばこを すわない＿ ください。", "jawab": "で", "arti": "Tolong jangan merokok di sini."},
+    {"soal": "あぶないです＿＿、ちゅういして ください。", "jawab": "から", "arti": "Karena berbahaya, tolong hati-hati."},
+    {"soal": "ひこうじょうへ ともだちを むかえ＿ いきます。", "jawab": "に", "arti": "Ke bandara untuk menjemput teman."},
+    {"soal": "きかい＿ つかいかたを おしえて ください。", "jawab": "の", "arti": "Tolong ajari cara memakai mesin."},
+    {"soal": "ボール＿ ちゅういして ください。", "jawab": "に", "arti": "Tolong hati-hati dengan bola."},
+    {"soal": "ともだち＿ おかねを かりました。", "jawab": "から", "arti": "Saya meminjam uang dari teman."}
+  ]
+}

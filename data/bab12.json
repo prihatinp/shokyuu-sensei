@@ -1,0 +1,160 @@
+{
+  "bab": 12,
+  "judul": "図書室",
+  "judul_id": "Perpustakaan",
+  "tema": "Bentuk た (lampau biasa) dan bentuk biasa lengkap, mengutip (〜と いいます／ききました／おもいます), 〜たり〜たり します, 〜た あとで, 〜に ついて, serta meletakkan dan memasukkan benda.",
+  "halaman_buku": [98, 107],
+  "kotoba": [
+    {"jp": "としょしつ", "kanji": "図書室", "arti": "ruang perpustakaan", "kat": "tempat"},
+    {"jp": "ほんだな", "kanji": "本棚", "arti": "rak buku", "kat": "benda"},
+    {"jp": "じ", "kanji": "字", "arti": "huruf, tulisan", "kat": "lainnya"},
+    {"jp": "くんよみ", "kanji": "訓読み", "arti": "cara baca Jepang (kun)", "kat": "lainnya"},
+    {"jp": "おんよみ", "kanji": "音読み", "arti": "cara baca Tionghoa (on)", "kat": "lainnya"},
+    {"jp": "しょうせつ", "kanji": "小説", "arti": "novel", "kat": "benda"},
+    {"jp": "しょうせつか", "kanji": "小説家", "arti": "novelis", "kat": "orang"},
+    {"jp": "カード", "kanji": "", "arti": "kartu", "kat": "benda"},
+    {"jp": "ばんごう", "kanji": "番号", "arti": "nomor", "kat": "lainnya"},
+    {"jp": "さいふ", "kanji": "財布", "arti": "dompet", "kat": "benda"},
+    {"jp": "れいぞうこ", "kanji": "冷蔵庫", "arti": "kulkas", "kat": "benda"},
+    {"jp": "たまご", "kanji": "卵", "arti": "telur", "kat": "makanan"},
+    {"jp": "たんす", "kanji": "", "arti": "lemari pakaian", "kat": "benda"},
+    {"jp": "かべ", "kanji": "壁", "arti": "dinding", "kat": "benda"},
+    {"jp": "こくばん", "kanji": "黒板", "arti": "papan tulis", "kat": "benda"},
+    {"jp": "ビール", "kanji": "", "arti": "bir", "kat": "makanan"},
+    {"jp": "め", "kanji": "目", "arti": "mata", "kat": "tubuh"},
+    {"jp": "くち", "kanji": "口", "arti": "mulut", "kat": "tubuh"},
+    {"jp": "ドア", "kanji": "", "arti": "pintu", "kat": "benda"},
+    {"jp": "おれい", "kanji": "お礼", "arti": "ucapan terima kasih", "kat": "lainnya"},
+    {"jp": "うそ", "kanji": "嘘", "arti": "bohong", "kat": "lainnya"},
+    {"jp": "ニュース", "kanji": "", "arti": "berita", "kat": "lainnya"},
+    {"jp": "ちゅうしゃ", "kanji": "注射", "arti": "suntikan", "kat": "lainnya"},
+    {"jp": "あいさつ", "kanji": "挨拶", "arti": "salam, sapaan", "kat": "lainnya"},
+    {"jp": "さつ", "kanji": "札", "arti": "uang kertas", "kat": "benda"},
+    {"jp": "だす", "kanji": "出す", "arti": "mengeluarkan", "kat": "kerja"},
+    {"jp": "かく", "kanji": "書く", "arti": "menulis", "kat": "kerja"},
+    {"jp": "いれる", "kanji": "入れる", "arti": "memasukkan", "kat": "kerja"},
+    {"jp": "きく", "kanji": "聞く", "arti": "mendengar; bertanya", "kat": "kerja"},
+    {"jp": "おもう", "kanji": "思う", "arti": "berpikir, merasa", "kat": "kerja"},
+    {"jp": "ひく", "kanji": "引く", "arti": "menarik; mencari (di kamus)", "kat": "kerja"},
+    {"jp": "おく", "kanji": "置く", "arti": "meletakkan", "kat": "kerja"},
+    {"jp": "のせる", "kanji": "載せる", "arti": "menaruh di atas", "kat": "kerja"},
+    {"jp": "かける", "kanji": "掛ける", "arti": "menggantung", "kat": "kerja"},
+    {"jp": "とじる", "kanji": "閉じる", "arti": "menutup (mata, buku)", "kat": "kerja"},
+    {"jp": "あく", "kanji": "開く", "arti": "terbuka", "kat": "kerja"},
+    {"jp": "しまる", "kanji": "閉まる", "arti": "tertutup", "kat": "kerja"},
+    {"jp": "つく", "kanji": "", "arti": "menyala", "kat": "kerja"},
+    {"jp": "きえる", "kanji": "消える", "arti": "padam, hilang", "kat": "kerja"},
+    {"jp": "なく", "kanji": "泣く", "arti": "menangis", "kat": "kerja"},
+    {"jp": "わらう", "kanji": "笑う", "arti": "tertawa", "kat": "kerja"},
+    {"jp": "たつ", "kanji": "立つ", "arti": "berdiri", "kat": "kerja"},
+    {"jp": "すわる", "kanji": "座る", "arti": "duduk", "kat": "kerja"},
+    {"jp": "しらべる", "kanji": "調べる", "arti": "menyelidiki, mencari tahu", "kat": "kerja"},
+    {"jp": "ほんとうの", "kanji": "本当の", "arti": "yang sebenarnya", "kat": "lainnya"},
+    {"jp": "ゆうめいな", "kanji": "有名な", "arti": "terkenal", "kat": "sifat-na"},
+    {"jp": "だいじょうぶな", "kanji": "大丈夫な", "arti": "tidak apa-apa, aman", "kat": "sifat-na"},
+    {"jp": "くらい", "kanji": "暗い", "arti": "gelap", "kat": "sifat-i"},
+    {"jp": "だいたい", "kanji": "大体", "arti": "kira-kira, garis besar", "kat": "keterangan"},
+    {"jp": "いろいろ", "kanji": "色々", "arti": "macam-macam", "kat": "keterangan"},
+    {"jp": "ずっと", "kanji": "", "arti": "terus-menerus", "kat": "keterangan"},
+    {"jp": "でも", "kanji": "", "arti": "tapi (lisan)", "kat": "penghubung"},
+    {"jp": "ええ", "kanji": "", "arti": "ya (santai)", "kat": "ungkapan"},
+    {"jp": "それは よかったですね", "kanji": "", "arti": "syukurlah", "kat": "ungkapan"},
+    {"jp": "これで いいですか", "kanji": "", "arti": "begini sudah benar?", "kat": "ungkapan"}
+  ],
+  "kanji": [
+    {"k": "室", "on": ["シツ"], "kun": [], "arti": "ruangan", "contoh": [["図書室", "としょしつ", "perpustakaan"], ["じむ室", "じむしつ", "kantor"]]},
+    {"k": "名", "on": ["メイ"], "kun": ["な"], "arti": "nama", "contoh": [["名前", "なまえ", "nama"]]},
+    {"k": "字", "on": ["ジ"], "kun": [], "arti": "huruf", "contoh": [["字", "じ", "huruf"]]},
+    {"k": "暗", "on": ["アン"], "kun": ["くら(い)"], "arti": "gelap", "contoh": [["暗い", "くらい", "gelap"], ["明暗", "めいあん", "terang-gelap"]]},
+    {"k": "音", "on": ["オン"], "kun": ["おと"], "arti": "suara, bunyi", "contoh": [["音よみ", "おんよみ", "bacaan on"]]},
+    {"k": "説", "on": ["セツ"], "kun": [], "arti": "penjelasan, cerita", "contoh": [["小説", "しょうせつ", "novel"]]},
+    {"k": "番", "on": ["バン"], "kun": [], "arti": "nomor, giliran", "contoh": [["番号", "ばんごう", "nomor"]]},
+    {"k": "号", "on": ["ゴウ"], "kun": [], "arti": "nomor", "contoh": [["番号", "ばんごう", "nomor"]]},
+    {"k": "書", "on": ["ショ"], "kun": ["か(く)"], "arti": "menulis", "contoh": [["書く", "かく", "menulis"], ["図書室", "としょしつ", "perpustakaan"]]},
+    {"k": "見", "on": ["ケン"], "kun": ["み(る)", "み(せる)"], "arti": "melihat", "contoh": [["見せる", "みせる", "memperlihatkan"], ["見学", "けんがく", "kunjungan studi"]]},
+    {"k": "引", "on": ["イン"], "kun": ["ひ(く)"], "arti": "menarik", "contoh": [["引く", "ひく", "menarik; mencari di kamus"]]},
+    {"k": "黒", "on": ["コク"], "kun": ["くろ(い)"], "arti": "hitam", "contoh": [["黒い", "くろい", "hitam"], ["黒板", "こくばん", "papan tulis"]]},
+    {"k": "卵", "on": ["ラン"], "kun": ["たまご"], "arti": "telur", "contoh": [["卵", "たまご", "telur"]]},
+    {"k": "板", "on": ["バン", "ハン"], "kun": ["いた"], "arti": "papan", "contoh": [["黒板", "こくばん", "papan tulis"]]},
+    {"k": "目", "on": ["モク"], "kun": ["め"], "arti": "mata", "contoh": [["目", "め", "mata"]]},
+    {"k": "口", "on": ["コウ"], "kun": ["くち"], "arti": "mulut", "contoh": [["口", "くち", "mulut"]]},
+    {"k": "赤", "on": ["セキ"], "kun": ["あか"], "arti": "merah", "contoh": [["赤ちゃん", "あかちゃん", "bayi"]]},
+    {"k": "語", "on": ["ゴ"], "kun": [], "arti": "bahasa", "contoh": [["日本語", "にほんご", "bahasa Jepang"]]},
+    {"k": "元", "on": ["ゲン"], "kun": ["もと"], "arti": "asal", "contoh": [["元気", "げんき", "sehat"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "Bentuk た (lampau biasa)",
+      "arti": "versi santai dari 〜ました",
+      "jelaskan": "Caranya sama persis dengan bentuk て, hanya て → た, で → だ: まって → まった, のんで → のんだ, かいて → かいた, たべて → たべた, して → した, きて → きた. Negatif lampau: 〜なかった.",
+      "contoh": [["きのう えいがを みた。", "Kemarin nonton film."], ["あさごはんを たべなかった。", "Tidak sarapan."]]
+    },
+    {
+      "pola": "Bentuk biasa: sifat dan kata benda",
+      "arti": "だ・だった・ではない・ではなかった",
+      "jelaskan": "Sifat-i: あつい / あつくない / あつかった / あつくなかった. Sifat-な dan kata benda: げんきだ / げんきではない / げんきだった / げんきではなかった.",
+      "contoh": [["しごとは たいへんだった。", "Kerjaannya berat."], ["きのうは やすみではなかった。", "Kemarin bukan hari libur."]]
+    },
+    {
+      "pola": "「…」と いいます",
+      "arti": "berkata \"…\" (kutipan langsung)",
+      "jelaskan": "Kalimat yang dikutip persis ditaruh dalam 「 」 lalu と.",
+      "contoh": [["ぶちょうは「おつかれさま」と いいました。", "Kepala bagian berkata \"Otsukaresama\"."]]
+    },
+    {
+      "pola": "Bentuk biasa + と いいました / ききました",
+      "arti": "(dia) bilang bahwa … / dengar bahwa …",
+      "jelaskan": "Kutipan tidak langsung. Isi kutipan pakai bentuk biasa. Kata benda dan sifat-な + だ.",
+      "contoh": [["ブディさんは あした こないと いいました。", "Budi bilang besok tidak datang."], ["その ニュースは ほんとうだと ききました。", "Saya dengar berita itu benar."]]
+    },
+    {
+      "pola": "Bentuk biasa + と おもいます",
+      "arti": "saya pikir …",
+      "jelaskan": "Menyampaikan pendapat. Untuk kata benda dan sifat-な pakai だ: だいじょうぶだと おもいます.",
+      "contoh": [["この けいかくは いいと おもいます。", "Saya rasa rencana ini bagus."], ["ラインは もう だいじょうぶだと おもいます。", "Saya rasa line-nya sudah aman."]]
+    },
+    {
+      "pola": "V1-たり、V2-たり します",
+      "arti": "melakukan V1, V2, dan lain-lain",
+      "jelaskan": "Menyebut beberapa contoh kegiatan, tidak berurutan. Juga untuk keadaan bolak-balik: ついたり きえたり (nyala-mati).",
+      "contoh": [["やすみの 日は ほんを よんだり、さんぽを したり します。", "Hari libur saya membaca, jalan-jalan, dan lain-lain."], ["ランプが ついたり きえたり して います。", "Lampunya nyala-mati."]]
+    },
+    {
+      "pola": "V-た あとで / N の あとで、…",
+      "arti": "setelah V / setelah N, …",
+      "jelaskan": "Kebalikan dari 〜まえに. Kata kerja selalu bentuk た.",
+      "contoh": [["かいぎが おわった あとで、メールを おくります。", "Setelah rapat selesai, saya kirim email."], ["しょくじの あとで、くすりを のんで ください。", "Minum obat setelah makan."]]
+    },
+    {
+      "pola": "Tempat に N を おきます / いれます / のせます / かけます",
+      "arti": "meletakkan / memasukkan / menaruh di atas / menggantung N di (tempat)",
+      "jelaskan": "Tempat tujuan benda diletakkan memakai に. Mengeluarkan memakai から: はこから だします.",
+      "contoh": [["つくえの 上に しりょうを おきました。", "Saya taruh dokumen di atas meja."], ["はこから ぶひんを だして ください。", "Tolong keluarkan komponen dari kotak."]]
+    },
+    {
+      "pola": "N に ついて",
+      "arti": "tentang N",
+      "jelaskan": "Menunjukkan topik pembicaraan atau tulisan.",
+      "contoh": [["あたらしい ロボットに ついて せつめいします。", "Saya akan menjelaskan tentang robot baru."]]
+    },
+    {
+      "pola": "N は なんと よみますか / Bahasa で なんと いいますか",
+      "arti": "N dibaca apa? / dalam bahasa … disebut apa?",
+      "jelaskan": "なんと = apa (untuk kutipan/bacaan). で menandai bahasa.",
+      "contoh": [["この かんじは なんと よみますか。", "Kanji ini dibaca apa?"], ["「terima kasih」は 日本語で なんと いいますか。", "\"Terima kasih\" dalam bahasa Jepang apa?"]]
+    }
+  ],
+  "ungkapan": [
+    ["これで いいですか。— はい、これで いいです。", "Memastikan sudah benar"],
+    ["それは よかったですね。", "Ikut senang"]
+  ],
+  "partikel": [
+    {"soal": "ブディさんは あした こない＿ いいました。", "jawab": "と", "arti": "Budi bilang besok tidak datang."},
+    {"soal": "つくえの 上＿ しりょうを おきました。", "jawab": "に", "arti": "Saya taruh dokumen di atas meja."},
+    {"soal": "はこ＿＿ ぶひんを だして ください。", "jawab": "から", "arti": "Tolong keluarkan komponen dari kotak."},
+    {"soal": "あたらしい ロボット＿ ついて せつめいします。", "jawab": "に", "arti": "Saya jelaskan tentang robot baru."},
+    {"soal": "この けいかくは いい＿ おもいます。", "jawab": "と", "arti": "Saya rasa rencana ini bagus."},
+    {"soal": "しょくじ＿ あとで、くすりを のんで ください。", "jawab": "の", "arti": "Tolong minum obat setelah makan."},
+    {"soal": "「terima kasih」は 日本語＿ なんと いいますか。", "jawab": "で", "arti": "\"Terima kasih\" dalam bahasa Jepang apa?"}
+  ]
+}
