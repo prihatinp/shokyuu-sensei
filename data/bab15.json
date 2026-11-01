@@ -1,0 +1,160 @@
+{
+  "bab": 15,
+  "judul": "日本の 生活",
+  "judul_id": "Kehidupan di Jepang",
+  "tema": "Kewajiban (〜なければ なりません), tidak wajib (〜なくても いいです), 〜時 dengan bentuk kata kerja, mengubah keadaan (〜く／〜に します), しか〜ない, angka + も (penekanan), 〜て から どのぐらい たちますか, dan まだ 〜て いません.",
+  "halaman_buku": [124, 131],
+  "kotoba": [
+    {"jp": "せいかつ", "kanji": "生活", "arti": "kehidupan sehari-hari", "kat": "lainnya"},
+    {"jp": "からだ", "kanji": "体", "arti": "badan", "kat": "tubuh"},
+    {"jp": "けんこう", "kanji": "健康", "arti": "kesehatan", "kat": "lainnya"},
+    {"jp": "ほけん", "kanji": "保険", "arti": "asuransi", "kat": "lainnya"},
+    {"jp": "けんこうほけん", "kanji": "健康保険", "arti": "asuransi kesehatan", "kat": "lainnya"},
+    {"jp": "ほけんしょう", "kanji": "保険証", "arti": "kartu asuransi", "kat": "benda"},
+    {"jp": "しゅうかん", "kanji": "習慣", "arti": "kebiasaan, adat", "kat": "lainnya"},
+    {"jp": "がくせいしょう", "kanji": "学生証", "arti": "kartu pelajar", "kat": "benda"},
+    {"jp": "ていきけん", "kanji": "定期券", "arti": "kartu langganan (kereta)", "kat": "benda"},
+    {"jp": "してつ", "kanji": "私鉄", "arti": "kereta swasta", "kat": "kendaraan"},
+    {"jp": "りょうきん", "kanji": "料金", "arti": "tarif, biaya", "kat": "lainnya"},
+    {"jp": "パスポート", "kanji": "", "arti": "paspor", "kat": "benda"},
+    {"jp": "ビザ", "kanji": "", "arti": "visa", "kat": "benda"},
+    {"jp": "にもつ", "kanji": "荷物", "arti": "barang bawaan", "kat": "benda"},
+    {"jp": "ローマじ", "kanji": "ローマ字", "arti": "huruf latin", "kat": "lainnya"},
+    {"jp": "おと", "kanji": "音", "arti": "suara, bunyi", "kat": "lainnya"},
+    {"jp": "ひかり", "kanji": "光", "arti": "cahaya", "kat": "alam"},
+    {"jp": "せかい", "kanji": "世界", "arti": "dunia", "kat": "lainnya"},
+    {"jp": "こおり", "kanji": "氷", "arti": "es", "kat": "alam"},
+    {"jp": "はんぶん", "kanji": "半分", "arti": "setengah", "kat": "lainnya"},
+    {"jp": "テスト", "kanji": "", "arti": "tes, ujian", "kat": "lainnya"},
+    {"jp": "パーセント", "kanji": "", "arti": "persen", "kat": "lainnya"},
+    {"jp": "しんぱい", "kanji": "心配", "arti": "khawatir", "kat": "lainnya"},
+    {"jp": "がいしゅつ", "kanji": "外出", "arti": "keluar rumah", "kat": "lainnya"},
+    {"jp": "サイン", "kanji": "", "arti": "tanda tangan", "kat": "lainnya"},
+    {"jp": "ろくおん", "kanji": "録音", "arti": "merekam suara", "kat": "lainnya"},
+    {"jp": "にゅういん", "kanji": "入院", "arti": "rawat inap", "kat": "lainnya"},
+    {"jp": "あんしん", "kanji": "安心", "arti": "lega, tenang", "kat": "lainnya"},
+    {"jp": "しごと", "kanji": "仕事", "arti": "pekerjaan", "kat": "lainnya"},
+    {"jp": "はつおん", "kanji": "発音", "arti": "pelafalan", "kat": "lainnya"},
+    {"jp": "がいこくじん", "kanji": "外国人", "arti": "orang asing", "kat": "orang"},
+    {"jp": "どちらでも", "kanji": "", "arti": "yang mana pun boleh", "kat": "ungkapan"},
+    {"jp": "たつ", "kanji": "経つ", "arti": "berlalu (waktu)", "kat": "kerja"},
+    {"jp": "こまる", "kanji": "困る", "arti": "kesulitan, repot", "kat": "kerja"},
+    {"jp": "〜を 〜に する", "kanji": "", "arti": "membuat … menjadi …", "kat": "kerja"},
+    {"jp": "はらう", "kanji": "払う", "arti": "membayar", "kat": "kerja"},
+    {"jp": "うけとる", "kanji": "受け取る", "arti": "menerima (barang/dokumen)", "kat": "kerja"},
+    {"jp": "はこぶ", "kanji": "運ぶ", "arti": "mengangkut", "kat": "kerja"},
+    {"jp": "てつだう", "kanji": "手伝う", "arti": "membantu", "kat": "kerja"},
+    {"jp": "うける", "kanji": "受ける", "arti": "mengikuti (ujian)", "kat": "kerja"},
+    {"jp": "わたす", "kanji": "渡す", "arti": "menyerahkan", "kat": "kerja"},
+    {"jp": "なくなる", "kanji": "無くなる", "arti": "habis, hilang", "kat": "kerja"},
+    {"jp": "へんな", "kanji": "変な", "arti": "aneh", "kat": "sifat-na"},
+    {"jp": "ていねいな", "kanji": "丁寧な", "arti": "sopan, teliti", "kat": "sifat-na"},
+    {"jp": "へいわな", "kanji": "平和な", "arti": "damai", "kat": "sifat-na"},
+    {"jp": "じぶんで", "kanji": "自分で", "arti": "sendiri (tanpa bantuan)", "kat": "keterangan"},
+    {"jp": "もっと", "kanji": "", "arti": "lebih", "kat": "keterangan"},
+    {"jp": "はじめて", "kanji": "初めて", "arti": "pertama kali", "kat": "keterangan"},
+    {"jp": "〜しか 〜ない", "kanji": "", "arti": "hanya … (bernada kurang)", "kat": "akhiran"},
+    {"jp": "N の こと", "kanji": "", "arti": "hal mengenai N", "kat": "lainnya"}
+  ],
+  "kanji": [
+    {"k": "分", "on": ["ブン", "フン", "プン"], "kun": ["わ(かる)"], "arti": "bagian; menit", "contoh": [["半分", "はんぶん", "setengah"], ["十分", "じゅっぷん", "10 menit"]]},
+    {"k": "活", "on": ["カツ"], "kun": [], "arti": "hidup, aktif", "contoh": [["生活", "せいかつ", "kehidupan"]]},
+    {"k": "事", "on": ["ジ"], "kun": ["こと"], "arti": "hal, urusan", "contoh": [["仕事", "しごと", "pekerjaan"], ["食事", "しょくじ", "makan"]]},
+    {"k": "作", "on": ["サク"], "kun": ["つく(る)"], "arti": "membuat", "contoh": [["作る", "つくる", "membuat"], ["作文", "さくぶん", "karangan"]]},
+    {"k": "心", "on": ["シン"], "kun": ["こころ"], "arti": "hati", "contoh": [["心配", "しんぱい", "khawatir"], ["安心", "あんしん", "lega"]]},
+    {"k": "配", "on": ["ハイ", "パイ"], "kun": ["くば(る)"], "arti": "membagikan", "contoh": [["心配", "しんぱい", "khawatir"]]},
+    {"k": "体", "on": ["タイ"], "kun": ["からだ"], "arti": "badan", "contoh": [["体", "からだ", "badan"], ["体育", "たいいく", "olahraga"]]},
+    {"k": "払", "on": ["フツ"], "kun": ["はら(う)"], "arti": "membayar", "contoh": [["払う", "はらう", "membayar"]]},
+    {"k": "証", "on": ["ショウ"], "kun": [], "arti": "bukti, kartu", "contoh": [["学生証", "がくせいしょう", "kartu pelajar"]]},
+    {"k": "受", "on": ["ジュ"], "kun": ["う(ける)"], "arti": "menerima", "contoh": [["受ける", "うける", "mengikuti (ujian)"]]},
+    {"k": "登", "on": ["トウ"], "kun": ["のぼ(る)"], "arti": "mendaki", "contoh": [["登る", "のぼる", "mendaki"]]},
+    {"k": "録", "on": ["ロク"], "kun": [], "arti": "merekam", "contoh": [["録音", "ろくおん", "rekaman suara"]]},
+    {"k": "鉄", "on": ["テツ"], "kun": [], "arti": "besi", "contoh": [["私鉄", "してつ", "kereta swasta"], ["地下鉄", "ちかてつ", "kereta bawah tanah"]]},
+    {"k": "館", "on": ["カン"], "kun": [], "arti": "gedung", "contoh": [["大使館", "たいしかん", "kedutaan"]]},
+    {"k": "出", "on": ["シュツ"], "kun": ["で(る)", "だ(す)"], "arti": "keluar", "contoh": [["出る", "でる", "keluar"], ["外出", "がいしゅつ", "keluar rumah"]]},
+    {"k": "員", "on": ["イン"], "kun": [], "arti": "anggota, petugas", "contoh": [["会社員", "かいしゃいん", "karyawan"], ["駅員", "えきいん", "petugas stasiun"]]},
+    {"k": "光", "on": ["コウ"], "kun": ["ひかり"], "arti": "cahaya", "contoh": [["光", "ひかり", "cahaya"]]},
+    {"k": "平", "on": ["ヘイ"], "kun": ["たい(ら)"], "arti": "datar, damai", "contoh": [["平和", "へいわ", "damai"]]},
+    {"k": "和", "on": ["ワ"], "kun": [], "arti": "harmonis; Jepang", "contoh": [["平和", "へいわ", "damai"]]},
+    {"k": "氷", "on": ["ヒョウ"], "kun": ["こおり"], "arti": "es", "contoh": [["氷", "こおり", "es"]]},
+    {"k": "同", "on": ["ドウ"], "kun": ["おな(じ)"], "arti": "sama", "contoh": [["同じ", "おなじ", "sama"]]},
+    {"k": "仕", "on": ["シ"], "kun": [], "arti": "melayani", "contoh": [["仕事", "しごと", "pekerjaan"]]},
+    {"k": "発", "on": ["ハツ"], "kun": [], "arti": "berangkat; muncul", "contoh": [["発音", "はつおん", "pelafalan"]]},
+    {"k": "送", "on": ["ソウ"], "kun": ["おく(る)"], "arti": "mengirim", "contoh": [["送る", "おくる", "mengirim"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "V-なければ なりません",
+      "arti": "harus V",
+      "jelaskan": "Bentuk ない: buang い, tambah ければ なりません. いく → いかない → いかなければ なりません. Sifat: あかるく なければ, ていねいで なければ.",
+      "contoh": [["こうじょうでは あんぜんぐつを はかなければ なりません。", "Di pabrik harus memakai sepatu safety."], ["あした までに レポートを 出さなければ なりません。", "Harus menyerahkan laporan paling lambat besok."]]
+    },
+    {
+      "pola": "V-なくても いいです / かまいません",
+      "arti": "tidak perlu V",
+      "jelaskan": "Bentuk ない: buang い, tambah くても いいです. Jawaban untuk 〜なければ なりませんか.",
+      "contoh": [["スーツを きなければ なりませんか。", "Harus pakai jas?"], ["いいえ、きなくても いいです。", "Tidak, tidak perlu."]]
+    },
+    {
+      "pola": "〜ても 〜なくても (どちらでも) いいです",
+      "arti": "… atau tidak, dua-duanya boleh",
+      "jelaskan": "Menyatakan bebas memilih.",
+      "contoh": [["かいぎに でても でなくても いいです。", "Ikut rapat atau tidak, terserah."]]
+    },
+    {
+      "pola": "V-る とき / V-た とき",
+      "arti": "ketika (akan) V / ketika (sudah) V",
+      "jelaskan": "V-る とき: kegiatan utama terjadi sebelum/saat V. V-た とき: setelah V terjadi.",
+      "contoh": [["日本へ いく とき、くうこうで おみやげを かいました。", "Waktu akan ke Jepang, saya beli oleh-oleh di bandara."], ["日本へ いった とき、こうじょうを 見学しました。", "Waktu (sudah sampai) di Jepang, saya studi banding ke pabrik."]]
+    },
+    {
+      "pola": "Sifat-い → 〜く します / Sifat-な・N → 〜に します",
+      "arti": "membuat menjadi …",
+      "jelaskan": "Bandingkan dengan なります (menjadi dengan sendirinya). します = sengaja diubah oleh seseorang.",
+      "contoh": [["ラジオの おとを ちいさく して ください。", "Tolong kecilkan suara radio."], ["こうじょうを もっと あんぜんに しなければ なりません。", "Pabrik harus dibuat lebih aman."]]
+    },
+    {
+      "pola": "N しか + negatif",
+      "arti": "hanya N (dan dirasa kurang)",
+      "jelaskan": "しか selalu diikuti bentuk negatif. Menggantikan が/を; partikel lain tetap: にしか, としか.",
+      "contoh": [["ゆうべは 三じかんしか ねませんでした。", "Semalam cuma tidur 3 jam."], ["この ぶひんは 日本にしか ありません。", "Komponen ini hanya ada di Jepang."]]
+    },
+    {
+      "pola": "Angka + も",
+      "arti": "sampai sebanyak … (terasa banyak)",
+      "jelaskan": "Kebalikan dari しか. Menekankan jumlahnya banyak.",
+      "contoh": [["きのう 十二じかんも はたらきました。", "Kemarin kerja sampai 12 jam."]]
+    },
+    {
+      "pola": "V-て から どのぐらい たちましたか",
+      "arti": "sudah berapa lama sejak V?",
+      "jelaskan": "たつ = waktu berlalu.",
+      "contoh": [["この 会社に はいって から、どのぐらい たちましたか。", "Sudah berapa lama sejak masuk perusahaan ini?"], ["もう 二十年 たちました。", "Sudah 20 tahun."]]
+    },
+    {
+      "pola": "まだ V-て いません",
+      "arti": "belum V",
+      "jelaskan": "Bentuk yang lebih natural untuk 'belum': まだ + 〜て いません.",
+      "contoh": [["メールは もう おくりましたか。", "Email sudah dikirim?"], ["いいえ、まだ おくって いません。", "Belum."]]
+    },
+    {
+      "pola": "V-て います (kebiasaan berulang)",
+      "arti": "rutin melakukan V",
+      "jelaskan": "Selain 'sedang', 〜て います juga untuk kegiatan yang rutin dilakukan.",
+      "contoh": [["まいあさ ジョギングを して います。", "Setiap pagi saya jogging."]]
+    }
+  ],
+  "ungkapan": [
+    ["〜なければ なりませんか。— いいえ、〜なくても いいです。", "Menanyakan kewajiban"],
+    ["けんこうに ちゅういして ください。", "Pesan menjaga kesehatan"]
+  ],
+  "partikel": [
+    {"soal": "ゆうべは 三じかん＿＿ ねませんでした。", "jawab": "しか", "arti": "Semalam cuma tidur 3 jam."},
+    {"soal": "きのう 十二じかん＿ はたらきました。", "jawab": "も", "arti": "Kemarin kerja sampai 12 jam."},
+    {"soal": "ラジオの おとを ちいさ＿ して ください。", "jawab": "く", "arti": "Tolong kecilkan suara radio."},
+    {"soal": "こうじょうを あんぜん＿ しなければ なりません。", "jawab": "に", "arti": "Pabrik harus dibuat aman."},
+    {"soal": "スーツを きなくて＿ いいです。", "jawab": "も", "arti": "Tidak perlu pakai jas."},
+    {"soal": "この 会社に はいって＿＿、二十年 たちました。", "jawab": "から", "arti": "Sudah 20 tahun sejak masuk perusahaan ini."},
+    {"soal": "いいえ、まだ おくって ＿＿＿＿。", "jawab": "いません", "arti": "Belum dikirim."}
+  ]
+}

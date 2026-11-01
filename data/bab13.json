@@ -1,0 +1,149 @@
+{
+  "bab": 13,
+  "judul": "かい物 (2)",
+  "judul_id": "Belanja (2)",
+  "tema": "Kalimat yang menerangkan kata benda (とけいを うって いる みせ), 〜と いう N, pertanyaan di dalam kalimat (〜か おしえて ください), pakaian dan cara memakainya, serta 〜て います untuk keadaan (しって います, いって います).",
+  "halaman_buku": [108, 114],
+  "kotoba": [
+    {"jp": "いま", "kanji": "今", "arti": "sekarang", "kat": "waktu"},
+    {"jp": "もの", "kanji": "物", "arti": "barang", "kat": "benda"},
+    {"jp": "とけい", "kanji": "時計", "arti": "jam (tangan/dinding)", "kat": "benda"},
+    {"jp": "ばしょ", "kanji": "場所", "arti": "tempat, lokasi", "kat": "tempat"},
+    {"jp": "ところ", "kanji": "所", "arti": "tempat", "kat": "tempat"},
+    {"jp": "めがね", "kanji": "眼鏡", "arti": "kacamata", "kat": "pakaian"},
+    {"jp": "ちゃいろ", "kanji": "茶色", "arti": "cokelat", "kat": "warna"},
+    {"jp": "みどりいろ", "kanji": "緑色", "arti": "hijau", "kat": "warna"},
+    {"jp": "ピンク", "kanji": "", "arti": "merah muda", "kat": "warna"},
+    {"jp": "なにいろ", "kanji": "何色", "arti": "warna apa", "kat": "kata tanya"},
+    {"jp": "いろ", "kanji": "色", "arti": "warna", "kat": "lainnya"},
+    {"jp": "うわぎ", "kanji": "上着", "arti": "jaket, baju luar", "kat": "pakaian"},
+    {"jp": "わたくし", "kanji": "私", "arti": "saya (formal)", "kat": "kata ganti"},
+    {"jp": "じゅうしょ", "kanji": "住所", "arti": "alamat", "kat": "lainnya"},
+    {"jp": "ぼうし", "kanji": "帽子", "arti": "topi", "kat": "pakaian"},
+    {"jp": "スカート", "kanji": "", "arti": "rok", "kat": "pakaian"},
+    {"jp": "ハンドバッグ", "kanji": "", "arti": "tas tangan", "kat": "pakaian"},
+    {"jp": "ねだん", "kanji": "値段", "arti": "harga", "kat": "lainnya"},
+    {"jp": "おみやげ", "kanji": "お土産", "arti": "oleh-oleh", "kat": "benda"},
+    {"jp": "どうぶつ", "kanji": "動物", "arti": "hewan", "kat": "hewan"},
+    {"jp": "パンダ", "kanji": "", "arti": "panda", "kat": "hewan"},
+    {"jp": "たけ", "kanji": "竹", "arti": "bambu", "kat": "alam"},
+    {"jp": "しょくぶつ", "kanji": "植物", "arti": "tumbuhan", "kat": "alam"},
+    {"jp": "さくら", "kanji": "桜", "arti": "bunga sakura", "kat": "alam"},
+    {"jp": "のりもの", "kanji": "乗り物", "arti": "kendaraan", "kat": "kendaraan"},
+    {"jp": "すうじ", "kanji": "数字", "arti": "angka", "kat": "lainnya"},
+    {"jp": "ことば", "kanji": "言葉", "arti": "kata, bahasa", "kat": "lainnya"},
+    {"jp": "セーター", "kanji": "", "arti": "sweter", "kat": "pakaian"},
+    {"jp": "ようふく", "kanji": "洋服", "arti": "pakaian (gaya barat)", "kat": "pakaian"},
+    {"jp": "きもの", "kanji": "着物", "arti": "kimono", "kat": "pakaian"},
+    {"jp": "ズボン", "kanji": "", "arti": "celana panjang", "kat": "pakaian"},
+    {"jp": "くつ", "kanji": "靴", "arti": "sepatu", "kat": "pakaian"},
+    {"jp": "くつした", "kanji": "靴下", "arti": "kaus kaki", "kat": "pakaian"},
+    {"jp": "ゆびわ", "kanji": "指輪", "arti": "cincin", "kat": "pakaian"},
+    {"jp": "ネクタイ", "kanji": "", "arti": "dasi", "kat": "pakaian"},
+    {"jp": "〜せい", "kanji": "〜製", "arti": "buatan … (にほんせい = buatan Jepang)", "kat": "akhiran"},
+    {"jp": "いつか", "kanji": "", "arti": "suatu saat nanti", "kat": "keterangan"},
+    {"jp": "たとえば", "kanji": "例えば", "arti": "misalnya", "kat": "keterangan"},
+    {"jp": "さがす", "kanji": "探す", "arti": "mencari", "kat": "kerja"},
+    {"jp": "うる", "kanji": "売る", "arti": "menjual", "kat": "kerja"},
+    {"jp": "しる", "kanji": "知る", "arti": "mengetahui (しって います)", "kat": "kerja"},
+    {"jp": "つとめる", "kanji": "勤める", "arti": "bekerja di (perusahaan)", "kat": "kerja"},
+    {"jp": "しらせる", "kanji": "知らせる", "arti": "memberi tahu", "kat": "kerja"},
+    {"jp": "うかがう", "kanji": "伺う", "arti": "bertanya; berkunjung (rendah hati)", "kat": "kerja"},
+    {"jp": "きる", "kanji": "着る", "arti": "memakai (baju atasan)", "kat": "kerja"},
+    {"jp": "かぶる", "kanji": "", "arti": "memakai (topi, helm)", "kat": "kerja"},
+    {"jp": "はく", "kanji": "履く", "arti": "memakai (celana, sepatu)", "kat": "kerja"},
+    {"jp": "ぬぐ", "kanji": "脱ぐ", "arti": "melepas (pakaian)", "kat": "kerja"},
+    {"jp": "しめる", "kanji": "締める", "arti": "memakai (dasi)", "kat": "kerja"},
+    {"jp": "なんでしょうか", "kanji": "何でしょうか", "arti": "ada apa ya? (sopan)", "kat": "ungkapan"},
+    {"jp": "ちょっと うかがいますが", "kanji": "", "arti": "maaf, numpang tanya", "kat": "ungkapan"},
+    {"jp": "はじめまして", "kanji": "", "arti": "salam kenal", "kat": "ungkapan"},
+    {"jp": "こちらこそ", "kanji": "", "arti": "saya juga (sama-sama)", "kat": "ungkapan"},
+    {"jp": "あのう", "kanji": "", "arti": "anu…, permisi…", "kat": "ungkapan"}
+  ],
+  "kanji": [
+    {"k": "何", "on": ["カ"], "kun": ["なに", "なん"], "arti": "apa", "contoh": [["何", "なに", "apa"], ["何色", "なにいろ", "warna apa"]]},
+    {"k": "売", "on": ["バイ"], "kun": ["う(る)"], "arti": "menjual", "contoh": [["売る", "うる", "menjual"]]},
+    {"k": "今", "on": ["コン"], "kun": ["いま"], "arti": "sekarang", "contoh": [["今", "いま", "sekarang"], ["今日", "きょう", "hari ini"]]},
+    {"k": "物", "on": ["ブツ", "モツ"], "kun": ["もの"], "arti": "benda", "contoh": [["動物", "どうぶつ", "hewan"], ["のり物", "のりもの", "kendaraan"]]},
+    {"k": "安", "on": ["アン"], "kun": ["やす(い)"], "arti": "murah; tenang", "contoh": [["安い", "やすい", "murah"], ["安全", "あんぜん", "aman"]]},
+    {"k": "店", "on": ["テン"], "kun": ["みせ"], "arti": "toko", "contoh": [["店", "みせ", "toko"]]},
+    {"k": "知", "on": ["チ"], "kun": ["し(る)"], "arti": "tahu", "contoh": [["知って います", "しって います", "tahu"]]},
+    {"k": "場", "on": ["ジョウ"], "kun": ["ば"], "arti": "tempat", "contoh": [["場所", "ばしょ", "tempat"], ["工場", "こうじょう", "pabrik"]]},
+    {"k": "所", "on": ["ショ"], "kun": ["ところ"], "arti": "tempat", "contoh": [["場所", "ばしょ", "tempat"], ["住所", "じゅうしょ", "alamat"]]},
+    {"k": "立", "on": ["リツ"], "kun": ["た(つ)"], "arti": "berdiri", "contoh": [["立つ", "たつ", "berdiri"]]},
+    {"k": "茶", "on": ["チャ", "サ"], "kun": [], "arti": "teh", "contoh": [["茶色", "ちゃいろ", "cokelat"], ["お茶", "おちゃ", "teh"]]},
+    {"k": "色", "on": ["ショク"], "kun": ["いろ"], "arti": "warna", "contoh": [["色", "いろ", "warna"]]},
+    {"k": "黄", "on": ["コウ"], "kun": ["き"], "arti": "kuning", "contoh": [["黄色い", "きいろい", "kuning"]]},
+    {"k": "着", "on": ["チャク"], "kun": ["き(る)", "つ(く)"], "arti": "memakai; tiba", "contoh": [["着る", "きる", "memakai"], ["上着", "うわぎ", "jaket"]]},
+    {"k": "私", "on": ["シ"], "kun": ["わたくし", "わたし"], "arti": "saya", "contoh": [["私", "わたし", "saya"]]},
+    {"k": "船", "on": ["セン"], "kun": ["ふね"], "arti": "kapal", "contoh": [["船", "ふね", "kapal"]]},
+    {"k": "動", "on": ["ドウ"], "kun": ["うご(く)"], "arti": "bergerak", "contoh": [["動物", "どうぶつ", "hewan"]]},
+    {"k": "竹", "on": ["チク"], "kun": ["たけ"], "arti": "bambu", "contoh": [["竹", "たけ", "bambu"]]},
+    {"k": "町", "on": ["チョウ"], "kun": ["まち"], "arti": "kota kecil", "contoh": [["町", "まち", "kota"]]},
+    {"k": "丁", "on": ["チョウ", "テイ"], "kun": [], "arti": "blok (alamat)", "contoh": [["五丁目", "ごちょうめ", "blok 5"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "Kalimat (bentuk biasa) + N",
+      "arti": "N yang …",
+      "jelaskan": "Kalimat diletakkan langsung di depan kata benda untuk menerangkannya, tanpa 'yang'. Kata kerjanya bentuk biasa (る, ない, た, ている).",
+      "contoh": [["とけいを うって いる みせ", "toko yang menjual jam"], ["きのう かった パソコンは はやいです。", "Komputer yang kemarin saya beli cepat."], ["あそこに 立って いる 人は ぶちょうです。", "Orang yang berdiri di sana adalah kepala bagian."]]
+    },
+    {
+      "pola": "Subjek が / の dalam kalimat penerang",
+      "arti": "わたしが かいた え = わたしの かいた え",
+      "jelaskan": "Subjek di dalam kalimat penerang memakai が (bukan は), dan boleh diganti の.",
+      "contoh": [["これは わたしが せっけいした ジグです。", "Ini jig yang saya desain."], ["テレビの ある へや", "kamar yang ada TV-nya"]]
+    },
+    {
+      "pola": "「X」と いう N",
+      "arti": "N yang bernama X",
+      "jelaskan": "Memperkenalkan nama sesuatu yang mungkin belum dikenal lawan bicara.",
+      "contoh": [["ムサシと いう 会社に つとめて います。", "Saya bekerja di perusahaan bernama Musashi."], ["あれは 何と いう どうぶつですか。", "Itu hewan apa namanya?"]]
+    },
+    {
+      "pola": "Kata tanya + 〜か、おしえて ください / しって います",
+      "arti": "(tolong beri tahu) … apa/di mana/kapan …",
+      "jelaskan": "Pertanyaan bisa masuk ke dalam kalimat dengan か di akhirnya. Kata kerjanya bentuk biasa.",
+      "contoh": [["かいぎは 何時に はじまるか、おしえて ください。", "Tolong beri tahu rapat mulai jam berapa."], ["ぶひんが どこに あるか、しって いますか。", "Tahu komponennya ada di mana?"]]
+    },
+    {
+      "pola": "しって います / しりません",
+      "arti": "tahu / tidak tahu",
+      "jelaskan": "Bentuk positif selalu しって います, tapi negatifnya しりません (bukan しって いません).",
+      "contoh": [["その みせを しって いますか。", "Tahu toko itu?"], ["いいえ、しりません。", "Tidak, tidak tahu."]]
+    },
+    {
+      "pola": "いって います / きて います / かえって います",
+      "arti": "sedang berada di (tempat) setelah pergi/datang/pulang",
+      "jelaskan": "Bukan 'sedang pergi', tapi hasilnya: sudah pergi dan sekarang ada di sana.",
+      "contoh": [["ぶちょうは いま 日本に いって います。", "Kepala bagian sekarang sedang di Jepang."]]
+    },
+    {
+      "pola": "Pakaian + きる / はく / かぶる / する / かける / しめる",
+      "arti": "kata kerja 'memakai' sesuai jenis pakaian",
+      "jelaskan": "きる: baju atasan, jaket. はく: celana, rok, sepatu, kaus kaki. かぶる: topi, helm. する: jam, cincin. かける: kacamata. しめる: dasi. Melepas: ぬぐ (umum), とる (topi, jam, kacamata).",
+      "contoh": [["こうじょうでは ヘルメットを かぶって ください。", "Di pabrik tolong pakai helm."], ["あんぜんぐつを はいて います。", "Saya memakai sepatu safety."]]
+    },
+    {
+      "pola": "なにか / だれか / どこか / いつか + kalimat penerang",
+      "arti": "sesuatu / seseorang / suatu tempat / suatu saat yang …",
+      "jelaskan": "Kata tanya + か = tidak tentu. Bisa langsung diikuti sifat atau kalimat.",
+      "contoh": [["なにか いい アイデアは ありませんか。", "Ada ide bagus?"], ["いつか 日本の こうじょうを 見たいです。", "Suatu saat saya ingin melihat pabrik di Jepang."]]
+    }
+  ],
+  "ungkapan": [
+    ["ちょっと うかがいますが。— はい、何でしょうか。", "Sopan bertanya ke orang tak dikenal"],
+    ["はじめまして。どうぞ よろしく。— こちらこそ どうぞ よろしく。", "Perkenalan dan balasannya"],
+    ["ちょっと そうだんが ありますが、いいですか。", "Minta waktu untuk konsultasi"]
+  ],
+  "partikel": [
+    {"soal": "これは わたし＿ せっけいした ジグです。", "jawab": "が", "arti": "Ini jig yang saya desain."},
+    {"soal": "ムサシ＿ いう 会社に つとめて います。", "jawab": "と", "arti": "Saya bekerja di perusahaan bernama Musashi."},
+    {"soal": "かいぎは 何時に はじまる＿、おしえて ください。", "jawab": "か", "arti": "Tolong beri tahu rapat mulai jam berapa."},
+    {"soal": "じどうしゃの 会社＿ つとめて います。", "jawab": "に", "arti": "Saya bekerja di perusahaan otomotif."},
+    {"soal": "こうじょうでは ヘルメット＿ かぶって ください。", "jawab": "を", "arti": "Di pabrik tolong pakai helm."},
+    {"soal": "テレビ＿ ある へやは どこですか。", "jawab": "の", "arti": "Kamar yang ada TV-nya di mana?"},
+    {"soal": "その みせを しって いますか。— いいえ、＿＿＿＿。", "jawab": "しりません", "arti": "Tahu toko itu? — Tidak tahu."}
+  ]
+}

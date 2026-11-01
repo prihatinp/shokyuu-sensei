@@ -79,6 +79,24 @@
       "bab": 13,
       "judul": "かい物 (2)",
       "judul_id": "Belanja (2)",
+      "file": "data/bab13.json"
+    },
+    {
+      "bab": 14,
+      "judul": "写真",
+      "judul_id": "Foto",
+      "file": "data/bab14.json"
+    },
+    {
+      "bab": 15,
+      "judul": "日本の 生活",
+      "judul_id": "Kehidupan di Jepang",
+      "file": "data/bab15.json"
+    },
+    {
+      "bab": 16,
+      "judul": "民宿",
+      "judul_id": "Penginapan rakyat",
       "file": null
     }
   ],
