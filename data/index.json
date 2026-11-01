@@ -97,7 +97,79 @@
       "bab": 16,
       "judul": "民宿",
       "judul_id": "Penginapan rakyat",
-      "file": null
+      "file": "data/bab16.json"
+    },
+    {
+      "bab": 17,
+      "judul": "キャンプ",
+      "judul_id": "Berkemah",
+      "file": "data/bab17.json"
+    },
+    {
+      "bab": 18,
+      "judul": "病気",
+      "judul_id": "Sakit",
+      "file": "data/bab18.json"
+    },
+    {
+      "bab": 19,
+      "judul": "おぼん",
+      "judul_id": "Obon (festival leluhur)",
+      "file": "data/bab19.json"
+    },
+    {
+      "bab": 20,
+      "judul": "将来のこと",
+      "judul_id": "Tentang masa depan",
+      "file": "data/bab20.json"
+    },
+    {
+      "bab": 21,
+      "judul": "漢字の学習",
+      "judul_id": "Belajar kanji",
+      "file": "data/bab21.json"
+    },
+    {
+      "bab": 22,
+      "judul": "大学祭",
+      "judul_id": "Festival kampus",
+      "file": "data/bab22.json"
+    },
+    {
+      "bab": 23,
+      "judul": "京都の旅行",
+      "judul_id": "Wisata ke Kyoto",
+      "file": "data/bab23.json"
+    },
+    {
+      "bab": 24,
+      "judul": "正月",
+      "judul_id": "Tahun baru",
+      "file": "data/bab24.json"
+    },
+    {
+      "bab": 25,
+      "judul": "雪",
+      "judul_id": "Salju",
+      "file": "data/bab25.json"
+    },
+    {
+      "bab": 26,
+      "judul": "成人の日",
+      "judul_id": "Hari Kedewasaan",
+      "file": "data/bab26.json"
+    },
+    {
+      "bab": 27,
+      "judul": "授業見学",
+      "judul_id": "Mengamati pelajaran",
+      "file": "data/bab27.json"
+    },
+    {
+      "bab": 28,
+      "judul": "訪問",
+      "judul_id": "Kunjungan",
+      "file": "data/bab28.json"
     }
   ],
   "total_bab": 28

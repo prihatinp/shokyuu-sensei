@@ -1,0 +1,164 @@
+{
+  "bab": 28,
+  "judul": "訪問",
+  "judul_id": "Kunjungan",
+  "tema": "Keigo: sonkeigo (お〜に なる, 〜れる/られる, いらっしゃる, おっしゃる, めしあがる, ごらんに なる, なさる) dan kenjougo (お〜する, うかがう, まいる, もうす, いたす, おる), お〜ください, ungkapan お/ご. Juga 〜らしいです, 〜た ばかりです, 〜たびに, 〜でも (saran ringan), dan bentuk lisan (〜んです, って, 〜ちゃう, 〜てる, 〜たって, じゃ).",
+  "halaman_buku": [246, 256],
+  "kotoba": [
+    {"jp": "ほうもん", "kanji": "訪問", "arti": "kunjungan", "kat": "kerja-suru"},
+    {"jp": "おたく", "kanji": "お宅", "arti": "rumah (Anda)", "kat": "tempat"},
+    {"jp": "ホームシック", "kanji": "", "arti": "rindu kampung halaman", "kat": "lainnya"},
+    {"jp": "はじめ", "kanji": "初め", "arti": "awal", "kat": "waktu"},
+    {"jp": "おくさま", "kanji": "奥様", "arti": "istri (orang lain, hormat)", "kat": "keluarga"},
+    {"jp": "おじょうさま", "kanji": "お嬢様", "arti": "putri (orang lain, hormat)", "kat": "keluarga"},
+    {"jp": "おきゃくさま", "kanji": "お客様", "arti": "tamu, pelanggan", "kat": "orang"},
+    {"jp": "かぐ", "kanji": "家具", "arti": "perabot", "kat": "benda"},
+    {"jp": "いちい", "kanji": "一位", "arti": "peringkat pertama", "kat": "lainnya"},
+    {"jp": "いき", "kanji": "息", "arti": "napas", "kat": "tubuh"},
+    {"jp": "とうなんアジア", "kanji": "東南アジア", "arti": "Asia Tenggara", "kat": "tempat"},
+    {"jp": "げつまつ", "kanji": "月末", "arti": "akhir bulan", "kat": "waktu"},
+    {"jp": "まいあさ", "kanji": "毎朝", "arti": "setiap pagi", "kat": "waktu"},
+    {"jp": "せんしゅう / らいしゅう", "kanji": "先週 / 来週", "arti": "minggu lalu / minggu depan", "kat": "waktu"},
+    {"jp": "やくそく", "kanji": "約束", "arti": "janji", "kat": "kerja-suru"},
+    {"jp": "おじゃま", "kanji": "お邪魔", "arti": "bertamu (mengganggu)", "kat": "kerja-suru"},
+    {"jp": "かんしん", "kanji": "感心", "arti": "kagum", "kat": "kerja-suru"},
+    {"jp": "かんぱい", "kanji": "乾杯", "arti": "bersulang", "kat": "kerja-suru"},
+    {"jp": "うかがう", "kanji": "伺う", "arti": "berkunjung / bertanya (merendah)", "kat": "keigo"},
+    {"jp": "おっしゃる", "kanji": "", "arti": "berkata (hormat)", "kat": "keigo"},
+    {"jp": "なさる", "kanji": "", "arti": "melakukan (hormat)", "kat": "keigo"},
+    {"jp": "めしあがる", "kanji": "召し上がる", "arti": "makan/minum (hormat)", "kat": "keigo"},
+    {"jp": "ごらんに なる", "kanji": "御覧になる", "arti": "melihat (hormat)", "kat": "keigo"},
+    {"jp": "いらっしゃる", "kanji": "", "arti": "pergi/datang/ada (hormat)", "kat": "keigo"},
+    {"jp": "おる", "kanji": "", "arti": "ada (merendah)", "kat": "keigo"},
+    {"jp": "もうす", "kanji": "申す", "arti": "berkata, bernama (merendah)", "kat": "keigo"},
+    {"jp": "いたす", "kanji": "致す", "arti": "melakukan (merendah)", "kat": "keigo"},
+    {"jp": "まいる", "kanji": "参る", "arti": "pergi/datang (merendah)", "kat": "keigo"},
+    {"jp": "いただく", "kanji": "", "arti": "makan/minum (merendah)", "kat": "keigo"},
+    {"jp": "あがる", "kanji": "上がる", "arti": "masuk (rumah)", "kat": "kerja"},
+    {"jp": "なれる", "kanji": "慣れる", "arti": "terbiasa", "kat": "kerja"},
+    {"jp": "かつ", "kanji": "勝つ", "arti": "menang", "kat": "kerja"},
+    {"jp": "まける", "kanji": "負ける", "arti": "kalah", "kat": "kerja"},
+    {"jp": "いきを する", "kanji": "息をする", "arti": "bernapas", "kat": "kerja"},
+    {"jp": "ゆれる", "kanji": "揺れる", "arti": "bergoyang", "kat": "kerja"},
+    {"jp": "ことわる", "kanji": "断る", "arti": "menolak", "kat": "kerja"},
+    {"jp": "とまる", "kanji": "泊まる", "arti": "menginap", "kat": "kerja"},
+    {"jp": "うけとる", "kanji": "受け取る", "arti": "menerima", "kat": "kerja"},
+    {"jp": "うまい", "kanji": "", "arti": "enak; pandai", "kat": "sifat-i"},
+    {"jp": "すごい", "kanji": "", "arti": "hebat", "kat": "sifat-i"},
+    {"jp": "すっかり", "kanji": "", "arti": "sepenuhnya", "kat": "keterangan"},
+    {"jp": "やっぱり", "kanji": "", "arti": "ternyata, sudah kuduga", "kat": "keterangan"},
+    {"jp": "こんなに", "kanji": "", "arti": "sebegini", "kat": "keterangan"},
+    {"jp": "このつぎ", "kanji": "この次", "arti": "lain kali", "kat": "keterangan"},
+    {"jp": "ひさしぶりですね", "kanji": "久しぶりですね", "arti": "lama tidak bertemu", "kat": "ungkapan"},
+    {"jp": "おらくに どうぞ", "kanji": "お楽にどうぞ", "arti": "silakan santai", "kat": "ungkapan"},
+    {"jp": "ごちそうさまでした", "kanji": "", "arti": "terima kasih atas makanannya", "kat": "ungkapan"},
+    {"jp": "もう すこし いかがですか", "kanji": "", "arti": "mau tambah lagi?", "kat": "ungkapan"},
+    {"jp": "もう けっこうです", "kanji": "", "arti": "sudah cukup, terima kasih", "kat": "ungkapan"},
+    {"jp": "ただいま / おかえりなさい", "kanji": "", "arti": "saya pulang / selamat datang kembali", "kat": "ungkapan"},
+    {"jp": "いって らっしゃい / いって まいります", "kanji": "", "arti": "hati-hati di jalan / saya berangkat", "kat": "ungkapan"},
+    {"jp": "うん", "kanji": "", "arti": "ya (santai)", "kat": "ungkapan"},
+    {"jp": "〜がた", "kanji": "〜方", "arti": "para … (hormat)", "kat": "akhiran"},
+    {"jp": "〜けど", "kanji": "", "arti": "tetapi (lisan)", "kat": "penghubung"}
+  ],
+  "kanji": [
+    {"k": "訪", "on": ["ホウ"], "kun": ["たず(ねる)", "おとず(れる)"], "arti": "mengunjungi", "contoh": [["訪問", "ほうもん", "kunjungan"]]},
+    {"k": "宅", "on": ["タク"], "kun": [], "arti": "rumah", "contoh": [["お宅", "おたく", "rumah Anda"]]},
+    {"k": "束", "on": ["ソク"], "kun": ["たば"], "arti": "ikat", "contoh": [["約束", "やくそく", "janji"]]},
+    {"k": "感", "on": ["カン"], "kun": [], "arti": "rasa", "contoh": [["感心", "かんしん", "kagum"]]},
+    {"k": "召", "on": ["ショウ"], "kun": ["め(す)"], "arti": "memanggil (hormat)", "contoh": [["召し上がる", "めしあがる", "makan (hormat)"]]},
+    {"k": "次", "on": ["ジ"], "kun": ["つぎ"], "arti": "berikutnya", "contoh": [["次", "つぎ", "berikutnya"]]},
+    {"k": "御", "on": ["ゴ", "ギョ"], "kun": ["おん"], "arti": "awalan hormat", "contoh": [["御らんになる", "ごらんになる", "melihat (hormat)"]]},
+    {"k": "参", "on": ["サン"], "kun": ["まい(る)"], "arti": "datang (merendah)", "contoh": [["参る", "まいる", "datang/pergi"]]},
+    {"k": "申", "on": ["シン"], "kun": ["もう(す)"], "arti": "berkata (merendah)", "contoh": [["申します", "もうします", "bernama"]]},
+    {"k": "勝", "on": ["ショウ"], "kun": ["か(つ)"], "arti": "menang", "contoh": [["勝つ", "かつ", "menang"]]},
+    {"k": "具", "on": ["グ"], "kun": [], "arti": "alat", "contoh": [["家具", "かぐ", "perabot"], ["道具", "どうぐ", "alat"]]},
+    {"k": "負", "on": ["フ"], "kun": ["ま(ける)"], "arti": "kalah", "contoh": [["負ける", "まける", "kalah"]]},
+    {"k": "息", "on": ["ソク"], "kun": ["いき"], "arti": "napas", "contoh": [["息", "いき", "napas"], ["息子", "むすこ", "putra"]]},
+    {"k": "位", "on": ["イ"], "kun": ["くらい"], "arti": "peringkat", "contoh": [["一位", "いちい", "juara satu"]]},
+    {"k": "泊", "on": ["ハク"], "kun": ["と(まる)"], "arti": "menginap", "contoh": [["泊まる", "とまる", "menginap"]]},
+    {"k": "客", "on": ["キャク"], "kun": [], "arti": "tamu", "contoh": [["お客様", "おきゃくさま", "tamu, pelanggan"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "お + V-stem + に なります / V-れる・られる (sonkeigo)",
+      "arti": "(atasan/tamu) melakukan …",
+      "jelaskan": "Meninggikan tindakan orang yang dihormati. Bentuk 〜れる/られる sama dengan pasif tapi bermakna hormat.",
+      "contoh": [["ぶちょうは らいしゅう 日本へ おかえりに なります。", "Manajer pulang ke Jepang minggu depan."], ["しゃちょうは まいあさ さんぽを されます。", "Direktur berjalan-jalan tiap pagi."]]
+    },
+    {
+      "pola": "Kata kerja hormat khusus",
+      "arti": "いらっしゃる・おっしゃる・めしあがる・ごらんに なる・なさる・くださる",
+      "jelaskan": "いく/くる/いる→いらっしゃる, いう→おっしゃる, たべる/のむ→めしあがる, みる→ごらんに なる, する→なさる. Bentuk ます: いらっしゃいます, おっしゃいます, なさいます, くださいます.",
+      "contoh": [["先生は なんと おっしゃいましたか。", "Apa yang dikatakan Sensei?"], ["おきゃくさまは もうすぐ いらっしゃいます。", "Tamu sebentar lagi datang."]]
+    },
+    {
+      "pola": "お + V-stem + します / ご + N-suru + します (kenjougo)",
+      "arti": "(saya) melakukan untuk Anda",
+      "jelaskan": "Merendahkan tindakan diri sendiri yang menyangkut orang yang dihormati.",
+      "contoh": [["おにもつを おもちしましょう。", "Mari saya bawakan barangnya."], ["けっかは すぐ ごれんらくします。", "Hasilnya segera saya kabari."]]
+    },
+    {
+      "pola": "Kata kerja merendah khusus",
+      "arti": "うかがう・まいる・もうす・いたす・おる・いただく",
+      "jelaskan": "たずねる/きく→うかがう, いく/くる→まいる, いう→もうす, する→いたす, いる→おる, たべる/のむ/もらう→いただく.",
+      "contoh": [["わたしは プリと もうします。", "Nama saya Pri."], ["すぐ そちらへ まいります。", "Saya segera ke sana."], ["りょうしんは インドネシアに すんで おります。", "Orang tua saya tinggal di Indonesia."]]
+    },
+    {
+      "pola": "お + V-stem + ください / ご + N + ください",
+      "arti": "silakan … (sangat sopan)",
+      "jelaskan": "Lebih sopan daripada 〜て ください.",
+      "contoh": [["どうぞ この でんわを おつかい ください。", "Silakan pakai telepon ini."], ["どうぞ ごあんしん ください。", "Silakan tenang saja."]]
+    },
+    {
+      "pola": "お / ご + Sifat・N",
+      "arti": "(ungkapan sopan)",
+      "jelaskan": "お untuk kata asli Jepang (おげんき, おじょうず), ご untuk kata Sino-Jepang (ごじゆう, ごしんせつ).",
+      "contoh": [["ごしんせつに して いただきまして、ありがとう ございました。", "Terima kasih atas kebaikan Anda."]]
+    },
+    {
+      "pola": "Bentuk biasa + らしいです",
+      "arti": "kabarnya / tampaknya …",
+      "jelaskan": "Dugaan berdasar informasi tidak langsung atau tanda-tanda. Sifat-な/N tanpa だ: たいへんらしい.",
+      "contoh": [["あしたは てんきが わるいらしいです。", "Kabarnya besok cuaca buruk."], ["あの しごとは どうも たいへんらしいです。", "Pekerjaan itu tampaknya berat."]]
+    },
+    {
+      "pola": "V-た ばかりです",
+      "arti": "baru saja …",
+      "jelaskan": "Belum lama berselang menurut perasaan pembicara (bisa hari, bulan). Bandingkan 〜た ところ yang benar-benar sesaat.",
+      "contoh": [["日本に きた ばかりの とき、ホームシックに なりました。", "Saat baru tiba di Jepang, saya rindu rumah."], ["かった ばかりの かぐが こわれて しまいました。", "Perabot yang baru dibeli sudah rusak."]]
+    },
+    {
+      "pola": "V-る / N の たびに",
+      "arti": "setiap kali …",
+      "jelaskan": "Setiap kali A terjadi, B juga terjadi.",
+      "contoh": [["きょうとへ 行く たびに、ともだちの いえに とまります。", "Setiap ke Kyoto, menginap di rumah teman."]]
+    },
+    {
+      "pola": "N + でも (saran ringan)",
+      "arti": "… atau semacamnya",
+      "jelaskan": "Menawarkan contoh pilihan tanpa memaksa.",
+      "contoh": [["おちゃでも のみませんか。", "Mau minum teh atau apa?"]]
+    },
+    {
+      "pola": "Bentuk lisan (percakapan)",
+      "arti": "〜んです, って, 〜ちゃう/じゃう, 〜てる/でる, 〜たって/だって, 〜ちゃ/じゃ, じゃ ありません",
+      "jelaskan": "〜のです→〜んです, と→って, 〜て しまう→〜ちゃう, 〜て いる→〜てる, 〜ても→〜たって, 〜ては→〜ちゃ, では→じゃ.",
+      "contoh": [["マナさんは ひるごろ くるって 言いました。", "Mana bilang datang sekitar siang."], ["ジュースは ぜんぶ のんじゃいました。", "Jusnya sudah habis kuminum."], ["うそを 言っちゃ だめです。", "Tidak boleh bohong."]]
+    }
+  ],
+  "ungkapan": [
+    ["ひさしぶりですね。— どうぞ おあがり ください。おらくに どうぞ。", "Menyambut tamu di rumah"],
+    ["もう すこし いかがですか。— もう けっこうです。ごちそうさまでした。", "Menolak tambahan makanan dengan sopan"],
+    ["ただいま。— おかえりなさい。", "Pulang ke rumah"],
+    ["いって らっしゃい。— いって まいります。", "Berangkat"]
+  ],
+  "partikel": [
+    {"soal": "ぶちょうは らいしゅう 日本へ おかえり＿ なります。", "jawab": "に", "arti": "Manajer pulang ke Jepang minggu depan."},
+    {"soal": "わたしは プリ＿ もうします。", "jawab": "と", "arti": "Nama saya Pri."},
+    {"soal": "あしたは てんきが わるい＿＿＿です。", "jawab": "らしい", "arti": "Kabarnya besok cuaca buruk."},
+    {"soal": "日本に きた ＿＿＿の とき、ホームシックに なりました。", "jawab": "ばかり", "arti": "Saat baru tiba di Jepang, rindu rumah."},
+    {"soal": "きょうとへ 行く ＿＿＿、ともだちの いえに とまります。", "jawab": "たびに", "arti": "Setiap ke Kyoto, menginap di rumah teman."},
+    {"soal": "おちゃ＿＿ のみませんか。", "jawab": "でも", "arti": "Mau minum teh atau apa?"},
+    {"soal": "マナさんは ひるごろ くる＿＿ 言いました。", "jawab": "って", "arti": "Mana bilang datang sekitar siang."}
+  ]
+}

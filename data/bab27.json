@@ -1,0 +1,167 @@
+{
+  "bab": 27,
+  "judul": "授業見学",
+  "judul_id": "Mengamati pelajaran",
+  "tema": "Bentuk kausatif (〜せる/〜させる: menyuruh, membiarkan, membuat merasa), meminta izin 〜させて ください / 〜させて いただけませんか, seharusnya 〜はずです, 〜なら (kalau yang itu), 〜とおりに, 〜場合は, 〜ほうです, aposisi N1 の N2, pecahan dan kelipatan.",
+  "halaman_buku": [237, 245],
+  "kotoba": [
+    {"jp": "じゅぎょうけんがく", "kanji": "授業見学", "arti": "mengamati pelajaran", "kat": "lainnya"},
+    {"jp": "きょういくがく", "kanji": "教育学", "arti": "ilmu pendidikan", "kat": "studi"},
+    {"jp": "せんこう", "kanji": "専攻", "arti": "jurusan, bidang studi", "kat": "studi"},
+    {"jp": "つごう", "kanji": "都合", "arti": "keadaan, waktu yang cocok", "kat": "lainnya"},
+    {"jp": "ぼこう", "kanji": "母校", "arti": "almamater", "kat": "tempat"},
+    {"jp": "りか", "kanji": "理科", "arti": "IPA", "kat": "studi"},
+    {"jp": "おんど", "kanji": "温度", "arti": "suhu", "kat": "lainnya"},
+    {"jp": "たいせき", "kanji": "体積", "arti": "volume", "kat": "lainnya"},
+    {"jp": "めんせき", "kanji": "面積", "arti": "luas", "kat": "lainnya"},
+    {"jp": "きょうかしょ", "kanji": "教科書", "arti": "buku pelajaran", "kat": "benda"},
+    {"jp": "しけんかん", "kanji": "試験管", "arti": "tabung reaksi", "kat": "benda"},
+    {"jp": "しょくえん", "kanji": "食塩", "arti": "garam dapur", "kat": "bahan"},
+    {"jp": "しお / さとう", "kanji": "塩 / 砂糖", "arti": "garam / gula", "kat": "bahan"},
+    {"jp": "けっか", "kanji": "結果", "arti": "hasil", "kat": "lainnya"},
+    {"jp": "せいと", "kanji": "生徒", "arti": "murid", "kat": "orang"},
+    {"jp": "クラブかつどう", "kanji": "クラブ活動", "arti": "kegiatan klub", "kat": "lainnya"},
+    {"jp": "ばあい", "kanji": "場合", "arti": "kasus, apabila", "kat": "lainnya"},
+    {"jp": "しない", "kanji": "市内", "arti": "dalam kota", "kat": "tempat"},
+    {"jp": "じゅく", "kanji": "塾", "arti": "bimbel", "kat": "tempat"},
+    {"jp": "おや", "kanji": "親", "arti": "orang tua", "kat": "keluarga"},
+    {"jp": "ちちおや / ははおや", "kanji": "父親 / 母親", "arti": "ayah / ibu", "kat": "keluarga"},
+    {"jp": "にっき", "kanji": "日記", "arti": "buku harian", "kat": "benda"},
+    {"jp": "はれ / くもり", "kanji": "晴れ / 曇り", "arti": "cerah / berawan", "kat": "alam"},
+    {"jp": "たこう", "kanji": "他校", "arti": "sekolah lain", "kat": "tempat"},
+    {"jp": "ていど", "kanji": "程度", "arti": "tingkat, kadar", "kat": "lainnya"},
+    {"jp": "こうりつ / しりつ / こくりつ", "kanji": "公立 / 私立 / 国立", "arti": "negeri (daerah) / swasta / negeri (pusat)", "kat": "lainnya"},
+    {"jp": "きゅうしょくせいど", "kanji": "給食制度", "arti": "sistem makan siang sekolah", "kat": "lainnya"},
+    {"jp": "せいど", "kanji": "制度", "arti": "sistem", "kat": "lainnya"},
+    {"jp": "じょうだん", "kanji": "冗談", "arti": "lelucon", "kat": "lainnya"},
+    {"jp": "りゆう", "kanji": "理由", "arti": "alasan", "kat": "lainnya"},
+    {"jp": "げんいん", "kanji": "原因", "arti": "penyebab", "kat": "lainnya"},
+    {"jp": "ほうかご", "kanji": "放課後", "arti": "sepulang sekolah", "kat": "waktu"},
+    {"jp": "じっけん", "kanji": "実験", "arti": "eksperimen", "kat": "kerja-suru"},
+    {"jp": "きょういく", "kanji": "教育", "arti": "pendidikan", "kat": "kerja-suru"},
+    {"jp": "けいさん", "kanji": "計算", "arti": "menghitung", "kat": "kerja-suru"},
+    {"jp": "こういう", "kanji": "", "arti": "yang seperti ini", "kat": "lainnya"},
+    {"jp": "ひやす", "kanji": "冷やす", "arti": "mendinginkan", "kat": "kerja"},
+    {"jp": "まぜる", "kanji": "混ぜる", "arti": "mencampur", "kat": "kerja"},
+    {"jp": "こおる", "kanji": "凍る", "arti": "membeku", "kat": "kerja"},
+    {"jp": "みつける", "kanji": "見つける", "arti": "menemukan", "kat": "kerja"},
+    {"jp": "びっくりする", "kanji": "", "arti": "terkejut", "kat": "kerja"},
+    {"jp": "しゃべる", "kanji": "", "arti": "mengobrol", "kat": "kerja"},
+    {"jp": "こえを だす", "kanji": "声を出す", "arti": "bersuara", "kat": "kerja"},
+    {"jp": "おこる", "kanji": "怒る", "arti": "marah", "kat": "kerja"},
+    {"jp": "あげる / さげる", "kanji": "上げる / 下げる", "arti": "menaikkan / menurunkan", "kat": "kerja"},
+    {"jp": "しらべる", "kanji": "調べる", "arti": "memeriksa, menyelidiki", "kat": "kerja"},
+    {"jp": "けっこうな", "kanji": "結構な", "arti": "baik, cukup", "kat": "sifat-na"},
+    {"jp": "ねっしんな", "kanji": "熱心な", "arti": "tekun, antusias", "kat": "sifat-na"},
+    {"jp": "じゆうな", "kanji": "自由な", "arti": "bebas", "kat": "sifat-na"},
+    {"jp": "じゅんばんに", "kanji": "順番に", "arti": "bergiliran", "kat": "keterangan"},
+    {"jp": "まず / つぎに", "kanji": "", "arti": "pertama / berikutnya", "kat": "keterangan"},
+    {"jp": "おもに", "kanji": "主に", "arti": "terutama", "kat": "keterangan"},
+    {"jp": "ともに", "kanji": "共に", "arti": "bersama-sama", "kat": "keterangan"},
+    {"jp": "いや", "kanji": "", "arti": "eh, bukan (koreksi diri)", "kat": "ungkapan"},
+    {"jp": "〜でも けっこうです", "kanji": "", "arti": "… juga boleh", "kat": "ungkapan"},
+    {"jp": "〜くん", "kanji": "〜君", "arti": "(panggilan untuk pria muda/bawahan)", "kat": "akhiran"},
+    {"jp": "〜ぶんの〜", "kanji": "〜分の〜", "arti": "… per … (pecahan)", "kat": "akhiran"},
+    {"jp": "〜ばい", "kanji": "〜倍", "arti": "… kali lipat", "kat": "akhiran"},
+    {"jp": "だい〜", "kanji": "第〜", "arti": "ke- (urutan)", "kat": "akhiran"}
+  ],
+  "kanji": [
+    {"k": "攻", "on": ["コウ"], "kun": ["せ(める)"], "arti": "menyerang; menekuni", "contoh": [["専攻", "せんこう", "jurusan"]]},
+    {"k": "紹", "on": ["ショウ"], "kun": [], "arti": "memperkenalkan", "contoh": [["紹介", "しょうかい", "perkenalan"]]},
+    {"k": "介", "on": ["カイ"], "kun": [], "arti": "perantara", "contoh": [["紹介", "しょうかい", "perkenalan"]]},
+    {"k": "温", "on": ["オン"], "kun": ["あたた(かい)"], "arti": "hangat", "contoh": [["温度", "おんど", "suhu"]]},
+    {"k": "順", "on": ["ジュン"], "kun": [], "arti": "urutan", "contoh": [["順番", "じゅんばん", "giliran"]]},
+    {"k": "試", "on": ["シ"], "kun": ["ため(す)"], "arti": "mencoba", "contoh": [["試験", "しけん", "ujian"]]},
+    {"k": "管", "on": ["カン"], "kun": ["くだ"], "arti": "pipa; mengelola", "contoh": [["試験管", "しけんかん", "tabung reaksi"]]},
+    {"k": "塩", "on": ["エン"], "kun": ["しお"], "arti": "garam", "contoh": [["塩", "しお", "garam"], ["食塩", "しょくえん", "garam dapur"]]},
+    {"k": "果", "on": ["カ"], "kun": ["は(たす)"], "arti": "buah; hasil", "contoh": [["結果", "けっか", "hasil"]]},
+    {"k": "倍", "on": ["バイ"], "kun": [], "arti": "kali lipat", "contoh": [["二倍", "にばい", "dua kali lipat"]]},
+    {"k": "徒", "on": ["ト"], "kun": [], "arti": "murid; jalan kaki", "contoh": [["生徒", "せいと", "murid"]]},
+    {"k": "課", "on": ["カ"], "kun": [], "arti": "pelajaran; seksi", "contoh": [["放課後", "ほうかご", "sepulang sekolah"], ["課長", "かちょう", "kepala seksi"]]},
+    {"k": "第", "on": ["ダイ"], "kun": [], "arti": "urutan ke-", "contoh": [["第三", "だいさん", "ketiga"]]},
+    {"k": "他", "on": ["タ"], "kun": ["ほか"], "arti": "lain", "contoh": [["他校", "たこう", "sekolah lain"]]},
+    {"k": "程", "on": ["テイ"], "kun": ["ほど"], "arti": "kadar", "contoh": [["程度", "ていど", "tingkat"]]},
+    {"k": "給", "on": ["キュウ"], "kun": [], "arti": "memberi; gaji", "contoh": [["給食", "きゅうしょく", "makan siang sekolah"], ["給料", "きゅうりょう", "gaji"]]},
+    {"k": "共", "on": ["キョウ"], "kun": ["とも"], "arti": "bersama", "contoh": [["共に", "ともに", "bersama-sama"]]},
+    {"k": "因", "on": ["イン"], "kun": [], "arti": "sebab", "contoh": [["原因", "げんいん", "penyebab"]]},
+    {"k": "師", "on": ["シ"], "kun": [], "arti": "guru, ahli", "contoh": [["教師", "きょうし", "guru"]]},
+    {"k": "無", "on": ["ム", "ブ"], "kun": ["な(い)"], "arti": "tidak ada", "contoh": [["無い", "ない", "tidak ada"], ["無理", "むり", "mustahil"]]},
+    {"k": "算", "on": ["サン"], "kun": [], "arti": "berhitung", "contoh": [["計算", "けいさん", "perhitungan"]]},
+    {"k": "調", "on": ["チョウ"], "kun": ["しら(べる)"], "arti": "menyelidiki; nada", "contoh": [["調べる", "しらべる", "memeriksa"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "Bentuk kausatif V-せる / V-させる",
+      "arti": "menyuruh / membiarkan …",
+      "jelaskan": "Gol.1 u→a + せる (いく→いかせる, よむ→よませる). Gol.2 る→させる (たべさせる). する→させる, くる→こさせる. V intransitif: orang yang disuruh ditandai を. V transitif: ditandai に.",
+      "contoh": [["ははは おとうとを びょういんへ 行かせました。", "Ibu menyuruh adik pergi ke rumah sakit."], ["かちょうは わたしに しりょうを コピーさせました。", "Kepala seksi menyuruh saya memfotokopi data."]]
+    },
+    {
+      "pola": "Kausatif izin: 〜に すきな ように V-させる",
+      "arti": "membiarkan / mengizinkan …",
+      "jelaskan": "Kausatif juga berarti memberi kebebasan.",
+      "contoh": [["りょうしんは こどもたちに じゆうに せんこうを えらばせました。", "Orang tua membiarkan anak-anak bebas memilih jurusan."]]
+    },
+    {
+      "pola": "Kausatif emosi: 〜を わらわせる / びっくりさせる / おこらせる",
+      "arti": "membuat (orang) tertawa / kaget / marah",
+      "jelaskan": "Untuk perasaan, orang yang terkena ditandai を.",
+      "contoh": [["たなかさんは じょうだんを 言って、みんなを わらわせました。", "Tanaka melucu dan membuat semua orang tertawa."]]
+    },
+    {
+      "pola": "V-させて ください / V-させて いただけませんか",
+      "arti": "izinkan saya …",
+      "jelaskan": "Meminta izin untuk diri sendiri. Melaporkan izin: 〜させて くださいました / くれました.",
+      "contoh": [["あしたは やすませて いただけませんか。", "Bolehkah saya izin libur besok?"], ["この でんわを つかわせて ください。", "Izinkan saya memakai telepon ini."]]
+    },
+    {
+      "pola": "Bentuk biasa + はずです",
+      "arti": "seharusnya / semestinya …",
+      "jelaskan": "Keyakinan berdasar alasan logis. Sifat-な: ひつような はず, N: やすみの はず.",
+      "contoh": [["きょうは 日ようびだから、ぎんこうは やすみの はずです。", "Hari ini Minggu, jadi bank semestinya libur."], ["さっき おんどを あげたから、あたたかい はずです。", "Suhunya tadi dinaikkan, jadi seharusnya hangat."]]
+    },
+    {
+      "pola": "N (+partikel) なら",
+      "arti": "kalau (yang) …, (maka)",
+      "jelaskan": "Menyoroti satu pilihan sebagai kontras dengan yang lain.",
+      "contoh": [["土ようびは だめですが、日ようびなら つごうが いいです。", "Sabtu tidak bisa, tapi kalau Minggu bisa."], ["こうじょうの 中では だめですが、外でなら いいです。", "Di dalam pabrik tidak boleh, tapi di luar boleh."]]
+    },
+    {
+      "pola": "V-る / V-た / N の とおりに",
+      "arti": "sesuai dengan …",
+      "jelaskan": "Melakukan persis seperti contoh atau instruksi.",
+      "contoh": [["わたしが やる とおりに、やって ください。", "Lakukan persis seperti yang saya lakukan."], ["マニュアルの とおりに、きかいを うごかします。", "Menjalankan mesin sesuai manual."]]
+    },
+    {
+      "pola": "〜ばあいは",
+      "arti": "apabila / dalam hal …",
+      "jelaskan": "Kondisi tertentu (sering untuk prosedur). V-る/V-た/Sifat-い/Sifat-な な/N の + ばあい.",
+      "contoh": [["じこが あった ばあいは、すぐ げんいんを しらべなければ なりません。", "Apabila terjadi kecelakaan, penyebab harus segera diselidiki."], ["けっせきの ばあいは、はやく れんらくして ください。", "Kalau absen, segera hubungi."]]
+    },
+    {
+      "pola": "〜ほうです",
+      "arti": "termasuk …",
+      "jelaskan": "Menggolongkan secara umum: せが たかい ほう (termasuk tinggi), じょうずな ほう.",
+      "contoh": [["アリさんは クラスの 中で せが たかい ほうです。", "Ali termasuk tinggi di kelas."]]
+    },
+    {
+      "pola": "N1 の N2 (aposisi) / 〜ぶんの〜 / 〜ばい",
+      "arti": "N2 yaitu N1 / pecahan / kelipatan",
+      "jelaskan": "ともだちの なかむらさん = teman saya, Nakamura. 三ぶんの一 = sepertiga. 二ばい = dua kali lipat.",
+      "contoh": [["こちらは ともだちの なかむらさんです。", "Ini teman saya, Nakamura."], ["せいさんりょうが 二ばいに なりました。", "Volume produksi menjadi dua kali lipat."]]
+    }
+  ],
+  "ungkapan": [
+    ["らいしゅうなら いつでも けっこうです。", "Kalau minggu depan kapan saja boleh"],
+    ["どこか しょうかいして くださいませんか。", "Minta dikenalkan/direkomendasikan"]
+  ],
+  "partikel": [
+    {"soal": "ははは おとうと＿ びょういんへ 行かせました。", "jawab": "を", "arti": "Ibu menyuruh adik ke rumah sakit."},
+    {"soal": "かちょうは わたし＿ しりょうを コピーさせました。", "jawab": "に", "arti": "Kepala seksi menyuruh saya memfotokopi."},
+    {"soal": "きょうは 日ようびだから、ぎんこうは やすみの ＿＿です。", "jawab": "はず", "arti": "Hari Minggu, bank semestinya libur."},
+    {"soal": "マニュアルの ＿＿＿に、きかいを うごかします。", "jawab": "とおり", "arti": "Menjalankan mesin sesuai manual."},
+    {"soal": "けっせきの ＿＿＿は、はやく れんらくして ください。", "jawab": "ばあい", "arti": "Kalau absen, segera hubungi."},
+    {"soal": "日ようび＿＿ つごうが いいです。", "jawab": "なら", "arti": "Kalau Minggu, bisa."},
+    {"soal": "アリさんは せが たかい ＿＿です。", "jawab": "ほう", "arti": "Ali termasuk tinggi."}
+  ]
+}

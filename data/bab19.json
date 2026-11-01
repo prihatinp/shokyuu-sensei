@@ -1,0 +1,157 @@
+{
+  "bab": 19,
+  "judul": "おぼん",
+  "judul_id": "Obon (festival leluhur)",
+  "tema": "Keluarga besar, pengalaman (〜た ことが あります), kadang-kadang (〜る ことが あります), syarat pasti 〜と, sambil (〜ながら), penekanan dengan が (どれが, こちらが), 〜のは 〜です, 〜のは 〜からです, dan ajakan 〜ませんか.",
+  "halaman_buku": [162, 172],
+  "kotoba": [
+    {"jp": "おぼん", "kanji": "お盆", "arti": "Obon (festival arwah leluhur, Agustus)", "kat": "lainnya"},
+    {"jp": "しょうがつ", "kanji": "正月", "arti": "tahun baru", "kat": "waktu"},
+    {"jp": "ぎょうじ", "kanji": "行事", "arti": "acara tahunan", "kat": "lainnya"},
+    {"jp": "ぼんおどり", "kanji": "盆踊り", "arti": "tarian Obon", "kat": "lainnya"},
+    {"jp": "おどり", "kanji": "踊り", "arti": "tarian", "kat": "lainnya"},
+    {"jp": "きょうだい", "kanji": "兄弟", "arti": "saudara kandung", "kat": "keluarga"},
+    {"jp": "ちょうなん", "kanji": "長男", "arti": "anak laki-laki sulung", "kat": "keluarga"},
+    {"jp": "ちょうじょ", "kanji": "長女", "arti": "anak perempuan sulung", "kat": "keluarga"},
+    {"jp": "すえっこ", "kanji": "末っ子", "arti": "anak bungsu", "kat": "keluarga"},
+    {"jp": "りょうしん", "kanji": "両親", "arti": "orang tua", "kat": "keluarga"},
+    {"jp": "しんるい", "kanji": "親類", "arti": "kerabat", "kat": "keluarga"},
+    {"jp": "そふ", "kanji": "祖父", "arti": "kakek (saya)", "kat": "keluarga"},
+    {"jp": "そぼ", "kanji": "祖母", "arti": "nenek (saya)", "kat": "keluarga"},
+    {"jp": "おじいさん", "kanji": "", "arti": "kakek (orang lain)", "kat": "keluarga"},
+    {"jp": "おばあさん", "kanji": "", "arti": "nenek (orang lain)", "kat": "keluarga"},
+    {"jp": "おじ / おじさん", "kanji": "", "arti": "paman", "kat": "keluarga"},
+    {"jp": "おば / おばさん", "kanji": "", "arti": "bibi", "kat": "keluarga"},
+    {"jp": "いとこ", "kanji": "", "arti": "sepupu", "kat": "keluarga"},
+    {"jp": "かない", "kanji": "家内", "arti": "istri (saya)", "kat": "keluarga"},
+    {"jp": "おくさん", "kanji": "奥さん", "arti": "istri (orang lain)", "kat": "keluarga"},
+    {"jp": "しゅじん", "kanji": "主人", "arti": "suami (saya)", "kat": "keluarga"},
+    {"jp": "ごしゅじん", "kanji": "ご主人", "arti": "suami (orang lain)", "kat": "keluarga"},
+    {"jp": "むすこ", "kanji": "息子", "arti": "anak laki-laki (saya)", "kat": "keluarga"},
+    {"jp": "むすめ", "kanji": "娘", "arti": "anak perempuan (saya)", "kat": "keluarga"},
+    {"jp": "むすこさん / むすめさん", "kanji": "", "arti": "putra / putri (orang lain)", "kat": "keluarga"},
+    {"jp": "おい / めい", "kanji": "", "arti": "keponakan laki-laki / perempuan", "kat": "keluarga"},
+    {"jp": "いなか", "kanji": "田舎", "arti": "kampung halaman, desa", "kat": "tempat"},
+    {"jp": "むら", "kanji": "村", "arti": "desa", "kat": "tempat"},
+    {"jp": "とかい", "kanji": "都会", "arti": "kota besar", "kat": "tempat"},
+    {"jp": "のうか", "kanji": "農家", "arti": "keluarga petani", "kat": "orang"},
+    {"jp": "ひろば", "kanji": "広場", "arti": "lapangan, alun-alun", "kat": "tempat"},
+    {"jp": "どくしん", "kanji": "独身", "arti": "lajang", "kat": "lainnya"},
+    {"jp": "けが", "kanji": "怪我", "arti": "luka, cedera", "kat": "kesehatan"},
+    {"jp": "しゅじゅつ", "kanji": "手術", "arti": "operasi", "kat": "kesehatan"},
+    {"jp": "かぜ", "kanji": "風邪", "arti": "masuk angin, flu", "kat": "kesehatan"},
+    {"jp": "けいさつ", "kanji": "警察", "arti": "polisi", "kat": "tempat"},
+    {"jp": "あさねぼう", "kanji": "朝寝坊", "arti": "bangun kesiangan", "kat": "lainnya"},
+    {"jp": "しんごう", "kanji": "信号", "arti": "lampu lalu lintas", "kat": "tempat"},
+    {"jp": "かいがん", "kanji": "海岸", "arti": "pantai", "kat": "tempat"},
+    {"jp": "いりぐち", "kanji": "入口", "arti": "pintu masuk", "kat": "tempat"},
+    {"jp": "でぐち", "kanji": "出口", "arti": "pintu keluar", "kat": "tempat"},
+    {"jp": "そだつ", "kanji": "育つ", "arti": "tumbuh besar", "kat": "kerja"},
+    {"jp": "こむ", "kanji": "込む", "arti": "padat, ramai", "kat": "kerja"},
+    {"jp": "あつまる", "kanji": "集まる", "arti": "berkumpul", "kat": "kerja"},
+    {"jp": "おどる", "kanji": "踊る", "arti": "menari", "kat": "kerja"},
+    {"jp": "ほめる", "kanji": "", "arti": "memuji", "kat": "kerja"},
+    {"jp": "しかる", "kanji": "", "arti": "memarahi", "kat": "kerja"},
+    {"jp": "かぜを ひく", "kanji": "風邪を引く", "arti": "masuk angin, kena flu", "kat": "kerja"},
+    {"jp": "なんども", "kanji": "何度も", "arti": "berkali-kali", "kat": "keterangan"},
+    {"jp": "いちども", "kanji": "一度も", "arti": "sekali pun (tidak)", "kat": "keterangan"},
+    {"jp": "なぜ", "kanji": "", "arti": "mengapa", "kat": "kata tanya"},
+    {"jp": "どのように", "kanji": "", "arti": "dengan cara bagaimana", "kat": "kata tanya"},
+    {"jp": "たいてい", "kanji": "", "arti": "biasanya", "kat": "keterangan"},
+    {"jp": "まっすぐ", "kanji": "", "arti": "lurus", "kat": "keterangan"},
+    {"jp": "いっぱい", "kanji": "", "arti": "penuh, banyak", "kat": "keterangan"},
+    {"jp": "ほら", "kanji": "", "arti": "lihat! (menarik perhatian)", "kat": "ungkapan"}
+  ],
+  "kanji": [
+    {"k": "末", "on": ["マツ"], "kun": ["すえ"], "arti": "akhir", "contoh": [["末っ子", "すえっこ", "anak bungsu"]]},
+    {"k": "村", "on": ["ソン"], "kun": ["むら"], "arti": "desa", "contoh": [["村", "むら", "desa"]]},
+    {"k": "独", "on": ["ドク"], "kun": ["ひと(り)"], "arti": "sendiri", "contoh": [["独身", "どくしん", "lajang"]]},
+    {"k": "育", "on": ["イク"], "kun": ["そだ(つ)"], "arti": "tumbuh, mendidik", "contoh": [["育つ", "そだつ", "tumbuh"], ["体育", "たいいく", "olahraga"]]},
+    {"k": "汽", "on": ["キ"], "kun": [], "arti": "uap", "contoh": [["汽車", "きしゃ", "kereta uap"]]},
+    {"k": "術", "on": ["ジュツ"], "kun": [], "arti": "teknik, seni", "contoh": [["手術", "しゅじゅつ", "operasi"], ["技術", "ぎじゅつ", "teknologi"]]},
+    {"k": "信", "on": ["シン"], "kun": [], "arti": "percaya; sinyal", "contoh": [["信号", "しんごう", "lampu lalu lintas"]]},
+    {"k": "岸", "on": ["ガン"], "kun": ["きし"], "arti": "tepi", "contoh": [["海岸", "かいがん", "pantai"]]},
+    {"k": "主", "on": ["シュ"], "kun": ["ぬし", "おも"], "arti": "tuan, utama", "contoh": [["主人", "しゅじん", "suami"]]},
+    {"k": "祖", "on": ["ソ"], "kun": [], "arti": "leluhur", "contoh": [["祖父", "そふ", "kakek"], ["祖母", "そぼ", "nenek"]]},
+    {"k": "聞", "on": ["ブン"], "kun": ["き(く)"], "arti": "mendengar", "contoh": [["聞く", "きく", "mendengar"], ["新聞", "しんぶん", "koran"]]},
+    {"k": "弱", "on": ["ジャク"], "kun": ["よわ(い)"], "arti": "lemah", "contoh": [["弱い", "よわい", "lemah"]]},
+    {"k": "弟", "on": ["ダイ", "テイ"], "kun": ["おとうと"], "arti": "adik laki-laki", "contoh": [["弟", "おとうと", "adik laki-laki"], ["兄弟", "きょうだい", "saudara"]]},
+    {"k": "映", "on": ["エイ"], "kun": ["うつ(る)"], "arti": "memantulkan", "contoh": [["映画", "えいが", "film"]]},
+    {"k": "集", "on": ["シュウ"], "kun": ["あつ(まる)", "あつ(める)"], "arti": "berkumpul", "contoh": [["集まる", "あつまる", "berkumpul"]]},
+    {"k": "楽", "on": ["ガク", "ラク"], "kun": ["たの(しい)"], "arti": "musik; senang", "contoh": [["音楽", "おんがく", "musik"], ["楽しい", "たのしい", "menyenangkan"]]},
+    {"k": "渡", "on": ["ト"], "kun": ["わた(る)"], "arti": "menyeberang", "contoh": [["渡る", "わたる", "menyeberang"]]},
+    {"k": "農", "on": ["ノウ"], "kun": [], "arti": "pertanian", "contoh": [["農業", "のうぎょう", "pertanian"], ["農家", "のうか", "petani"]]},
+    {"k": "朝", "on": ["チョウ"], "kun": ["あさ"], "arti": "pagi", "contoh": [["朝", "あさ", "pagi"], ["朝ご飯", "あさごはん", "sarapan"]]},
+    {"k": "始", "on": ["シ"], "kun": ["はじ(まる)", "はじ(める)"], "arti": "mulai", "contoh": [["始まる", "はじまる", "dimulai"]]},
+    {"k": "住", "on": ["ジュウ"], "kun": ["す(む)"], "arti": "tinggal", "contoh": [["住む", "すむ", "tinggal"], ["住所", "じゅうしょ", "alamat"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "V-た ことが あります",
+      "arti": "pernah V",
+      "jelaskan": "Pengalaman di masa lalu. Belum pernah: 〜た ことが ありません (sering dengan まだ / いちども).",
+      "contoh": [["日本の こうじょうで はたらいた ことが あります。", "Saya pernah bekerja di pabrik Jepang."], ["まだ いちども ふじさんに のぼった ことが ありません。", "Belum pernah sekali pun mendaki Gunung Fuji."]]
+    },
+    {
+      "pola": "V-る / V-ない ことが あります",
+      "arti": "kadang-kadang (tidak) V",
+      "jelaskan": "Bentuk kamus/ない + ことが ある = sesekali terjadi.",
+      "contoh": [["ラインが とまる ことが あります。", "Kadang line berhenti."], ["あさごはんを たべない ことが あります。", "Kadang saya tidak sarapan."]]
+    },
+    {
+      "pola": "Bentuk biasa + と、…",
+      "arti": "kalau / setiap kali … (pasti) …",
+      "jelaskan": "Akibat yang pasti atau alami. Kalimat kedua tidak boleh berupa permintaan atau ajakan. Sifat-な/N: 〜だと.",
+      "contoh": [["この ボタンを おすと、きかいが とまります。", "Kalau tombol ini ditekan, mesin berhenti."], ["まっすぐ いくと、しんごうが あります。", "Kalau jalan lurus, ada lampu lalu lintas."]]
+    },
+    {
+      "pola": "V1-ます(stem) + ながら、V2",
+      "arti": "V2 sambil V1",
+      "jelaskan": "Dua kegiatan bersamaan oleh orang yang sama. Kegiatan utama di belakang.",
+      "contoh": [["メモを とりながら、せつめいを ききます。", "Mendengarkan penjelasan sambil mencatat."]]
+    },
+    {
+      "pola": "Kata tanya が … — X が …",
+      "arti": "yang mana / siapa yang … (penekanan)",
+      "jelaskan": "Kata tanya sebagai subjek memakai が, jawabannya juga が.",
+      "contoh": [["どれが あなたの かさですか。", "Payung Anda yang mana?"], ["これが わたしの です。", "Yang ini punya saya."]]
+    },
+    {
+      "pola": "〜のは X です",
+      "arti": "yang … adalah X (penekanan)",
+      "jelaskan": "Bagian yang ingin ditekankan dipindah ke belakang. Kalimat + の を jadi kata benda.",
+      "contoh": [["こしょうしたのは 三ばんの きかいです。", "Yang rusak adalah mesin nomor 3."], ["むずかしいのは ぶんぽうです。", "Yang sulit adalah tata bahasa."]]
+    },
+    {
+      "pola": "〜のは 〜からです",
+      "arti": "… itu karena …",
+      "jelaskan": "Menjelaskan alasan dengan penekanan.",
+      "contoh": [["きのう やすんだのは かぜを ひいたからです。", "Kemarin saya libur karena masuk angin."]]
+    },
+    {
+      "pola": "V-ませんか",
+      "arti": "maukah …? (ajakan halus)",
+      "jelaskan": "Lebih sopan daripada 〜ましょう. Jawab: ええ、〜ましょう.",
+      "contoh": [["いっしょに しょくじを しませんか。", "Mau makan bersama?"], ["いいですね。いきましょう。", "Boleh, ayo."]]
+    },
+    {
+      "pola": "N が あります (orang)",
+      "arti": "punya (saudara, istri, dll.)",
+      "jelaskan": "Untuk hubungan keluarga, boleh memakai あります: あにが ふたり あります.",
+      "contoh": [["わたしは こどもが ふたり あります。", "Saya punya dua anak."]]
+    }
+  ],
+  "ungkapan": [
+    ["どうですか。いっしょに 行きませんか。— いいですね。行きましょう。", "Mengajak dan menerima"],
+    ["え、どこですか。", "Bereaksi kaget/bertanya ulang"]
+  ],
+  "partikel": [
+    {"soal": "日本の こうじょうで はたらいた ＿＿が あります。", "jawab": "こと", "arti": "Pernah bekerja di pabrik Jepang."},
+    {"soal": "この ボタンを おす＿、きかいが とまります。", "jawab": "と", "arti": "Kalau tombol ini ditekan, mesin berhenti."},
+    {"soal": "メモを とり＿＿＿、せつめいを ききます。", "jawab": "ながら", "arti": "Mendengarkan penjelasan sambil mencatat."},
+    {"soal": "どれ＿ あなたの かさですか。", "jawab": "が", "arti": "Payung Anda yang mana?"},
+    {"soal": "こしょうした＿＿ 三ばんの きかいです。", "jawab": "のは", "arti": "Yang rusak adalah mesin nomor 3."},
+    {"soal": "きのう やすんだのは かぜを ひいた＿＿です。", "jawab": "から", "arti": "Kemarin libur karena masuk angin."},
+    {"soal": "いっしょに しょくじを しません＿。", "jawab": "か", "arti": "Mau makan bersama?"}
+  ]
+}
