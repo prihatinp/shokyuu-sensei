@@ -3,10 +3,48 @@
   "penerbit": "東京外国語大学 留学生日本語教育センター",
   "pdf_offset": 1,
   "bab": [
-    {"bab": 1, "judul": "どうぞ よろしく", "judul_id": "Senang berkenalan", "file": "data/bab1.json"},
-    {"bab": 2, "judul": "がっこう", "judul_id": "Sekolah", "file": "data/bab2.json"},
-    {"bab": 3, "judul": "りょう", "judul_id": "Asrama", "file": "data/bab3.json"},
-    {"bab": 4, "judul": "やすみの 日 (1)", "judul_id": "Hari libur (1)", "file": null}
+    {
+      "bab": 1,
+      "judul": "どうぞ よろしく",
+      "judul_id": "Senang berkenalan",
+      "file": "data/bab1.json"
+    },
+    {
+      "bab": 2,
+      "judul": "がっこう",
+      "judul_id": "Sekolah",
+      "file": "data/bab2.json"
+    },
+    {
+      "bab": 3,
+      "judul": "りょう",
+      "judul_id": "Asrama",
+      "file": "data/bab3.json"
+    },
+    {
+      "bab": 4,
+      "judul": "やすみの 日 (1)",
+      "judul_id": "Hari libur (1)",
+      "file": "data/bab4.json"
+    },
+    {
+      "bab": 5,
+      "judul": "やすみの 日 (2)",
+      "judul_id": "Hari libur (2)",
+      "file": "data/bab5.json"
+    },
+    {
+      "bab": 6,
+      "judul": "かいもの",
+      "judul_id": "Belanja",
+      "file": "data/bab6.json"
+    },
+    {
+      "bab": 7,
+      "judul": "ハイキング",
+      "judul_id": "Hiking",
+      "file": null
+    }
   ],
   "total_bab": 28
 }

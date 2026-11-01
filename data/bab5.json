@@ -1,0 +1,146 @@
+{
+  "bab": 5,
+  "judul": "やすみの 日 (2)",
+  "judul_id": "Hari libur (2)",
+  "tema": "Bercerita tentang hari libur: kata sifat-i bentuk lampau, durasi (〜じかん・〜かん・ぐらい), dari–sampai (から〜まで), alat transportasi (で), dan kata sambung.",
+  "halaman_buku": [33, 43],
+  "kotoba": [
+    {"jp": "しゅくだい", "kanji": "宿題", "arti": "PR, tugas", "kat": "lainnya"},
+    {"jp": "バス", "kanji": "", "arti": "bus", "kat": "kendaraan"},
+    {"jp": "おてら", "kanji": "お寺", "arti": "kuil Buddha", "kat": "tempat"},
+    {"jp": "えき", "kanji": "駅", "arti": "stasiun", "kat": "tempat"},
+    {"jp": "ひこうき", "kanji": "飛行機", "arti": "pesawat terbang", "kat": "kendaraan"},
+    {"jp": "しんかんせん", "kanji": "新幹線", "arti": "kereta cepat Shinkansen", "kat": "kendaraan"},
+    {"jp": "ふね", "kanji": "船", "arti": "kapal", "kat": "kendaraan"},
+    {"jp": "でんしゃ", "kanji": "電車", "arti": "kereta listrik", "kat": "kendaraan"},
+    {"jp": "なつやすみ", "kanji": "夏休み", "arti": "libur musim panas", "kat": "waktu"},
+    {"jp": "ふゆやすみ", "kanji": "冬休み", "arti": "libur musim dingin", "kat": "waktu"},
+    {"jp": "ごぜん", "kanji": "午前", "arti": "pagi (a.m.)", "kat": "waktu"},
+    {"jp": "ごご", "kanji": "午後", "arti": "siang/sore (p.m.)", "kat": "waktu"},
+    {"jp": "あさはやく", "kanji": "朝早く", "arti": "pagi-pagi sekali", "kat": "waktu"},
+    {"jp": "よるおそく", "kanji": "夜遅く", "arti": "larut malam", "kat": "waktu"},
+    {"jp": "いちにち", "kanji": "一日", "arti": "satu hari (lamanya)", "kat": "waktu"},
+    {"jp": "こんばん", "kanji": "今晩", "arti": "malam ini", "kat": "waktu"},
+    {"jp": "けさ", "kanji": "今朝", "arti": "tadi pagi", "kat": "waktu"},
+    {"jp": "ゆうべ", "kanji": "", "arti": "tadi malam", "kat": "waktu"},
+    {"jp": "はる", "kanji": "春", "arti": "musim semi", "kat": "musim"},
+    {"jp": "なつ", "kanji": "夏", "arti": "musim panas", "kat": "musim"},
+    {"jp": "あき", "kanji": "秋", "arti": "musim gugur", "kat": "musim"},
+    {"jp": "ふゆ", "kanji": "冬", "arti": "musim dingin", "kat": "musim"},
+    {"jp": "うんどう", "kanji": "運動", "arti": "olahraga (gerak badan)", "kat": "lainnya"},
+    {"jp": "りょこう", "kanji": "旅行", "arti": "perjalanan wisata", "kat": "lainnya"},
+    {"jp": "けんぶつ", "kanji": "見物", "arti": "melihat-lihat, wisata", "kat": "lainnya"},
+    {"jp": "なら", "kanji": "奈良", "arti": "Nara (kota)", "kat": "tempat"},
+    {"jp": "どう", "kanji": "", "arti": "bagaimana", "kat": "kata tanya"},
+    {"jp": "どのぐらい", "kanji": "", "arti": "berapa lama / berapa banyak", "kat": "kata tanya"},
+    {"jp": "かかります", "kanji": "", "arti": "memakan (waktu/biaya)", "kat": "kerja"},
+    {"jp": "いそがしい", "kanji": "忙しい", "arti": "sibuk", "kat": "sifat-i"},
+    {"jp": "むずかしい", "kanji": "難しい", "arti": "sulit", "kat": "sifat-i"},
+    {"jp": "やさしい", "kanji": "易しい", "arti": "mudah", "kat": "sifat-i"},
+    {"jp": "たのしい", "kanji": "楽しい", "arti": "menyenangkan", "kat": "sifat-i"},
+    {"jp": "ちかい", "kanji": "近い", "arti": "dekat", "kat": "sifat-i"},
+    {"jp": "とおい", "kanji": "遠い", "arti": "jauh", "kat": "sifat-i"},
+    {"jp": "ながい", "kanji": "長い", "arti": "panjang, lama", "kat": "sifat-i"},
+    {"jp": "みじかい", "kanji": "短い", "arti": "pendek, singkat", "kat": "sifat-i"},
+    {"jp": "あつい", "kanji": "暑い", "arti": "panas (cuaca)", "kat": "sifat-i"},
+    {"jp": "さむい", "kanji": "寒い", "arti": "dingin (cuaca)", "kat": "sifat-i"},
+    {"jp": "おそい", "kanji": "遅い", "arti": "lambat; terlambat", "kat": "sifat-i"},
+    {"jp": "はやい", "kanji": "早い / 速い", "arti": "cepat; awal", "kat": "sifat-i"},
+    {"jp": "とても", "kanji": "", "arti": "sangat", "kat": "keterangan"},
+    {"jp": "たくさん", "kanji": "", "arti": "banyak", "kat": "keterangan"},
+    {"jp": "すこし", "kanji": "少し", "arti": "sedikit", "kat": "keterangan"},
+    {"jp": "あまり 〜ない", "kanji": "", "arti": "tidak begitu …", "kat": "keterangan"},
+    {"jp": "あるいて", "kanji": "歩いて", "arti": "dengan berjalan kaki", "kat": "keterangan"},
+    {"jp": "それから", "kanji": "", "arti": "setelah itu", "kat": "penghubung"},
+    {"jp": "しかし", "kanji": "", "arti": "tetapi", "kat": "penghubung"},
+    {"jp": "〜じかん", "kanji": "〜時間", "arti": "… jam (lamanya)", "kat": "akhiran"},
+    {"jp": "〜ぐらい", "kanji": "", "arti": "kira-kira, sekitar", "kat": "akhiran"},
+    {"jp": "〜かん", "kanji": "〜間", "arti": "selama …", "kat": "akhiran"},
+    {"jp": "〜しゅうかん", "kanji": "〜週間", "arti": "… minggu (lamanya)", "kat": "akhiran"},
+    {"jp": "〜かげつ", "kanji": "〜か月", "arti": "… bulan (lamanya)", "kat": "akhiran"},
+    {"jp": "〜びょう", "kanji": "〜秒", "arti": "… detik", "kat": "akhiran"}
+  ],
+  "kanji": [
+    {"k": "夕", "on": ["セキ"], "kun": ["ゆう"], "arti": "senja", "contoh": [["夕方", "ゆうがた", "sore"]]},
+    {"k": "古", "on": ["コ"], "kun": ["ふる(い)"], "arti": "tua, lama", "contoh": [["古い", "ふるい", "lama, tua"]]},
+    {"k": "寺", "on": ["ジ"], "kun": ["てら"], "arti": "kuil", "contoh": [["お寺", "おてら", "kuil"]]},
+    {"k": "早", "on": ["ソウ"], "kun": ["はや(い)"], "arti": "awal, cepat", "contoh": [["早く", "はやく", "cepat, awal"]]},
+    {"k": "冬", "on": ["トウ"], "kun": ["ふゆ"], "arti": "musim dingin", "contoh": [["冬休み", "ふゆやすみ", "libur musim dingin"]]},
+    {"k": "春", "on": ["シュン"], "kun": ["はる"], "arti": "musim semi", "contoh": [["春", "はる", "musim semi"]]},
+    {"k": "秋", "on": ["シュウ"], "kun": ["あき"], "arti": "musim gugur", "contoh": [["秋", "あき", "musim gugur"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "Sifat-い → 〜かったです",
+      "arti": "dulu (sifat) — lampau",
+      "jelaskan": "Buang い, ganti かったです. たのしい → たのしかったです. Pengecualian: いい → よかったです.",
+      "contoh": [["しゅうまつは たのしかったです。", "Akhir pekan menyenangkan."], ["きのうは あつかったです。", "Kemarin panas."]]
+    },
+    {
+      "pola": "Sifat-い → 〜く なかったです",
+      "arti": "dulu tidak (sifat) — lampau negatif",
+      "jelaskan": "Buang い, ganti くなかったです. むずかしい → むずかしくなかったです.",
+      "contoh": [["テストは むずかしく なかったです。", "Ujiannya tidak sulit."]]
+    },
+    {
+      "pola": "N は どうでしたか",
+      "arti": "N bagaimana (tadi/kemarin)?",
+      "jelaskan": "Menanyakan kesan tentang sesuatu yang sudah lewat. Jawab dengan sifat bentuk lampau.",
+      "contoh": [["りょこうは どうでしたか。", "Liburannya bagaimana?"], ["とても たのしかったです。", "Sangat menyenangkan."]]
+    },
+    {
+      "pola": "N1 から N2 まで",
+      "arti": "dari N1 sampai N2 (waktu/tempat)",
+      "jelaskan": "Bisa untuk waktu maupun tempat.",
+      "contoh": [["八じから 五じまで はたらきます。", "Bekerja dari jam 8 sampai jam 5."], ["うちから 会社まで 三十ぷんです。", "Dari rumah ke kantor 30 menit."]]
+    },
+    {
+      "pola": "Kendaraan で いきます",
+      "arti": "pergi naik (kendaraan)",
+      "jelaskan": "で menunjukkan alat/sarana. Khusus jalan kaki: あるいて いきます (tanpa で).",
+      "contoh": [["でんしゃで 会社へ いきます。", "Saya ke kantor naik kereta."], ["えきまで あるいて いきます。", "Ke stasiun jalan kaki."]]
+    },
+    {
+      "pola": "Durasi + ぐらい かかります",
+      "arti": "memakan waktu/biaya sekitar …",
+      "jelaskan": "Durasi: 〜じかん (jam), 〜ふん (menit), 〜にち (hari), 〜しゅうかん (minggu), 〜かげつ (bulan), 〜ねん (tahun). Tanya: どのぐらい かかりますか.",
+      "contoh": [["ジャカルタから チカランまで 一じかんぐらい かかります。", "Jakarta ke Cikarang sekitar 1 jam."]]
+    },
+    {
+      "pola": "あまり 〜ないです",
+      "arti": "tidak begitu …",
+      "jelaskan": "あまり selalu dipasangkan dengan bentuk negatif.",
+      "contoh": [["きょうは あまり さむく ないです。", "Hari ini tidak begitu dingin."]]
+    },
+    {
+      "pola": "N1 や N2 (など)",
+      "arti": "N1, N2, dan lain-lain",
+      "jelaskan": "Menyebut sebagian contoh. Beda dengan と yang menyebut semua.",
+      "contoh": [["しんぶんや ざっしなどを よみます。", "Saya membaca koran, majalah, dan sebagainya."]]
+    },
+    {
+      "pola": "N1 か N2",
+      "arti": "N1 atau N2",
+      "jelaskan": "Memberi pilihan, termasuk perkiraan angka: 二じかんか 三じかん = 2 atau 3 jam.",
+      "contoh": [["コーヒーか こうちゃを のみます。", "Saya minum kopi atau teh."]]
+    },
+    {
+      "pola": "それから / しかし",
+      "arti": "setelah itu / tetapi",
+      "jelaskan": "それから = urutan kegiatan. しかし = kalimat kedua berlawanan dengan yang pertama.",
+      "contoh": [["ごはんを たべました。それから、テレビを みました。", "Saya makan. Setelah itu menonton TV."], ["バスは やすいです。しかし、おそいです。", "Bus murah. Tetapi lambat."]]
+    }
+  ],
+  "ungkapan": [
+    ["やすみは どうでしたか。", "Menanyakan kesan liburan"],
+    ["どのぐらい かかりますか。", "Menanyakan lama/biaya"]
+  ],
+  "partikel": [
+    {"soal": "うち＿ えき＿ あるいて いきます。", "jawab": "から / まで", "arti": "Dari rumah ke stasiun jalan kaki."},
+    {"soal": "でんしゃ＿ 会社へ いきます。", "jawab": "で", "arti": "Saya ke kantor naik kereta."},
+    {"soal": "しんぶん＿ ざっしなどを よみます。", "jawab": "や", "arti": "Saya membaca koran, majalah, dan lain-lain."},
+    {"soal": "コーヒー＿ こうちゃを のみます。", "jawab": "か", "arti": "Saya minum kopi atau teh."},
+    {"soal": "しゅくだいは むずかしく な＿＿＿です。", "jawab": "かった", "arti": "PR-nya tidak sulit."},
+    {"soal": "ごはんを たべました。＿＿＿、テレビを みました。", "jawab": "それから", "arti": "Saya makan. Setelah itu menonton TV."}
+  ]
+}

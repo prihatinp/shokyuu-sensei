@@ -1,0 +1,156 @@
+{
+  "bab": 4,
+  "judul": "やすみの 日 (1)",
+  "judul_id": "Hari libur (1)",
+  "tema": "Tanggal, bulan, tahun, dan umur; pergi–datang–pulang (へ / から); bentuk lampau です (でした); mengajak dengan 〜ましょう.",
+  "halaman_buku": [25, 32],
+  "kotoba": [
+    {"jp": "こども", "kanji": "子ども", "arti": "anak", "kat": "orang"},
+    {"jp": "おとな", "kanji": "大人", "arti": "orang dewasa", "kat": "orang"},
+    {"jp": "かいしゃ", "kanji": "会社", "arti": "perusahaan, kantor", "kat": "tempat"},
+    {"jp": "しごと", "kanji": "仕事", "arti": "pekerjaan", "kat": "lainnya"},
+    {"jp": "こうえん", "kanji": "公園", "arti": "taman (umum)", "kat": "tempat"},
+    {"jp": "けん", "kanji": "券", "arti": "tiket, karcis", "kat": "benda"},
+    {"jp": "しゃしん", "kanji": "写真", "arti": "foto", "kat": "benda"},
+    {"jp": "シャッター", "kanji": "", "arti": "tombol rana kamera", "kat": "benda"},
+    {"jp": "がいこく", "kanji": "外国", "arti": "luar negeri", "kat": "tempat"},
+    {"jp": "くに", "kanji": "国", "arti": "negara; kampung halaman", "kat": "tempat"},
+    {"jp": "りゅうがくせい", "kanji": "留学生", "arti": "mahasiswa asing", "kat": "orang"},
+    {"jp": "とし", "kanji": "年", "arti": "umur; tahun", "kat": "waktu"},
+    {"jp": "ほんや", "kanji": "本屋", "arti": "toko buku", "kat": "tempat"},
+    {"jp": "ゆうびんきょく", "kanji": "郵便局", "arti": "kantor pos", "kat": "tempat"},
+    {"jp": "ぎんこう", "kanji": "銀行", "arti": "bank", "kat": "tempat"},
+    {"jp": "みせ", "kanji": "店", "arti": "toko", "kat": "tempat"},
+    {"jp": "たんじょうび", "kanji": "誕生日", "arti": "hari ulang tahun", "kat": "waktu"},
+    {"jp": "せいねんがっぴ", "kanji": "生年月日", "arti": "tanggal lahir", "kat": "waktu"},
+    {"jp": "こどものひ", "kanji": "子どもの日", "arti": "Hari Anak (5 Mei)", "kat": "waktu"},
+    {"jp": "ひ", "kanji": "日", "arti": "hari", "kat": "waktu"},
+    {"jp": "ことし", "kanji": "今年", "arti": "tahun ini", "kat": "waktu"},
+    {"jp": "きょねん", "kanji": "去年", "arti": "tahun lalu", "kat": "waktu"},
+    {"jp": "らいねん", "kanji": "来年", "arti": "tahun depan", "kat": "waktu"},
+    {"jp": "おととし", "kanji": "", "arti": "dua tahun lalu", "kat": "waktu"},
+    {"jp": "さらいねん", "kanji": "再来年", "arti": "dua tahun lagi", "kat": "waktu"},
+    {"jp": "こんげつ", "kanji": "今月", "arti": "bulan ini", "kat": "waktu"},
+    {"jp": "せんげつ", "kanji": "先月", "arti": "bulan lalu", "kat": "waktu"},
+    {"jp": "らいげつ", "kanji": "来月", "arti": "bulan depan", "kat": "waktu"},
+    {"jp": "まいつき", "kanji": "毎月", "arti": "setiap bulan", "kat": "waktu"},
+    {"jp": "まいとし / まいねん", "kanji": "毎年", "arti": "setiap tahun", "kat": "waktu"},
+    {"jp": "ついたち", "kanji": "一日", "arti": "tanggal 1", "kat": "tanggal"},
+    {"jp": "ふつか", "kanji": "二日", "arti": "tanggal 2", "kat": "tanggal"},
+    {"jp": "みっか", "kanji": "三日", "arti": "tanggal 3", "kat": "tanggal"},
+    {"jp": "よっか", "kanji": "四日", "arti": "tanggal 4", "kat": "tanggal"},
+    {"jp": "いつか", "kanji": "五日", "arti": "tanggal 5", "kat": "tanggal"},
+    {"jp": "むいか", "kanji": "六日", "arti": "tanggal 6", "kat": "tanggal"},
+    {"jp": "なのか", "kanji": "七日", "arti": "tanggal 7", "kat": "tanggal"},
+    {"jp": "ようか", "kanji": "八日", "arti": "tanggal 8", "kat": "tanggal"},
+    {"jp": "ここのか", "kanji": "九日", "arti": "tanggal 9", "kat": "tanggal"},
+    {"jp": "とおか", "kanji": "十日", "arti": "tanggal 10", "kat": "tanggal"},
+    {"jp": "はつか", "kanji": "二十日", "arti": "tanggal 20", "kat": "tanggal"},
+    {"jp": "しがつ", "kanji": "四月", "arti": "April", "kat": "bulan"},
+    {"jp": "しちがつ", "kanji": "七月", "arti": "Juli", "kat": "bulan"},
+    {"jp": "くがつ", "kanji": "九月", "arti": "September", "kat": "bulan"},
+    {"jp": "はたち", "kanji": "二十歳", "arti": "umur 20 tahun", "kat": "umur"},
+    {"jp": "いつ", "kanji": "", "arti": "kapan", "kat": "kata tanya"},
+    {"jp": "なんにち", "kanji": "何日", "arti": "tanggal berapa", "kat": "kata tanya"},
+    {"jp": "なんがつ", "kanji": "何月", "arti": "bulan apa", "kat": "kata tanya"},
+    {"jp": "なんねん", "kanji": "何年", "arti": "tahun berapa", "kat": "kata tanya"},
+    {"jp": "なんさい", "kanji": "何歳", "arti": "umur berapa", "kat": "kata tanya"},
+    {"jp": "いきます", "kanji": "行きます", "arti": "pergi", "kat": "kerja"},
+    {"jp": "きます", "kanji": "来ます", "arti": "datang", "kat": "kerja"},
+    {"jp": "かえります", "kanji": "帰ります", "arti": "pulang", "kat": "kerja"},
+    {"jp": "かいます", "kanji": "買います", "arti": "membeli", "kat": "kerja"},
+    {"jp": "とります", "kanji": "撮ります", "arti": "memotret (しゃしんを〜)", "kat": "kerja"},
+    {"jp": "わかります", "kanji": "分かります", "arti": "mengerti", "kat": "kerja"},
+    {"jp": "おなじ", "kanji": "同じ", "arti": "sama", "kat": "lainnya"},
+    {"jp": "いっしょに", "kanji": "一緒に", "arti": "bersama-sama", "kat": "keterangan"},
+    {"jp": "そうです", "kanji": "", "arti": "betul, begitu", "kat": "ungkapan"},
+    {"jp": "そうしましょう", "kanji": "", "arti": "ayo begitu saja", "kat": "ungkapan"},
+    {"jp": "すみません", "kanji": "", "arti": "permisi; maaf", "kat": "ungkapan"},
+    {"jp": "おねがいします", "kanji": "お願いします", "arti": "tolong, mohon", "kat": "ungkapan"},
+    {"jp": "ありがとう ございました", "kanji": "", "arti": "terima kasih (atas yang sudah dilakukan)", "kat": "ungkapan"},
+    {"jp": "きょうと", "kanji": "京都", "arti": "Kyoto", "kat": "tempat"},
+    {"jp": "おおさか", "kanji": "大阪", "arti": "Osaka", "kat": "tempat"},
+    {"jp": "とうきょう", "kanji": "東京", "arti": "Tokyo", "kat": "tempat"},
+    {"jp": "〜がつ", "kanji": "〜月", "arti": "bulan ke-…", "kat": "akhiran"},
+    {"jp": "〜にち / 〜か", "kanji": "〜日", "arti": "tanggal …", "kat": "akhiran"},
+    {"jp": "〜ねん", "kanji": "〜年", "arti": "tahun …", "kat": "akhiran"},
+    {"jp": "〜さい", "kanji": "〜歳", "arti": "umur … tahun", "kat": "akhiran"}
+  ],
+  "kanji": [
+    {"k": "子", "on": ["シ"], "kun": ["こ"], "arti": "anak", "contoh": [["子ども", "こども", "anak"]]},
+    {"k": "円", "on": ["エン"], "kun": [], "arti": "yen; lingkaran", "contoh": [["三百円", "さんびゃくえん", "300 yen"]]},
+    {"k": "方", "on": ["ホウ"], "kun": ["かた"], "arti": "orang (sopan); arah", "contoh": [["あの方", "あのかた", "beliau itu"]]},
+    {"k": "学", "on": ["ガク"], "kun": ["まな(ぶ)"], "arti": "belajar", "contoh": [["学生", "がくせい", "pelajar"]]},
+    {"k": "生", "on": ["セイ"], "kun": ["い(きる)", "う(まれる)"], "arti": "hidup; lahir", "contoh": [["学生", "がくせい", "pelajar"], ["生年月日", "せいねんがっぴ", "tanggal lahir"]]},
+    {"k": "才", "on": ["サイ"], "kun": [], "arti": "umur (… tahun)", "contoh": [["十八才", "じゅうはっさい", "18 tahun"]]},
+    {"k": "年", "on": ["ネン"], "kun": ["とし"], "arti": "tahun; umur", "contoh": [["来年", "らいねん", "tahun depan"], ["おなじ年", "おなじとし", "seumuran"]]}
+  ],
+  "bunpo": [
+    {
+      "pola": "N でした / N では ありませんでした",
+      "arti": "dulu N / dulu bukan N",
+      "jelaskan": "Bentuk lampau dari です dan では ありません.",
+      "contoh": [["きのうは やすみでした。", "Kemarin libur."], ["きのうは しごとでは ありませんでした。", "Kemarin bukan hari kerja."]]
+    },
+    {
+      "pola": "Tempat へ いきます / きます / かえります",
+      "arti": "pergi / datang / pulang ke (tempat)",
+      "jelaskan": "へ (dibaca 'e') menunjukkan arah tujuan. Bisa diganti に dengan arti hampir sama.",
+      "contoh": [["あした ぎんこうへ いきます。", "Besok saya pergi ke bank."], ["六じに うちへ かえります。", "Jam 6 saya pulang ke rumah."]]
+    },
+    {
+      "pola": "Tempat から きます",
+      "arti": "datang dari (tempat)",
+      "jelaskan": "から menunjukkan titik asal.",
+      "contoh": [["わたしは インドネシアから きました。", "Saya datang dari Indonesia."]]
+    },
+    {
+      "pola": "いつ V-ますか",
+      "arti": "Kapan melakukan V?",
+      "jelaskan": "いつ = kapan. Tidak memakai に. Jawabannya bisa tanggal + に.",
+      "contoh": [["いつ にほんへ きましたか。", "Kapan datang ke Jepang?"], ["きょねんの 四月に きました。", "April tahun lalu."]]
+    },
+    {
+      "pola": "N1 で、N2 です",
+      "arti": "N1, dan N2 (menyambung dua kalimat kata benda)",
+      "jelaskan": "で adalah bentuk sambung dari です. Dua kalimat です bisa digabung menjadi satu.",
+      "contoh": [["ブディさんは エンジニアで、三十五さいです。", "Budi insinyur, dan berumur 35 tahun."]]
+    },
+    {
+      "pola": "V-ましょう",
+      "arti": "Ayo V! (mengajak)",
+      "jelaskan": "Ganti ます dengan ましょう untuk mengajak. Jawaban setuju: ええ、そうしましょう。",
+      "contoh": [["いっしょに しゃしんを とりましょう。", "Ayo foto bersama."], ["ええ、そうしましょう。", "Ya, ayo."]]
+    },
+    {
+      "pola": "Tanggal: ついたち・ふつか … とおか、はつか",
+      "arti": "cara baca tanggal",
+      "jelaskan": "Tanggal 1–10, 14, 20, 24 punya bacaan khusus. Bulan: 四月 = しがつ, 七月 = しちがつ, 九月 = くがつ. Urutan Jepang: tahun → bulan → tanggal.",
+      "contoh": [["八月 十七日", "はちがつ じゅうしちにち (17 Agustus)"], ["二〇二六年 十月 三十一日", "31 Oktober 2026"]]
+    },
+    {
+      "pola": "なんさいですか / 〜さいです",
+      "arti": "Umur berapa? / umur … tahun",
+      "jelaskan": "Bacaan khusus: 1 = いっさい, 8 = はっさい, 10 = じゅっさい, 20 = はたち. Lebih sopan: おいくつですか.",
+      "contoh": [["いま なんさいですか。", "Sekarang umur berapa?"], ["はたちです。", "Dua puluh tahun."]]
+    },
+    {
+      "pola": "N1 と N2 は おなじ N3 です",
+      "arti": "N1 dan N2 sama-sama N3",
+      "jelaskan": "おなじ langsung di depan kata benda, tanpa の.",
+      "contoh": [["ブディさんと わたしは おなじ 会社です。", "Budi dan saya satu perusahaan."]]
+    }
+  ],
+  "ungkapan": [
+    ["すみません。〜を おねがいします。", "Minta tolong ke orang lain"],
+    ["ありがとう ございました。", "Terima kasih setelah dibantu"]
+  ],
+  "partikel": [
+    {"soal": "あした ぎんこう＿ いきます。", "jawab": "へ", "arti": "Besok saya pergi ke bank."},
+    {"soal": "わたしは インドネシア＿ きました。", "jawab": "から", "arti": "Saya datang dari Indonesia."},
+    {"soal": "八月 十七日＿ うちへ かえります。", "jawab": "に", "arti": "Tanggal 17 Agustus saya pulang ke rumah."},
+    {"soal": "きのうは やすみ＿＿＿。", "jawab": "でした", "arti": "Kemarin libur."},
+    {"soal": "いっしょに しゃしん＿ とりましょう。", "jawab": "を", "arti": "Ayo foto bersama."},
+    {"soal": "ブディさんは エンジニア＿、三十さいです。", "jawab": "で", "arti": "Budi insinyur, dan berumur 30 tahun."}
+  ]
+}

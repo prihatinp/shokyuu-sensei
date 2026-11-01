@@ -1,11 +1,11 @@
 /* sw.js — supaya aplikasi tetap jalan offline. Naikkan VERSION setiap kali update file. */
-const VERSION = "ss-v1.0.2";
+const VERSION = "ss-v1.1.0";
 const SHELL = [
   "./", "./index.html", "./css/style.css",
   "./js/store.js", "./js/speech.js", "./js/sensei.js", "./js/app.js", "./js/qrcode.js",
   "./manifest.webmanifest",
   "./icons/icon-192.png", "./icons/icon-512.png",
-  "./data/index.json", "./data/bab1.json", "./data/bab2.json", "./data/bab3.json"
+  "./data/index.json", "./data/bab1.json", "./data/bab2.json", "./data/bab3.json", "./data/bab4.json", "./data/bab5.json", "./data/bab6.json"
 ];
 const RUNTIME_HOSTS = ["fonts.googleapis.com", "fonts.gstatic.com", "cdnjs.cloudflare.com"];
 
